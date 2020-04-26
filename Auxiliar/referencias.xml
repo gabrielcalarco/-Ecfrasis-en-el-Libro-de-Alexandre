@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Índice de referencias</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Gabriel Calarco</authority>
+            <availability>
+               <licence>
+                  <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                     Attribution-NonCommercial-ShareAlike 4.0 International</ref>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <listPerson>
+         
+            <person xml:id="ALX">
+               <persName type="standard">Alejandro Magno</persName>
+               <persName type="form">Alexandre</persName>
+               <idno type="???">url</idno>
+            </person>    
+
+            <person xml:id="APL">
+               <persName type="standard">Apeles</persName>
+               <persName type="form">Apeles</persName>
+               <idno type="???">url</idno>
+            </person>  
+
+            <person xml:id="DAR">
+               <persName type="standard">Darío</persName>
+               <persName type="form">Darío</persName>
+               <idno type="???">url</idno>
+            </person>  
+            
+            <person xml:id="FIL">
+               <persName type="standard">Filipo</persName>
+               <persName type="form">Felepo</persName>
+               <idno type="???">url</idno>
+            </person>      
+            
+            <person xml:id="FLO">
+               <persName type="standard">Filosofía</persName>
+               <persName type="form">Filosofía</persName>
+               <idno type="???">url</idno>
+            </person>
+    
+            <person xml:id="VUL">
+               <persName type="standard">Vulcano</persName>
+               <persName type="form">Vulcán</persName>
+               <idno type="???">url</idno>
+            </person>  
+            
+            <person xml:id="XER">
+               <persName type="standard">Xerxes</persName>
+               <persName type="form">Serses</persName>
+               <idno type="???">url</idno>
+            </person>  
+            
+            <person xml:id="AQL">
+               <persName type="standard">Aquiles</persName>
+               <persName type="form">Aquiles</persName>
+               <idno type="???">url</idno>
+            </person>  
+
+            <person xml:id="HEC">
+               <persName type="standard">Héctor</persName>
+               <persName type="form">Éctor</persName>
+               <idno type="???">url</idno>
+            </person>  
+
+         </listPerson>
+         
+         
+         
+         <listPlace>     
+            
+            <place xml:id="BAB">
+               <placeName>Babilonia</placeName>
+               <idno type="???">url</idno>
+            </place>
+
+            <place xml:id="PIS">
+               <placeName>Pisa</placeName>
+               <idno type="???">url</idno>
+            </place>
+            
+            <place xml:id="LOM">
+               <placeName>Lombardía</placeName>
+               <idno type="???">url</idno>
+            </place>
+          
+         </listPlace>
+         
+        
+      </body>
+   </text>
+</TEI>
