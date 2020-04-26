@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schemas/myTEI-converted-from-compact.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="schemas/myTEI-converted-from-compact.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    
+    <teiHeader>
+        <fileDesc>
+            
+            <titleStmt>
+                <title type="main">Libro de Alexandre</title>
+                <title type="sub">Escudo de Alejandro</title>
+                <author ref="#ANM">Anónimo</author>
+                <editor xml:id="GAC">Gabriel A. Calarco</editor>
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher>A definir</publisher>
+                <availability>
+                    <licence>Creative Commons Reconocimiento – CompartirIgual</licence>
+                </availability>
+            </publicationStmt>
+           
+            <sourceDesc>
+                <listBibl>
+                    <bibl type="book"> 
+                        <title>Libro de Alexandre</title>
+                        <editor>Juan Casas Rigall</editor>
+                        <publisher>Real Academia Española</publisher>
+                        <date>2014</date>
+                        <pubPlace>Madrid</pubPlace>
+                    </bibl>
+                </listBibl>
+                    <msDesc>
+                        <msIdentifier>
+                            <repository>Biblioteca Nacional (Madrid)</repository>
+                            <idno>V-5-n. 10</idno>
+                            <altIdentifier>
+                                <idno>O</idno>
+                            </altIdentifier>
+                        </msIdentifier>        
+                    </msDesc> 
+                
+                     <msDesc>      
+                         <msIdentifier>
+                             <repository>Bibliothèque Nationale de France (París)</repository>
+                            <idno>Esp. 488</idno>
+                            <altIdentifier>
+                                <idno>P</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                    </msDesc>                    
+            </sourceDesc>
+        
+        </fileDesc>
+        
+        <profileDesc>    
+            <langUsage>
+                <language ident="sp">Castellano</language>
+            </langUsage>
+        </profileDesc>
+  
+        <revisionDesc>
+            <listChange>
+                <change/>
+            </listChange>
+        </revisionDesc>
+        
+    </teiHeader>
+   
+    <text>
+        <body>
+
+            <note> Se trata de un fragmento del Libro de Alexandre</note>  
+            
+            
+            <lg type="poema" 
+                subtype="épica-culta" 
+                met="14, 14, 14, 14" 
+                rhyme="AAAA"    
+                unisonancia="singular" 
+                isometrismo="isométrico" 
+                isoestrofismo="heteroestrófico" 
+                asonancia="consonante"> 
+  
+
+                  
+                    <lg n="96" type="terástico" met="14, 14, 14, 14" rhyme="AAAA">
+                        
+                        <l xml:id="L1">La <term cRef="xxx">obra</term> del <term cRef="xxx">escudo</term>       vos sabré bien cont<rhyme label="ar">ar</rhyme>:</l>
+                        <note n="geografía" source="#UND">
+                        <l xml:id="L2">ý era <term cRef="xxx">debuxada</term>       la tierra e la m<rhyme label="ar">ar</rhyme>,</l>
+                        <l xml:id="L3">los regnos e las villas,         las aguas de prest<rhyme label="ar">ar</rhyme>,</l>
+                        <l xml:id="L4">cascuno con sus <term cRef="xxx">títulos</term>      por mejor <term cRef="xxx">devis<rhyme label="ar">ar</rhyme></term>.</l>
+                        </note>
+                    </lg>
+
+               
+                <note n="zoología" source="#ALX">
+                     <lg n="97" type="terástico" met="14, 14, 14, 14" rhyme="AAAA">     
+                       
+                        <l xml:id="L5"> En medio de la tavla        estava un le<rhyme label="on">ón</rhyme></l>
+                        <l xml:id="L6">que tenié yus' la garfa      a toda <placeName ref="#BAB">Babil<rhyme label="on">ón</rhyme></placeName>:</l>
+                        <l xml:id="L7">¡catava contra <persName ref="#DAR">Dario</persName>,        semejava fell<rhyme label="on">ón</rhyme>,</l>
+                        <l xml:id="L8">ca vermeja e turvia       tenié su visï<rhyme label="on">ón</rhyme>!</l>  
+                    </lg>
+                 </note> 
+                 
+                   <lg n="98" type="terástico" met="14, 14, 14, 14" rhyme="AAAA">
+                      
+                        <l xml:id="L9">Tanta echava de lumbre       e tanto relamp<rhyme label="aba">ava</rhyme></l>
+                        <l xml:id="L10">que vençié a la Luna         e al Sol refert<rhyme label="aba">ava</rhyme>:</l>
+                    <l xml:id="L11">¡<persName ref="#APL">Apeles</persName>, que nul omne        mejor d'él non <term cRef="xxx">obr<rhyme label="aba">ava</rhyme></term>,</l>
+                        <l xml:id="L12">por mejor lo tenié       quanto más lo <term cRef="xxx">cat<rhyme label="aba">ava</rhyme></term>!</l>
+                    </lg>              
+            
+            </lg>
+        </body>
+    </text>
+</TEI>

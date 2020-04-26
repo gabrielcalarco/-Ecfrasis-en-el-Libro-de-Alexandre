@@ -79,7 +79,32 @@
                <persName type="standard">Héctor</persName>
                <persName type="form">Éctor</persName>
                <idno type="???">url</idno>
+            </person>
+            
+            <person xml:id="NAB">
+               <persName type="standard">Nabucodonosor</persName>
+               <persName type="form">Nabucodonosor</persName>
+               <idno type="???">url</idno>
+            </person>     
+            
+            <person xml:id="BAL">
+               <persName type="standard">Baltasar</persName>
+               <persName type="form">Baltasar</persName>
+               <idno type="???">url</idno>
+            </person>    
+
+            <person xml:id="CIR">
+               <persName type="standard">Ciro</persName>
+               <persName type="form">Çiro</persName>
+               <idno type="???">url</idno>
             </person>  
+
+            <person xml:id="CRE">
+               <persName type="standard">Creso</persName>
+               <persName type="form">Cresus</persName>
+               <idno type="???">url</idno>
+            </person>  
+
 
          </listPerson>
          
@@ -101,7 +126,49 @@
                <placeName>Lombardía</placeName>
                <idno type="???">url</idno>
             </place>
-          
+
+            <place xml:id="JUD">
+               <placeName>Judea</placeName>
+               <idno type="???">url</idno>
+            </place>
+
+            <place xml:id="CAL">
+               <placeName>Caldea</placeName>
+               <idno type="???">url</idno>
+            </place>
+            
+            <place xml:id="SIO">
+               <placeName>Sión</placeName>
+               <idno type="???">url</idno>
+            </place>            
+
+            <place xml:id="TRI">
+               <placeName>Trípoli</placeName>
+               <idno type="???">url</idno>
+            </place>
+
+            <place xml:id="TAB">
+               <placeName>Tabarea</placeName>
+               <idno type="???">url</idno>
+            </place>
+
+            <place xml:id="JER">
+               <placeName>Jerusalem</placeName>
+               <idno type="???">url</idno>
+            </place>
+
+            <place xml:id="PER">
+               <placeName>Persia</placeName>
+               <idno type="???">url</idno>
+            </place>
+
+
+            <place xml:id="ISR">
+               <placeName>Israel</placeName>
+               <idno type="???">url</idno>
+            </place>
+            
+
          </listPlace>
          
         

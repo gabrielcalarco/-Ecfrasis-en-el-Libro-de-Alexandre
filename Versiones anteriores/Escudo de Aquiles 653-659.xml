@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schemas/myTEI-converted-from-compact.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="schemas/myTEI-converted-from-compact.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    
+    <teiHeader>
+        <fileDesc>
+            
+            <titleStmt>
+                <title type="main">Libro de Alexandre</title>
+                <title type="sub">Escudo de Aquiles</title>
+                <author ref="#ANM">Anónimo</author>
+                <editor xml:id="GAC">Gabriel A. Calarco</editor>
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher>A definir</publisher>
+                <availability>
+                    <licence>Creative Commons Reconocimiento – CompartirIgual</licence>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <listBibl>
+                    <bibl type="book"> 
+                        <title>Libro de Alexandre</title>
+                        <editor>Juan Casas Rigall</editor>
+                        <publisher>Real Academia Española</publisher>
+                        <date>2014</date>
+                        <pubPlace>Madrid</pubPlace>
+                    </bibl>
+                </listBibl>
+                
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Nacional (Madrid)</repository>
+                        <idno>V-5-n.10</idno>
+                        <altIdentifier>
+                            <idno>O</idno>
+                        </altIdentifier>
+                    </msIdentifier>        
+                </msDesc> 
+                
+                <msDesc>      
+                    <msIdentifier>
+                        <repository>Bibliotheque Nationale de France (París)</repository>
+                        <idno>Esp. 488</idno>
+                        <altIdentifier>
+                            <idno>P</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                </msDesc>    
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <profileDesc>    
+            <langUsage>
+                <language ident="sp">Castellano</language>
+            </langUsage>
+        </profileDesc>
+        
+        <revisionDesc>
+            <listChange>
+                <change/>
+            </listChange>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <note> Se trata de un fragmento del Libro de Alexandre</note>  
+            
+            
+            <lg type="poema" 
+                subtype="épica-culta" 
+                met="14, 14, 14, 14" 
+                rhyme="AAAA"    
+                unisonancia="singular" 
+                isometrismo="isométrico" 
+                isoestrofismo="heteroestrófico" 
+                asonancia="consonante"> 
+                
+                
+                
+                <lg n="653" type="terástico" met="14, 14, 14, 14" rhyme="AAAA">     
+                    <l xml:id="L1">En pocas de palabras		vos quiero destajar</l>		
+                    <l xml:id="L2">la obra de las <term cRef="xxx">armas</term>		qu’<persName ref="#AQL">Aquiles</persName> mandó far,</l>	
+                    <l xml:id="L3">que, si por orden todo		lo quesiés’én’ notar,</l>		
+                    <l xml:id="L4">serié un brevïario		que prendrié grant logar.</l>
+                </lg>
+                
+           <!--  Tengo un problema con la etiqueta <note>: cuando en una misma estrofa hay versos que quisiera marcar con diferentes <note>, la etiqueta <lg> me genera un
+           error de sintaxis a menos que alguna de las líneas de la estrofa queda fuera de las notas. En las estrofas siguientos esto lo resolví marcando este grupo de <lg>             con una <note> de "geografía" como el tema general de las estrofas, y usé otras <note> dentro de esa para los versos que tocan otro tema que me interesa marcar.
+           El tema con esto es que no sé si a futuro no puede resultar problemático tener marcada una <note> dentro de otra con identificadores diferentes
+           ¿A vos qué te parece?-->
+                
+                
+                <note n="geografía">
+                <lg n="654" type="terástico" met="14, 14, 14, 14" rhyme="AAAA"> 
+                    <l xml:id="L5">Omne que por espaçio	lo quesiesse asm<rhyme label="ar">ar</rhyme></l>		
+               <note n="zoología">
+                     <l xml:id="L6">ý verié los pescados		quantos son en la m<rhyme label="ar">ar</rhyme>,</l>
+               </note>	
+                    <l xml:id="L7">las unas naves ir		e las otras torn<rhyme label="ar">ar</rhyme>,</l>	
+                    <l xml:id="L8">las unas pereçer		e las otras arrib<rhyme label="ar">ar</rhyme>.</l>
+              
+                </lg> 
+                  
+                    <lg n="655" type="terástico" met="14, 14, 14, 14" rhyme="AAAA"> 
+                        <l xml:id="L9">Ý estavan las tierras		por poblar e pobl<rhyme label="adas">adas</rhyme>,</l>	
+                        <l xml:id="L10">los montes e las aguas		e las villas çerc<rhyme label="adas">adas</rhyme>,</l>
+                    <note n="torre de Babel">
+                        <l xml:id="L11">la Torre que fizieron		las gentes perjur<rhyme label="adas">adas</rhyme>,</l>	
+                    </note>	
+                    <note n="zoología">    
+                         <l xml:id="L12">las aves e las bestias		por domar e dom<rhyme label="adas">adas</rhyme>.</l>
+                    </note>
+                    </lg>
+                 
+                <lg n="656" type="terástico" met="14, 14, 14, 14" rhyme="AAAA"> 
+                        <l xml:id="L13">Ý estavan contrarios		los vientos prinçip<rhyme label="ales">ales</rhyme>,</l>
+                        <l xml:id="L14">cadaunos cuémo corren		e quáles tempor<rhyme label="ales">ales</rhyme>;</l>	
+                        <l xml:id="L15">ónde naçen los truenos		e los rayos mort<rhyme label="ales">ales</rhyme>,</l>
+                    <note n="calendario">
+                        <l xml:id="L16">cuémo son en el año		quatro tiempos cabd<rhyme label="ales">ales</rhyme>.</l>
+                    </note>
+                    </lg>
+                </note>
+                
+                 <note n="calendario">
+                     <lg n="657" type="terástico" met="14, 14, 14, 14" rhyme="AAAA"> 
+                   <l xml:id="L17">Estava don Ivierno		con vientos e gel<rhyme label="adas">adas</rhyme>,</l>		
+                    <l xml:id="L18">el Verano con flores		e dulçes mañan<rhyme label="adas">adas</rhyme>,</l>		
+                    <l xml:id="L19">Estiv’ con granados soles		e miesses espig<rhyme label="adas">adas</rhyme>,</l>	
+                    <l xml:id="L20">Atupno vendimiando		e faziendo pom<rhyme label="adas">adas</rhyme>.</l>
+                    </lg>
+                 </note>
+               
+                <note n="astronomía"> 
+                    <lg n="658" type="terástico" met="14, 14, 14, 14" rhyme="AAAA"> 
+                    <l xml:id="L21">Eran ý los doz’ signos	del Sol bien compass<rhyme label="ados">ados</rhyme>,</l>	
+                    <l xml:id="L22">los unos de los otros		igualmente taj<rhyme label="ados">ados</rhyme>;</l>	
+                    <l xml:id="L23">e las siete planetas		cuémo tienen sus gr<rhyme label="ados">ados</rhyme>s,</l>
+                    <l xml:id="L24">quáles son más raviosos		o quáles más pag<rhyme label="ados">ados</rhyme>.</l>
+                    </lg>
+                </note>
+                
+                <lg n="659" type="terástico" met="14, 14, 14, 14" rhyme="AAAA"> 
+                    <l xml:id="L25">Non es omne tan neçio	que viesse el <term cRef="xxx">esc<rhyme label="udo">udo</rhyme></term></l>		
+                    <l xml:id="L26">que non fuesse buen <term cRef="xxx">clérigo</term>		sobra bien <term cRef="xxx">entend<rhyme label="udo">udo</rhyme></term>;</l>	
+                    <l xml:id="L27">el <term cRef="xxx">maestro</term> que’l fizo		fue tan mientes met<rhyme label="udo">udo</rhyme></l>	
+            <l xml:id="L28">que metió en las <term cRef="xxx">armas</term>	<term cRef="xxx">granado</term> e <term cRef="xxx">men<rhyme label="udo">udo</rhyme></term>.</l>
+                    </lg>
+            </lg>
+        </body>
+    </text>
+</TEI>
