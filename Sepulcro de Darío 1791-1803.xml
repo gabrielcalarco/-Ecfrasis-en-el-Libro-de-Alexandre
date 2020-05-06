@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schemas/myTEI-taxonomy-.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    
+    <teiHeader>
+        <fileDesc>
+            
+            <titleStmt>
+                <title type="main">Libro de Alexandre</title>
+                <title type="sub">Sepulcro de Darío</title>
+                <author ref="#ANM">Anónimo</author>
+                <editor xml:id="GAC">Gabriel A. Calarco</editor>
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher>A definir</publisher>
+                <availability>
+                    <licence>Creative Commons Reconocimiento – CompartirIgual</licence>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <listBibl>
+                    <bibl type="book"> 
+                        <title>Libro de Alexandre</title>
+                        <editor>Juan Casas Rigall</editor>
+                        <publisher>Real Academia Española</publisher>
+                        <date>2014</date>
+                        <pubPlace>Madrid</pubPlace>
+                    </bibl>
+                </listBibl>
+                
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Nacional (Madrid)</repository>
+                        <idno>V-5-n.10</idno>
+                        <altIdentifier>
+                            <idno>O</idno>
+                        </altIdentifier>
+                    </msIdentifier>        
+                </msDesc> 
+                
+                <msDesc>      
+                    <msIdentifier>
+                        <repository>Bibliotheque Nationale de France (París)</repository>
+                        <idno>Esp. 488</idno>
+                        <altIdentifier>
+                            <idno>P</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                </msDesc>    
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <profileDesc>    
+            <langUsage>
+                <language ident="sp">Castellano</language>
+            </langUsage>
+        </profileDesc>
+        
+        <revisionDesc>
+            <listChange>
+                <change/>
+            </listChange>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <note>Se trata de un fragmento del Libro de Alexandre</note>  
+            
+            
+            <lg type="poema" 
+                subtype="épica-culta" 
+                met="14, 14, 14, 14" 
+                rhyme="AAAA"   
+                unisonancia="singular" 
+                isometrismo="isométrico" 
+                isoestrofismo="heteroestrófico" 
+                asonancia="consonante"> 
+                
+ 
+                <lg n="1239" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#sepulcro">
+                    <l xml:id="L1"><persName ref="#APL">Apeles</persName>, en comedio, <caesura/><term cRef="26">obró</term> la <term cRef="64">sepoltura</term>:</l>
+                    <l xml:id="L2">la <term cRef="112">tumba</term> de primero, <caesura/>después la <term cRef="113">cobertura</term>;</l>		
+                    <l xml:id="L3">las <term cRef="115">basas</term> en tres guisas, <caesura/>de comunal <term cRef="47">mesura</term>,</l>	
+                    <l xml:id="L4">tant’eran bien <term cRef="33">juntadas</term> <caesura/>que non <term cRef="368">pareçié juntura</term>.</l>
+                </lg>
+                
+                <lg n="1239" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#sepulcro #tiempo">
+                    <l xml:id="L5"><term cRef="28">Debuxó</term> el <term cRef="64">sepulcro</term> <caesura/>a muy grandes <term cRef="199">maravellas</term>:</l>
+                    <l xml:id="L6" ana="#astronomia">cuémo corre el <term cRef="254">Sol</term>, <caesura/>la <term cRef="255">Luna</term> e las <term cRef="257">estrellas</term>;</l>
+                    <l xml:id="L7" ana="#astronomia #calendario">cuémo passan las noches, <caesura/>los días en pues ellas;</l>	
+                    <l xml:id="L8" ana="#calendario">cuémo fazen las dueñas <caesura/>en <term cRef="270">mayo</term> las corellas;</l>
+                </lg>
+                
+                <lg n="1239" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#sepulcro #mapamundi">
+                    <l xml:id="L9">quáles <term cRef="233">tierras</term> son buenas <caesura/>de panes e de vinos,</l>
+                    <l xml:id="L10">quáles <term cRef="235">pueblos</term> son ricos <caesura/>e quáles son mesquinos,</l>
+                    <l xml:id="L11">de quál lugar a quál <caesura/>responden los <term cRef="240">caminos</term>,</l>	
+                    <l xml:id="L12">cüémo han d’andar <caesura/>por ellos los peregrinos.</l>
+                </lg>
+                
+                <lg n="1239" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#sepulcro #mapamundi">
+                    <l xml:id="L13">Ý eran los <term cRef="332">grïegos</term>, <caesura/>qué fazién los <term cRef="333">latinos</term>,</l>		
+                    <l xml:id="L14">e <persName ref="#SAU">Saúl el vïejo</persName> <caesura/>con todos sus vezinos;</l>		
+                    <l xml:id="L15">cuémo yazién los <term cRef="230">mares</term> <caesura/>e los <term cRef="231">ríos</term> vezinos,</l>	
+                    <l xml:id="L16">cuémo sorven los <term cRef="231">ríos</term> <caesura/>los grandes a los chicos.</l>
+                </lg>
+                
+                <lg n="1239" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#sepulcro #mapamundi">
+                    <l xml:id="L17"><placeName ref="#LIB">Libia</placeName> era de miesses <caesura/>rica e avondada;</l>
+                    <l xml:id="L18"><placeName ref="#EGP">la tierra de <persName ref="#AMO">Amón</persName></placeName>, <caesura/>de pluvia muy menguada,</l>
+                    <l xml:id="L19">rïégala <term cRef="348">Egipto</term>, <caesura/>tiénela muy bastada;</l>		
+                    <l xml:id="L20">el marfil es en <placeName ref="#IND">India</placeName>, <caesura/>onde es tan nombrada.</l>
+                </lg>
+                
+                <lg n="1239" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#sepulcro #mapamundi">
+                    <l xml:id="L21">Es de piedras preçiosas	<caesura/><placeName ref="#AFR">África</placeName> bien poblada;</l>
+                    <l xml:id="L22">en ella yaz’ <placeName ref="#MAR">Marruecos</placeName>, <caesura/>essa çibdat contada;</l>
+                    <l xml:id="L23"><placeName ref="#GRE">Greçïa</placeName>, por <placeName ref="#ATE">Atenas</placeName> <caesura/>de seso alumbrada;</l>
+                    <l xml:id="L24"><placeName ref="#ROM">Roma</placeName> yaz’ sobre <term cRef="349">Tibre</term>, <caesura/>de buen muro çercada;</l>
+                </lg>
+                
+                <lg n="1239" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#sepulcro #mapamundi">
+                    <l xml:id="L25"><term cRef="347">los pueblos de <placeName>España</placeName></term>, <caesura/>cómo son tan ligeros;</l>
+                    <l xml:id="L26"><term cRef="202">pareçién</term> los <term cRef="334">françeses</term>, <caesura/>valientes cavalleros;</l>
+                    <l xml:id="L27"><placeName ref="#CHA">Champaña</placeName>, que aqueda <caesura/>los vinos delanteros;</l>
+                    <l xml:id="L28"><placeName ref="#SAB">Saba</placeName>, do el ençenso <caesura/>miden a sesteros;</l>
+                </lg>
+                
+                <lg n="1239" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#sepulcro #mapamundi">
+                    <l xml:id="L29">cuémo se preçian mucho <caesura/>por <persName ref="#ART">Artús</persName> los <term cRef="335">bretones</term>,</l>
+                    <l xml:id="L30">cuémo son los <term cRef="336">normanos</term> <caesura/>orgullosos varones;</l>
+                    <l xml:id="L31"><term cRef="337">ingleses</term> son fermosos, <caesura/>de blandos coraçones;</l>
+                    <l xml:id="L32"><term cRef="338">lombardos</term>, cobdiçiosos; <caesura/><term cRef="339">alemanes</term>, fellones.</l>
+                </lg>
+                
+                <lg n="1239" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#sepulcro #edaddelmundo">
+                    <l xml:id="L33">Allí <term cRef="76">escrivió</term> la cuenta, <caesura/>ca de cor la sabié;</l>
+                    <l xml:id="L34">el mundo quándo fue fecho, <caesura/>quántos años avié:</l>
+                    <l xml:id="L35">de tres mill e nueveçientos <caesura/>e doze non tollié</l>
+                    <l xml:id="L36">—agora quatroçientos <caesura/>e seis mill emprendié—.</l>
+                </lg>
+                
+                <lg n="1239" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#sepulcro #daniel">
+                    <l xml:id="L37">Fizo un <term cRef="114">petafïo</term>	<caesura/><term cRef="168">escurament’</term> <term cRef="75">dictado</term></l>
+                    <l xml:id="L38">—de <persName ref="#DAN">Danïel</persName> lo <term cRef="78">priso</term>, <caesura/>que era allí <term cRef="77">notado</term>—.</l>	
+                    <l xml:id="L39">Cuemo era <persName ref="#APL">Apeles</persName> <caesura/><term cRef="88">clérigo</term> bien <term cRef="218">letrado</term>,</l>	
+                    <l xml:id="L40">todo su ministerio <caesura/>tenié bien <term cRef="22">decorado</term>:</l>
+                </lg>
+                
+                <lg n="1239" type="otro(?)" ana="#sepulcro #daniel">
+                    <l xml:id="L41">«Hic situs est aries typicus, duo cornua cuius</l>
+                    <l xml:id="L42">fregit <persName ref="#ALX">Alexander</persName>, totius malleus orbis»</l>			
+                    <l xml:id="L43">(duo cornua sunt duo regna, <placeName ref="#PER">Persarum</placeName> et <placeName ref="#MED">Medorum</placeName>).</l>
+                </lg>
+                
+                <lg n="1239" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#sepulcro #daniel">
+                    <l xml:id="L44">«Aquí yaz’el carnero, <caesura/>los dos cuernos del qual</l>
+                    <l xml:id="L45">crebantó <persName ref="#ALX">Alexandre</persName>, <caesura/>de <placeName ref="#GRE">Greçia</placeName> natural.</l>	
+                    <l xml:id="L46"><persName ref="#NAR">Narbozones</persName> e <persName ref="#BES">Bessus</persName>, <caesura/>compaña desleal,</l>		
+                    <l xml:id="L47">estos dos lo mataron <caesura/>con träiçión mortal».</l>
+                </lg>
+                
+                <lg n="1239" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#sepulcro">
+                    <l xml:id="L48">La <term cRef="26">obra</term> fue complida; <caesura/>el <term cRef="64">sepulcro</term>, <term cRef="32">alçado</term>,</l>
+                    <l xml:id="L49">fue sobre los <term cRef="118">fusiellos</term> <caesura/><term cRef="355">igualment’</term><term cRef="354">assentado</term>.	</l>	
+                    <l xml:id="L50"><term cRef="368">Non pareçié juntura</term>, <caesura/>tant’era bien <term cRef="30">lavrado</term>:</l>		
+                    <l xml:id="L51">¡tal cosa mereçié <caesura/>rëy atán honrado!</l>
+                </lg>
+                
+                
+            </lg>
+        </body>
+    </text>
+</TEI> 

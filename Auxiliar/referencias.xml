@@ -105,15 +105,141 @@
                <idno type="???">url</idno>
             </person>  
 
+            <person xml:id="NOE">
+               <persName type="standard">Noé</persName>
+               <persName type="form">Noel</persName>
+               <idno type="???">url</idno>
+            </person> 
 
-         </listPerson>
-         
+            <person xml:id="SEM">
+               <persName type="standard">Sem</persName>
+               <persName type="form">Sem</persName>
+               <idno type="???">url</idno>
+            </person> 
+
+            <person xml:id="CAM">
+               <persName type="standard">Cam</persName>
+               <persName type="form">Cam</persName>
+               <idno type="???">url</idno>
+            </person> 
+
+            <person xml:id="JAF">
+               <persName type="standard">Jafet</persName>
+               <persName type="form">Jafet</persName>
+               <idno type="???">url</idno>
+            </person>
+
+            <person xml:id="ABR">
+               <persName type="standard">Abraham</persName>
+               <persName type="form">Abraham</persName>
+               <idno type="???">url</idno>
+            </person>
+
+            <person xml:id="ISA">
+               <persName type="standard">Isaac</persName>
+               <persName type="form">Isac</persName>
+               <idno type="???">url</idno>
+            </person>
+
+            <person xml:id="FAR">
+               <persName type="standard">Farón</persName>
+               <persName type="form">Farón</persName>
+               <idno type="???">url</idno>
+            </person>
+            
+            <person xml:id="ARO">
+               <persName type="standard">Arón</persName>
+               <persName type="form">Arón</persName>
+               <idno type="???">url</idno>
+            </person>
+
+            <person xml:id="MOI">
+               <persName type="standard">Moisés</persName>
+               <persName type="form">Möisés</persName>
+               <idno type="???">url</idno>
+            </person>
+
+            <person xml:id="DAT">
+               <persName type="standard">Datán</persName>
+               <persName type="form">Datán</persName>
+               <idno type="???">url</idno>
+            </person>
+
+            <person xml:id="ABI">
+               <persName type="standard">Abirón</persName>
+               <persName type="form">Abirón</persName>
+               <idno type="???">url</idno>
+            </person>
+
+            <person xml:id="JOS">
+               <persName type="standard">Josué</persName>
+               <persName type="form">Josüé</persName>
+               <idno type="???">url</idno>
+            </person>
+
+            <person xml:id="DAV">
+               <persName type="standard">David</persName>
+               <persName type="form">David</persName>
+               <idno type="???">url</idno>
+            </person>
+
+            <person xml:id="SAL">
+               <persName type="standard">Salomón</persName>
+               <persName type="form">Salomón</persName>
+               <idno type="???">url</idno>
+            </person>
+            
+            <person xml:id="ROB">
+               <persName type="standard">Roboam</persName>
+               <persName type="form">Roboam</persName>
+               <idno type="???">url</idno>
+            </person>
+            
+            <person xml:id="SAU">
+               <persName type="standard">Saúl</persName>
+               <persName type="form">Saúl el viejo</persName>
+               <idno type="???">url</idno>
+            </person>
+
+            <person xml:id="ART">
+               <persName type="standard">Arturo Pendragón</persName>
+               <persName type="form">Artús</persName>
+               <idno type="???">url</idno>
+            </person>
+
+            <person xml:id="DAN">
+               <persName type="standard">Daniel</persName>
+               <persName type="form">Danïel</persName>
+               <idno type="???">url</idno>
+            </person>
+
+            <person xml:id="NAR">
+               <persName type="standard">Narbazanes</persName>
+               <persName type="form">Narbozones</persName>
+               <idno type="???">url</idno>
+            </person>
+
+            <person xml:id="BES">
+               <persName type="standard">Besso</persName>
+               <persName type="form">Bessus</persName>
+               <idno type="???">url</idno>
+            </person>
+
+            <person xml:id="ORF">
+               <persName type="standard">Orfeo</persName>
+               <persName type="form">Orfeo</persName>
+               <idno type="???">url</idno>
+            </person>
+
+
+         </listPerson>                  
          
          
          <listPlace>     
             
             <place xml:id="BAB">
-               <placeName>Babilonia</placeName>
+               <placeName type="standard">Babilonia</placeName>
+               <placeName type="form">Babilonia</placeName>
                <idno type="???">url</idno>
             </place>
 
@@ -162,12 +288,77 @@
                <idno type="???">url</idno>
             </place>
 
-
             <place xml:id="ISR">
                <placeName>Israel</placeName>
                <idno type="???">url</idno>
+            </place>           
+            
+            <place xml:id="DAL">
+               <placeName>Dalmacia</placeName>
+               <idno type="???">url</idno>
+            </place>            
+            
+            <place xml:id="ARM">
+               <placeName>Armenia</placeName>
+               <idno type="???">url</idno>
+            </place>       
+
+            <place xml:id="EGI">
+               <placeName>Egipto</placeName>
+               <idno type="???">url</idno>
+            </place> 
+
+            <place xml:id="LIB">
+               <placeName>Libia</placeName>
+               <idno type="???">url</idno>
+            </place> 
+
+            <place xml:id="EGP">
+               <placeName>Egipto</placeName>
+               <placeName type="form">Tierra de Amón</placeName>
+               <idno type="???">url</idno>
+            </place>
+
+            <place xml:id="IND">
+               <placeName>India</placeName>
+               <idno type="???">url</idno>
             </place>
             
+            <place xml:id="AFR">
+               <placeName>África</placeName>
+               <idno type="???">url</idno>
+            </place>
+
+            <place xml:id="MAR">
+               <placeName>Marruecos</placeName>
+               <idno type="???">url</idno>
+            </place>
+
+            <place xml:id="GRE">
+               <placeName>Grecia</placeName>
+               <placeName type="form">Greçïa</placeName>
+               <idno type="???">url</idno>
+            </place>
+
+            <place xml:id="ATE">
+               <placeName>Atenas</placeName>
+               <idno type="???">url</idno>
+            </place>
+
+            <place xml:id="CHA">
+               <placeName>Champaña</placeName>
+               <idno type="???">url</idno>
+            </place>
+
+            <place xml:id="SAB">
+               <placeName>Saba</placeName>
+               <idno type="???">url</idno>
+            </place>
+
+            <place xml:id="MED">
+               <placeName>Media</placeName>
+               <idno type="???">url</idno>
+            </place>
 
          </listPlace>
          

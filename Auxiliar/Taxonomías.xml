@@ -28,23 +28,54 @@
                     <category xml:id="armas">
                         <category xml:id="escudo"/>
                     </category>
-                    
+                    <category xml:id="carro"/>
+                    <category xml:id="sepulcro"/>
+                    <category xml:id="palacio">
+                        <category xml:id="arbolautomata"/>
+                    </category>
+                    <category xml:id="tienda"/>
                 </taxonomy>
  
                 
                 
                 <taxonomy xml:id="motivos">
+                    
                     <category xml:id="científicos">
                         <category xml:id="mapamundi"/>
-                        <category xml:id="astronomía"/>
-                        <category xml:id="naturaleza"/>
-                        <category xml:id="calendario"/>
+                        <category xml:id="tiempo">
+                            <category xml:id="astronomía"/>
+                            <category xml:id="calendario"/>
+                            <category xml:id="edaddelmundo"/>
+                        </category>   
+                        <category xml:id="naturaleza">
+                            <category xml:id="vegetales"/>
+                            <category xml:id="animales"/>
+                         </category>
                     </category>
+                    
                     <category xml:id="bíblicos">
                         <category xml:id="torredebabel"/>
                         <category xml:id="reyesdeoriente"/>
+                        <category xml:id="caidalucifer"/>
+                        <category xml:id="adanyeva"/>
+                        <category xml:id="patriarcas">
+                            <category xml:id="noe"/>
+                            <category xml:id="abraham"/>
+                            <category xml:id="moises"/>
+                        </category>
+                        <category xml:id="profetas">
+                            <category xml:id="daniel"/>
+                        </category>
+                        <category xml:id="reyesdeisrael"/>
                     </category>
+                    
+                    <category xml:id="clásicos">
+                        <category xml:id="diosespaganos"/>
+                    </category>
+                    
                 </taxonomy>
+                
+                
             </classDecl>
         </encodingDesc>
     </teiHeader>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schemas/myTEI-taxonomy-.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    
+    <teiHeader>
+        <fileDesc>
+            
+            <titleStmt>
+                <title type="main">Libro de Alexandre</title>
+                <title type="sub">Palacio de Poro</title>
+                <author ref="#ANM">Anónimo</author>
+                <editor xml:id="GAC">Gabriel A. Calarco</editor>
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher>A definir</publisher>
+                <availability>
+                    <licence>Creative Commons Reconocimiento – CompartirIgual</licence>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <listBibl>
+                    <bibl type="book"> 
+                        <title>Libro de Alexandre</title>
+                        <editor>Juan Casas Rigall</editor>
+                        <publisher>Real Academia Española</publisher>
+                        <date>2014</date>
+                        <pubPlace>Madrid</pubPlace>
+                    </bibl>
+                </listBibl>
+                
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Nacional (Madrid)</repository>
+                        <idno>V-5-n.10</idno>
+                        <altIdentifier>
+                            <idno>O</idno>
+                        </altIdentifier>
+                    </msIdentifier>        
+                </msDesc> 
+                
+                <msDesc>      
+                    <msIdentifier>
+                        <repository>Bibliotheque Nationale de France (París)</repository>
+                        <idno>Esp. 488</idno>
+                        <altIdentifier>
+                            <idno>P</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                </msDesc>    
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <profileDesc>    
+            <langUsage>
+                <language ident="sp">Castellano</language>
+            </langUsage>
+        </profileDesc>
+        
+        <revisionDesc>
+            <listChange>
+                <change/>
+            </listChange>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <note>Se trata de un fragmento del Libro de Alexandre</note>  
+            
+            
+            <lg type="poema" 
+                subtype="épica-culta" 
+                met="14, 14, 14, 14" 
+                rhyme="AAAA"   
+                unisonancia="singular" 
+                isometrismo="isométrico" 
+                isoestrofismo="heteroestrófico" 
+                asonancia="consonante"> 
+                
+ 
+
+                <lg n="2119" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio">
+                    <l xml:id="L1">La <term cRef="26">obra</term> del <term cRef="65">palaçio</term> <caesura/>non es de olvidar,</l>
+                    <l xml:id="L2">maguer non la podamos <caesura/>dignamente <term cRef="81">contar</term>:</l>	
+                    <l xml:id="L3">por que mucho queramos <caesura/>la verdat <term cRef="82">alabar</term>,</l>	
+                    <l xml:id="L4">aún avrán por esso <caesura/>algunos a dubdar.</l>
+                </lg>
+                
+                <lg n="2120" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio">
+                    <l xml:id="L5">El <term cRef="357">logar</term> era plano, <caesura/>ricament’assentado,</l>
+                    <l xml:id="L6">avondado de caça, <caesura/>siquiere de venado;</l>		
+                    <l xml:id="L7">las montañas bien çerca, <caesura/>do paçié el ganado;</l>	
+                    <l xml:id="L8">verano e ivierno <caesura/>era logar temprado.</l>
+                </lg>
+                
+                <lg n="2121" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio">
+                    <l xml:id="L9">Fueron de buen <term cRef="3">maestro</term> <caesura/>los <term cRef="65">palaçios</term> <term cRef="354">assentados</term>:</l>
+                    <l xml:id="L10">fueron <term cRef="3">maestramente</term> <caesura/>a <term cRef="86">quadra</term> <term cRef="40">compassados</term>;</l>	
+                    <l xml:id="L11">en peña viva fueron <caesura/>los <term cRef="116">çimientos</term> echados:</l>	
+                    <l xml:id="L12">por agua nin por fuego <caesura/>non serién <term cRef="356">desatados</term>.</l>
+                </lg>
+                
+                <lg n="2122" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio">
+                    <l xml:id="L13">Eran bien <term cRef="41">enluzidas</term> <caesura/>e <term cRef="178">firmes</term> las <term cRef="117">paredes</term>;</l>
+                    <l xml:id="L14">non le ý fazién mengua <caesura/>sávanas nin tapedes;</l>	
+                    <l xml:id="L15">el <term cRef="358">techo</term> era <term cRef="359">pinto</term> <caesura/>a <term cRef="360">lazos</term> e a <term cRef="361">redes</term>,</l>		
+                    <l xml:id="L16">todo de <term cRef="150">oro</term> fino, <caesura/>como en Dios creedes.</l>
+                </lg>
+                
+                <lg n="2123" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio">
+                    <l xml:id="L17">Las <term cRef="119">puertas</term> eran todas <caesura/>de <term cRef="161">marfil</term> natural,</l>
+                    <l xml:id="L18">blancas e <term cRef="184">reluzientes</term> <caesura/>como un fin’ <term cRef="158">cristal</term>;</l>		
+                    <l xml:id="L19">los <term cRef="362">entalles</term>, <term cRef="18">sotiles</term>; <caesura/>bien alto el poyal.</l>		
+                    <l xml:id="L20">¡Casa era de rëy, <caesura/>mas bien era real!</l>
+                </lg>
+                
+                <lg n="2124" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio">
+                    <l xml:id="L21">Quatroçientas <term cRef="118">colupnas</term> <caesura/>avié en essas casas,</l>
+                    <l xml:id="L22">todas de <term cRef="150">oro</term> fino, <caesura/><term cRef="123">capiteles</term> e <term cRef="115">basas</term>:</l>		
+                    <l xml:id="L23">non serién plus <term cRef="184">luzientes</term>, <caesura/>si fuessen bivas brasas,</l>
+                    <l xml:id="L24">ca eran bien <term cRef="42">broñidas</term>, <caesura/>bien <term cRef="363">planas</term> e bien <term cRef="186">rasas</term>.</l>
+                </lg>
+                
+                <lg n="2125" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio">
+                    <l xml:id="L25">Muchas eran las <term cRef="120">cámaras</term>, <caesura/>todas con sus <term cRef="365">sobrados</term>;</l>
+                    <l xml:id="L26">de <term cRef="153">çiprés</term> eran todos <caesura/>los <term cRef="366">maderos</term> <term cRef="26">obrados</term>:</l>		
+                    <l xml:id="L27">eran tan <term cRef="18">sotilment’</term> <caesura/>entre sí <term cRef="34">enlazados</term></l>		
+                    <l xml:id="L28"> que non <term cRef="367">entendié</term> omne <caesura/><term cRef="368">dó eran empeçados</term>.</l>
+                </lg>
+                
+                <lg n="2126" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio #vegetales">
+                    <l xml:id="L29">Pendié de las <term cRef="118">colupnas</term> <caesura/>derredor de la <term cRef="369">sala</term></l>
+                    <l xml:id="L30">una muy <term cRef="183">rica</term> <term cRef="121">viña</term> <caesura/>—de mejor non nos cala—:</l>	
+                    <l xml:id="L31">levava <term cRef="370">fojas</term> d’<term cRef="150">oro</term>, <caesura/>grandes como la palma</l>	
+                    <l xml:id="L32">—¡querría aver las mías <caesura/>tales, sí Dios me vala!—.</l>
+                </lg>
+                
+                <lg n="2127" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio #vegetales">
+                    <l xml:id="L33">Las <term cRef="292">uvas</term> de la <term cRef="121">viña</term> <caesura/>eran de grant <term cRef="372">femençia</term>:</l>
+                    <l xml:id="L34"><term cRef="157">piedras eran preçiosas</term>, <caesura/>todas de grant potençia;</l>
+                    <l xml:id="L35">toda la peor era <caesura/>de grant manifiçençia</l>		
+                    <l xml:id="L36">—¡el que plantó la <term cRef="121">viña</term> <caesura/>fue de grant <term cRef="373">sapïençia</term>!—.</l>
+                </lg>
+                
+                <lg n="2128" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio #vegetales">
+                    <l xml:id="L37">Como entre las <term cRef="292">uvas</term> <caesura/>son diversas naturas,</l>
+                    <l xml:id="L38">assí eran las <term cRef="157">piedras</term> <caesura/>de diversas figuras:</l>		
+                    <l xml:id="L39">las unas eran verdes; <caesura/>las otras, bien maduras</l>	
+                    <l xml:id="L40">—¡nunca les fizo mal <caesura/>gelo nin calenturas!—.</l>
+                </lg>
+                
+                <lg n="2129" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio #vegetales">
+                    <l xml:id="L41">Allí trobarié omne <caesura/>las unas <term cRef="374">tardaniellas</term>;</l>
+                    <l xml:id="L42">las otras <term cRef="375">migaruelas</term>, <caesura/>que son más tempraniellas;</l>	
+                    <l xml:id="L43">las <term cRef="376">blancas alfonsinas</term>, <caesura/>que tornan amariellas;</l>
+                    <l xml:id="L44">las <term cRef="377">alfonsinas negras</term>, <caesura/>que son más cardeniellas.</l>
+                </lg>
+                
+                <lg n="2130" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio #vegetales">
+                    <l xml:id="L45">Las buenas <term cRef="378">calagrañas</term>, <caesura/>que se quieren alçar;</l>
+                    <l xml:id="L46">las otras <term cRef="379">molejas</term>, <caesura/>que fazen las viejas trotar;</l>	
+                    <l xml:id="L47">la <term cRef="380">torrontés</term> umorosa, <caesura/>buena pora’l lagar;</l>			
+                    <l xml:id="L48">quantas non podrié omne <caesura/><term cRef="384">dezir</term> nin <term cRef="385">agrimar</term>.</l>
+                </lg>
+                
+                <lg n="2131" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio #vegetales">
+                    <l xml:id="L49">Dexémosvos la <term cRef="121">viña</term> <caesura/>que era muy loçana,</l>
+                    <l xml:id="L50">que levava vendimia <caesura/>tardana e temprana;</l>		
+                    <l xml:id="L51">digamos de un <term cRef="371">árvol</term> <caesura/>que sedié en la <term cRef="381">plaça</term>,</l>		
+                    <l xml:id="L52">que yazié ý <term cRef="183">riqueza</term> <caesura/>fiera e adïana.</l>
+                </lg>
+               
+                <lg n="2132" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio #arbolautomata #vegetales">
+                    <l xml:id="L53">En medio del <term cRef="122">enclaustro</term>, <caesura/>logar tan acabado,</l>
+                    <l xml:id="L54">sedié un <term cRef="183">rico</term> <term cRef="371">árvol</term> <caesura/>en medio <term cRef="382">levantado</term>:</l>		
+                    <l xml:id="L55">nin era müy gruesso <caesura/>nin era muy delgado;</l>		
+                    <l xml:id="L56">de <term cRef="150">oro</term> fino era, <caesura/><term cRef="18">sotilmente</term> <term cRef="26">obrado</term>.</l>
+                </lg>
+                
+                <lg n="2133" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio #arbolautomata #animales">
+                    <l xml:id="L57">Quantas <term cRef="282">aves</term> en çielo <caesura/>han <term cRef="135">vozes acordadas</term>,</l>
+                    <l xml:id="L58">que <term cRef="384">dizen</term> <term cRef="136">cantos</term> <term cRef="190">dulçes</term>, <caesura/><term cRef="166">menudas</term> e <term cRef="167">granadas</term>,</l>	
+                    <l xml:id="L59">todas en aquel <term cRef="371">árvol</term> <caesura/><term cRef="202">pareçién</term> tragitadas,</l>		
+                    <l xml:id="L60">cadauna por su natura, <caesura/>de <term cRef="327">color</term> <term cRef="303">devisadas</term>.</l>
+                </lg>
+                
+                <lg n="2134" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio #arbolautomata">
+                    <l xml:id="L61">Todos los <term cRef="87">instrumentes</term> <caesura/>que usan los <term cRef="9">joglares</term>,</l>
+                    <l xml:id="L62">otros de mayor <term cRef="172">preçio</term> <caesura/>que usan <term cRef="10">escolares</term>,</l>		
+                    <l xml:id="L63">de todos avié ý <caesura/>tres o qüatro pares,</l>		
+                    <l xml:id="L64">todos bien <term cRef="54">atemprados</term> <caesura/>por formar sos <term cRef="136">cantares</term>.</l>
+                </lg>
+                
+                <lg n="2135" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio #arbolautomata">
+                    <l xml:id="L65">A la raíz del <term cRef="371">árvol</term>, <caesura/>bien a quinze estados,</l>
+                    <l xml:id="L66">vinién unos cañones <caesura/>que yazién soterrados:</l>	
+                    <l xml:id="L67">eran de <term cRef="162">cobre</term> duro, <caesura/>por en esso <term cRef="30">lavrados</term>;</l>		
+                    <l xml:id="L68">todos eran en el <term cRef="371">árvol</term> <caesura/><term cRef="37">metidos</term> e <term cRef="36">soldados</term>.</l>
+                </lg>
+                
+                <lg n="2136" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio #arbolautomata #animales">
+                    <l xml:id="L69">Sollavan con bufetes <caesura/>en aquellos cañones;</l>
+                    <l xml:id="L70">luego dizién las <term cRef="282">aves</term> <caesura/>cadaúna sus <term cRef="137">sones</term>:</l>		
+                    <l xml:id="L71">los <term cRef="287">gayos</term>, las <term cRef="288">calandrias</term>, <caesura/><term cRef="289">tordos</term> e los <term cRef="290">gaviones</term>;</l>		
+                    <l xml:id="L72">el <term cRef="291">rossiñol</term>, que diz’ <caesura/>las <term cRef="164">fermosas</term> <term cRef="136">cançiones</term>.</l>
+                </lg>
+                
+                <lg n="2137" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio #arbolautomata #animales">
+                    <l xml:id="L73">Luenga serié la conta <caesura/>de las <term cRef="282">aves</term> <term cRef="81">contar</term></l>
+                    <l xml:id="L74">—la noche va viniendo: <caesura/>quiérovos <term cRef="79">destajar</term>—.</l>	
+                    <l xml:id="L75">¡Ya non sé quál quisiesse <caesura/>de las otras echar,</l>	
+                    <l xml:id="L76">qüando la <term cRef="286">çigala</term> <caesura/>non quiso olvidar!</l>
+                </lg>
+                
+                <lg n="2138" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio #arbolautomata">
+                    <l xml:id="L77"><term cRef="56">Volvién</term> los <term cRef="87">estrumentes</term> <caesura/>a <term cRef="56">buelta</term> con las <term cRef="282">aves</term>;</l>
+                    <l xml:id="L78"><term cRef="57">modulavan</term> a çierto <caesura/>las <term cRef="88">cuerdas</term> e las <term cRef="89">claves</term>:</l>	
+                    <l xml:id="L79"><term cRef="60">alçando</term> e <term cRef="58">primiendo</term>, <caesura/>fazién <term cRef="136">cantos</term> <term cRef="191">süaves</term>,</l>		
+                    <l xml:id="L80">tales que pora <persName ref="#ORF">Orfeo</persName> <caesura/>de <term cRef="59">formar</term> serién graves.</l>
+                </lg>
+                
+                <lg n="2139" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio #arbolautomata">
+                    <l xml:id="L81">Allí era la <term cRef="134">música</term> <caesura/><term cRef="55">cantada</term> por razón:</l>
+                    <l xml:id="L82">las <term cRef="190">dulçes</term> <term cRef="138">deballadas</term>, <caesura/>el <term cRef="193">plorant’</term> <term cRef="139">semitón’</term>,</l>		
+                    <l xml:id="L83">las <term cRef="140">doblas</term>, que refieren <caesura/>cuitas del coraçón,</l>	 
+                    <l xml:id="L84">bien podién tirar <term cRef="172">preçio</term> <caesura/>a una prosiçïón.</l>
+                </lg>
+                
+                <lg n="2140" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio #arbolautomata">
+                    <l xml:id="L85">Non es en el mundo <caesura/>omne tan <term cRef="383">sabidor</term></l>
+                    <l xml:id="L86">que <term cRef="384">dezirvos</term> pudiesse <caesura/>quál era la <term cRef="190">dulçor</term>:</l>		
+                    <l xml:id="L87">¡mientre omne viviesse <caesura/>en aquella sabor</l>	
+                    <l xml:id="L88">non avrié set nin fambre, <caesura/>nin ira nin dolor!</l>
+                </lg>
+                
+                <lg n="2141" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio #arbolautomata">
+                    <l xml:id="L89">Podédesvos por otra <caesura/>cosa <term cRef="199">maravillar</term>:</l>
+                    <l xml:id="L90">si quisiesse, las <term cRef="141">medias</term> <caesura/>solas farié <term cRef="55">cantar</term>;</l>	
+                    <l xml:id="L91"> si quisiesse, la <term cRef="142">terçia</term>; <caesura/>si quisiesse, un <term cRef="143">par</term>.</l>		
+                    <l xml:id="L92">¡<term cRef="18">Sotil</term> fue el <term cRef="3">maestro</term> <caesura/>que lo sopo <term cRef="30">lavrar</term>!</l>
+                </lg>
+                
+                <lg n="2142" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio #arbolautomata">
+                    <l xml:id="L93">Óvolo <persName ref="#ALX">Alexandre</persName> <caesura/>por fiera <term cRef="195">estrañeza</term>:</l>
+                    <l xml:id="L94">dixo que nunca <term cRef="198">viera</term> <caesura/>tan <term cRef="195">estraña</term> <term cRef="183">riqueza</term>.</l>		
+                    <l xml:id="L95">Todos tenién que era <caesura/>muy <term cRef="194">adapte nobleza</term>:</l>		
+                    <l xml:id="L96">nunca avién <term cRef="204">oído</term> <caesura/>de tan <term cRef="194">noble alteza</term>.</l>
+                </lg>
+                
+                
+            </lg>
+        </body>
+    </text>
+</TEI> 
