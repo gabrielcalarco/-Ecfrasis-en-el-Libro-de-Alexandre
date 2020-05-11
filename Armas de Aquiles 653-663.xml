@@ -99,7 +99,7 @@
              </lg> 
                   
              <lg n="655" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#armas #escudo #mapamundi"> 
-                <l xml:id="L9">Ý estavan las <term cRef="233">tierras</term> <caesura/>por poblar e pobladas,</l>	
+                <l xml:id="L9">Ý estavan las <term cRef="233">tierras</term> <caesura/><term cRef="236">por poblar e pobladas</term>,</l>	
                 <l xml:id="L10">los <term cRef="234">montes</term> e las <term cRef="229">aguas</term> <caesura/>e las <term cRef="237">villas</term> çercadas,</l>
                 <l xml:id="L11" ana="#torredebabel">la <term cRef="316">Torre</term> que fizieron <caesura/>las gentes perjuradas,</l>	
                 <l xml:id="L12" ana="#animales">las <term cRef="282">aves</term> e las <term cRef="284">bestias</term> <caesura/>por domar e domadas.</l>

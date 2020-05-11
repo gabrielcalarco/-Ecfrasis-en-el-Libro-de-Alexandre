@@ -97,12 +97,12 @@
                  </lg>  
                 <lg n="991" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#armas #escudo #reyesdeoriente"> 
                      <l xml:id="L9">Seyé del otro cabo <caesura/>el rëy de <placeName ref="#CAL">Caldea</placeName>,</l>
-                     <l xml:id="L10"><persName ref="NAB">Nabucodonosor</persName>, <caesura/>que conquiso <placeName ref="#JUD">Judea</placeName>;</l>		
-                     <l xml:id="L11">cuémo priso <placeName ref="SIO">Sïon</placeName>, <caesura/><placeName ref="TRI">Trípol</placeName> e <placeName ref="#TAB">Tabarea</placeName></l>	
+                     <l xml:id="L10"><persName ref="#NAB">Nabucodonosor</persName>, <caesura/>que conquiso <placeName ref="#JUD">Judea</placeName>;</l>		
+                     <l xml:id="L11">cuémo priso <placeName ref="#JER">Sïon</placeName>, <caesura/><placeName ref="#TRI">Trípol</placeName> e <placeName ref="#TAB">Tabarea</placeName></l>	
                      <l xml:id="L12">e quántas ontas fizo <caesura/>sobre la gent’ebrea.</l>
                 </lg>
                 <lg n="992" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#armas #escudo #reyesdeoriente"> 
-                     <l xml:id="L13">Cuémo destruyó el templo <caesura/>en la <placeName ref="JER">Santa Çibdat</placeName>,</l>
+                     <l xml:id="L13">Cuémo destruyó el templo <caesura/>en la <placeName ref="#JER">Santa Çibdat</placeName>,</l>
                      <l xml:id="L14">cuémo fueron los tribos <caesura/>en su cabtividat;</l>
                      <l xml:id="L15">cuémo sobre el rëy	<caesura/>fizo tal crüeldat,</l>	
                      <l xml:id="L16">que li sacó los ojos, <caesura/>ca assí fue verdat.</l>
@@ -134,7 +134,7 @@
                 <lg n="997" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#armas #escudo #reyesdeoriente"> 
                      <l xml:id="L33">La <term cRef="144">estoria</term> de <persName ref="#CIR">Çiro</persName> <caesura/>fue derredor echada,</l>
                      <l xml:id="L34">qué grant conquista fizo <caesura/>todo por su espada;</l>
-                     <l xml:id="L35">cuémo fue la compaña <caesura/>de <placeName ref="ISR">Israel</placeName> quitada;</l>
+                     <l xml:id="L35">cuémo fue la compaña <caesura/>de Israel quitada;</l>
                      <l xml:id="L36"><persName ref="#CRE">Cresus</persName> en la su guerra <caesura/>cómo non ganó nada.</l>
                 </lg>
                 <lg n="998" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#armas #escudo #reyesdeoriente"> 

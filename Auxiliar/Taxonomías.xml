@@ -69,8 +69,10 @@
                         <category xml:id="reyesdeisrael"/>
                     </category>
                     
-                    <category xml:id="clásicos">
+                    <category xml:id="clasicos">
                         <category xml:id="diosespaganos"/>
+                        <category xml:id="hercules"/>
+                        <category xml:id="troya"/>
                     </category>
                     
                 </taxonomy>

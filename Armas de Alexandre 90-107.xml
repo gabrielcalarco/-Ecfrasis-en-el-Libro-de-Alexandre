@@ -89,7 +89,7 @@
             </lg>
                 <lg n="91" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#adobos">
                     <l xml:id="L5">La <term cRef="71">çinta</term> fue <term cRef="26">obrada</term> <caesura/>a muy grant <term cRef="175">maestría</term>:</l>	
-                    <l xml:id="L6"><term cRef="26">obrola</term> con sus manos <caesura/>doña <persName ref="#FLO">Filosofía</persName>;</l>		
+                    <l xml:id="L6"><term cRef="26">obrola</term> <term cRef="25">con sus manos</term> <caesura/>doña <persName ref="#FLO">Filosofía</persName>;</l>		
                     <l xml:id="L7">más <term cRef="173">vale</term> la <term cRef="70">fiviella</term> <caesura/>que toda <placeName ref="LOM">Lombardía</placeName></l>		
                     <l xml:id="L8">—¡más <term cRef="173">vale</term>, segunt creo, <caesura/>un poco que la mía!—.</l>
             </lg>

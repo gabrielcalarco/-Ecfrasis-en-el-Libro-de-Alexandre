@@ -92,7 +92,7 @@
                 </lg>
                 
                 <lg n="2120" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio">
-                    <l xml:id="L5">El <term cRef="357">logar</term> era plano, <caesura/>ricament’assentado,</l>
+                    <l xml:id="L5">El <term cRef="357">logar</term> era plano, <caesura/><term cRef="183">ricament’</term><term cRef="354">assentado</term>,</l>
                     <l xml:id="L6">avondado de caça, <caesura/>siquiere de venado;</l>		
                     <l xml:id="L7">las montañas bien çerca, <caesura/>do paçié el ganado;</l>	
                     <l xml:id="L8">verano e ivierno <caesura/>era logar temprado.</l>
@@ -169,7 +169,7 @@
                 </lg>
                 
                 <lg n="2131" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio #vegetales">
-                    <l xml:id="L49">Dexémosvos la <term cRef="121">viña</term> <caesura/>que era muy loçana,</l>
+                    <l xml:id="L49">Dexémosvos la <term cRef="121">viña</term> <caesura/>que era muy <term cRef="187">loçana</term>,</l>
                     <l xml:id="L50">que levava vendimia <caesura/>tardana e temprana;</l>		
                     <l xml:id="L51">digamos de un <term cRef="371">árvol</term> <caesura/>que sedié en la <term cRef="381">plaça</term>,</l>		
                     <l xml:id="L52">que yazié ý <term cRef="183">riqueza</term> <caesura/>fiera e adïana.</l>
@@ -225,7 +225,7 @@
                 </lg>
                 
                 <lg n="2139" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#palacio #arbolautomata">
-                    <l xml:id="L81">Allí era la <term cRef="134">música</term> <caesura/><term cRef="55">cantada</term> por razón:</l>
+                    <l xml:id="L81">Allí era la <term cRef="134">música</term> <caesura/><term cRef="55">cantada</term> por <term cRef="389">razón</term>:</l>
                     <l xml:id="L82">las <term cRef="190">dulçes</term> <term cRef="138">deballadas</term>, <caesura/>el <term cRef="193">plorant’</term> <term cRef="139">semitón’</term>,</l>		
                     <l xml:id="L83">las <term cRef="140">doblas</term>, que refieren <caesura/>cuitas del coraçón,</l>	 
                     <l xml:id="L84">bien podién tirar <term cRef="172">preçio</term> <caesura/>a una prosiçïón.</l>

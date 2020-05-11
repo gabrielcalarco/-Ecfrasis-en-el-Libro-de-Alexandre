@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="schemas/myTEI-taxonomy-.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+E<?xml-model href="schemas/myTEI-taxonomy-.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     
     <teiHeader>
@@ -97,18 +97,18 @@
                 <lg n="1241" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#sepulcro #patriarcas #noe">
                     <l xml:id="L9">estava más adelant’ <caesura/><persName ref="NOE">Noel</persName> el <term cRef="216">patrïarca</term>,</l>
                     <l xml:id="L10">los montes de <placeName ref="#ARM">Armenia</placeName> <caesura/>do arribó el arca;</l>	
-                    <l xml:id="L11"><placeName ref="SEM">Sem</placeName>, <persName ref="#CAM">Cam</persName> e <persName ref="JAF">Jafet</persName>, <caesura/>cadauno en su comarca;</l>
+                    <l xml:id="L11"><persName ref="SEM">Sem</persName>, <persName ref="#CAM">Cam</persName> e <persName ref="JAF">Jafet</persName>, <caesura/>cadauno en su comarca;</l>
                     <l xml:id="L12" ana="#torredebabel">los <term cRef="315">Gigantes</term> <term cRef="317">confusos</term> <caesura/>e la <term cRef="316">Torre</term> que es alta;</l>
                 </lg> 
                 <lg n="1242" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#sepulcro #patriarcas">
                     <l xml:id="L13" ana="#abraham"><persName ref="#ABR">Abraham</persName> el católico, <caesura/><persName ref="#ISA">Isac</persName> çerca él;</l>
-                    <l xml:id="L14" ana="#abraham">todos los Doze Tribos <caesura/>fijos de <placeName ref="#ISR">Israel</placeName>,</l>		
-                    <l xml:id="L15" ana="#moises">las plagas de <placeName ref="#EGI">Egipto</placeName> <caesura/>e el ángel crüel,</l>
+                    <l xml:id="L14" ana="#abraham">todos los Doze Tribos <caesura/>fijos de Israel,</l>		
+                    <l xml:id="L15" ana="#moises">las plagas de <placeName ref="#EGP">Egipto</placeName> <caesura/>e el ángel crüel,</l>
                     <l xml:id="L16" ana="#moises">el täu en las puertas <caesura/>de sagne del añel,</l>
                 </lg> 
                 <lg n="1243" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#sepulcro #patriarcas #moises">
                     <l xml:id="L17">las carreras del mar <caesura/>e la muerte de <persName ref="#FAR">Farón</persName>,</l>
-                    <l xml:id="L18">cómo pidién los pueblos <caesura/>rëy a <persName ref="#ARO">Arón</persName>,</l>		
+                    <l xml:id="L18">cómo pidién los pueblos <caesura/>rëy a <persName ref="#ARO">Arón</perEsName>,</l>		
                     <l xml:id="L19">cómo prendié la Lëy <caesura/><persName ref="#MOI">Möisés</persName> el varón,</l>
                     <l xml:id="L20">cómo se consumién <caesura/><persName ref="#DAT">Datán</persName> e <persName ref="#ABI">Abirón</persName>,</l>
                 </lg> 

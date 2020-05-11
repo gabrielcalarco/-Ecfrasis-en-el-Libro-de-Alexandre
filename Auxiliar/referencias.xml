@@ -231,6 +231,41 @@
                <idno type="???">url</idno>
             </person>
 
+            <person xml:id="POR">
+               <persName type="standard">Poro</persName>
+               <persName type="form">Poro</persName>
+               <idno type="???">url</idno>
+            </person>
+
+            <person xml:id="LUC">
+               <persName type="standard">Lucifer</persName>
+               <persName type="form">Luçifer</persName>
+               <idno type="???">url</idno>
+            </person>
+
+            <person xml:id="HER">
+               <persName type="standard">Hércules</persName>
+               <persName type="form">Hércules</persName>
+               <idno type="???">url</idno>
+            </person>
+
+            <person xml:id="PAR">
+               <persName type="standard">Paris Alejandro</persName>
+               <persName type="form">Paris</persName>
+               <idno type="???">url</idno>
+            </person>
+
+            <person xml:id="ANT">
+               <persName type="standard">Anteon</persName>
+               <persName type="form">Anteon</persName>
+               <idno type="???">url</idno>
+            </person>
+
+            <person xml:id="HEL">
+               <persName type="standard">Helena</persName>
+               <persName type="form">Elena</persName>
+               <idno type="???">url</idno>
+            </person>
 
          </listPerson>                  
          
@@ -239,126 +274,256 @@
             
             <place xml:id="BAB">
                <placeName type="standard">Babilonia</placeName>
-               <placeName type="form">Babilonia</placeName>
-               <idno type="???">url</idno>
+               <placeName type="form">Babilón</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/912816</idno>
             </place>
 
+            <place xml:id="TRO">
+               <placeName type="standard">Troya</placeName>
+               <placeName type="form">Troya</placeName>
+               <idno type="plaiades">https://pleiades.stoa.org/places/550595</idno>
+            </place>
+            
+            <place xml:id="ROM">
+               <placeName type="standard">Roma</placeName>
+               <placeName type="form">Roma</placeName>
+               <idno type="plaiades">https://pleiades.stoa.org/places/423025</idno>
+            </place>            
+
             <place xml:id="PIS">
-               <placeName>Pisa</placeName>
-               <idno type="???">url</idno>
+               <placeName type="standard">Pisa</placeName>
+               <placeName type="form">Pisa</placeName>
+               <idno type="geonames">https://www.geonames.org/3170647/pisa.html</idno>
             </place>
             
             <place xml:id="LOM">
-               <placeName>Lombardía</placeName>
-               <idno type="???">url</idno>
+               <placeName type="standard">Lombardía</placeName>
+               <placeName type="form">Lombardía</placeName>
+               <idno type="geonames">https://www.geonames.org/3174618/lombardia.html</idno>
             </place>
 
             <place xml:id="JUD">
-               <placeName>Judea</placeName>
-               <idno type="???">url</idno>
+               <placeName type="standard">Judea</placeName>
+               <placeName type="form">Judea</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/687934</idno>
             </place>
 
             <place xml:id="CAL">
-               <placeName>Caldea</placeName>
-               <idno type="???">url</idno>
-            </place>
-            
-            <place xml:id="SIO">
-               <placeName>Sión</placeName>
-               <idno type="???">url</idno>
-            </place>            
+               <placeName type="standard">Caldea</placeName>
+               <placeName type="form">Caldea</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/915843</idno>
+            </place>         
 
             <place xml:id="TRI">
-               <placeName>Trípoli</placeName>
-               <idno type="???">url</idno>
+               <placeName type="standard">Trípoli</placeName>
+               <placeName type="form">Tripol</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/668394</idno>
             </place>
 
             <place xml:id="TAB">
-               <placeName>Tabarea</placeName>
+               <placeName type="standard">Tabarea???</placeName>
+               <placeName type="form">Tabarea</placeName>
                <idno type="???">url</idno>
             </place>
 
             <place xml:id="JER">
-               <placeName>Jerusalem</placeName>
-               <idno type="???">url</idno>
+               <placeName type="standard">Jerusalem</placeName>
+               <placeName type="form">Sïon</placeName>
+               <placeName type="form">Santa Çibdat</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/687928</idno>
             </place>
 
             <place xml:id="PER">
-               <placeName>Persia</placeName>
-               <idno type="???">url</idno>
-            </place>
-
-            <place xml:id="ISR">
-               <placeName>Israel</placeName>
-               <idno type="???">url</idno>
-            </place>           
+               <placeName type="standard">Persia</placeName>
+               <placeName type="form">Persia</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/922695</idno>
+            </place>     
             
-            <place xml:id="DAL">
-               <placeName>Dalmacia</placeName>
+            <place xml:id="DAM">
+               <placeName type="standard">Damietta?Dalmacia?Damiata?</placeName>
+               <placeName type="form">Damïata</placeName>
                <idno type="???">url</idno>
             </place>            
             
             <place xml:id="ARM">
-               <placeName>Armenia</placeName>
-               <idno type="???">url</idno>
+               <placeName type="standard">Armenia</placeName>
+               <placeName type="form">Armenia</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/981507</idno>
             </place>       
 
-            <place xml:id="EGI">
-               <placeName>Egipto</placeName>
-               <idno type="???">url</idno>
-            </place> 
-
             <place xml:id="LIB">
-               <placeName>Libia</placeName>
-               <idno type="???">url</idno>
+               <placeName type="standard">Libia</placeName>
+               <placeName type="form">Libia</placeName>
+               <idno type="geonames">https://www.geonames.org/2215636/libya.html</idno>
             </place> 
 
             <place xml:id="EGP">
-               <placeName>Egipto</placeName>
+               <placeName type="standard">Egipto</placeName>
                <placeName type="form">Tierra de Amón</placeName>
-               <idno type="???">url</idno>
+               <idno type="pleiades">https://pleiades.stoa.org/places/981503</idno>
             </place>
 
             <place xml:id="IND">
-               <placeName>India</placeName>
-               <idno type="???">url</idno>
+               <placeName type="standard">India</placeName>
+               <placeName type="form">India</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/50004</idno>
             </place>
             
             <place xml:id="AFR">
-               <placeName>África</placeName>
-               <idno type="???">url</idno>
+               <placeName type="standard">África</placeName>
+               <placeName type="form">África</placeName>
+               <idno type="geonames">https://www.geonames.org/6255146/africa.html</idno>
+            </place>
+
+            <place xml:id="ASI">
+               <placeName type="standard">Asia</placeName>
+               <placeName type="form">Asïa</placeName>
+               <idno type="geonames">https://www.geonames.org/6255147/asia.html</idno>
+            </place>
+
+            <place xml:id="EUR">
+               <placeName type="standard">Europa</placeName>
+               <placeName type="form">Ëuropa</placeName>
+               <idno type="geonames">https://www.geonames.org/6255148/europe.html</idno>
             </place>
 
             <place xml:id="MAR">
-               <placeName>Marruecos</placeName>
-               <idno type="???">url</idno>
+               <placeName type="standard">Marrakech</placeName>
+               <placeName type="form">Marruecos</placeName>
+               <idno type="geonames">https://www.geonames.org/2542997/marrakesh.html</idno>
             </place>
 
             <place xml:id="GRE">
-               <placeName>Grecia</placeName>
+               <placeName type="standard">Grecia</placeName>
                <placeName type="form">Greçïa</placeName>
-               <idno type="???">url</idno>
+               <idno type="geonames">https://www.geonames.org/390903/hellenic-republic.html</idno>
             </place>
 
             <place xml:id="ATE">
-               <placeName>Atenas</placeName>
-               <idno type="???">url</idno>
+               <placeName type="standard">Atenas</placeName>
+               <placeName type="form">Atenas</placeName>
+               <idno type="pleiades">pleiades.stoa.org/places/579885</idno>
             </place>
 
             <place xml:id="CHA">
-               <placeName>Champaña</placeName>
-               <idno type="???">url</idno>
+               <placeName type="standard">Champaña</placeName>
+               <placeName type="form">Champaña</placeName>
+               <idno type="geonames">https://www.geonames.org/3027487/chalons-en-champagne.html</idno>
             </place>
 
             <place xml:id="SAB">
-               <placeName>Saba</placeName>
-               <idno type="???">url</idno>
+               <placeName type="standard">Saba</placeName>
+               <placeName type="form">Saba</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/39417</idno>
             </place>
 
-            <place xml:id="MED">
-               <placeName>Media</placeName>
-               <idno type="???">url</idno>
+            <place xml:id="GIB">
+               <placeName type="standard">Gibraltar</placeName>
+               <placeName type="form">Oçident’</placeName>
+               <idno type="geonames">https://www.geonames.org/2411586/gibraltar.html</idno>
             </place>
+
+            <place xml:id="ESP">
+               <placeName type="standard">España</placeName>
+               <placeName type="form">España</placeName>
+               <idno type="geonames">https://www.geonames.org/2510769/kingdom-of-spain.html</idno>
+            </place>
+
+            <place xml:id="BUR">
+               <placeName type="standard">Burgos</placeName>
+               <placeName type="form">Burgos</placeName>
+               <idno type="geonames">https://www.geonames.org/3127461/burgos.html</idno>
+            </place>
+
+            <place xml:id="PAM">
+               <placeName type="standard">Pamplona</placeName>
+               <placeName type="form">Pamplona</placeName>
+               <idno type="geonames">https://www.geonames.org/3114472/pamplona.html</idno>
+            </place>
+            
+            <place xml:id="SOR">
+               <placeName type="standard">Soria</placeName>
+               <placeName type="form">Sorïa</placeName>
+               <idno type="geonames">https://www.geonames.org/3108681/soria.html</idno>
+            </place>            
+
+            <place xml:id="TOL">
+               <placeName type="standard">Toledo</placeName>
+               <placeName type="form">Toledo</placeName>
+               <idno type="geonames">https://www.geonames.org/2510409/toledo.html</idno>
+            </place> 
+            
+            <place xml:id="LIS">
+               <placeName type="standard">Lisbona</placeName>
+               <placeName type="form">Lixbona</placeName>
+               <idno type="geonames">https://www.geonames.org/2267057/lisbon.html</idno>
+            </place> 
+
+            <place xml:id="BAY">
+               <placeName type="standard">Bayonne</placeName>
+               <placeName type="form">Bayona</placeName>
+               <idno type="geonames">https://www.geonames.org/3034475/bayonne.html</idno>
+            </place> 
+
+            <place xml:id="BOR">
+               <placeName type="standard">Burdeos</placeName>
+               <placeName type="form">Bordel</placeName>
+               <idno type="geonames">https://www.geonames.org/3031582/bordeaux.html</idno>
+            </place> 
+
+            <place xml:id="GAS">
+               <placeName type="standard">Gascuña</placeName>
+               <placeName type="form">Gascoña</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/981505</idno>
+            </place>
+
+            <place xml:id="TOU">
+               <placeName type="standard">Tours</placeName>
+               <placeName type="form">Tors</placeName>
+               <idno type="geonames">https://www.geonames.org/2972191/tours.html</idno>
+            </place> 
+            
+            <place xml:id="PRS">
+               <placeName type="standard">París</placeName>
+               <placeName type="form">París</placeName>
+               <idno type="geonames">https://www.geonames.org/2988507/paris.html</idno>
+            </place> 
+            
+            <place xml:id="PAV">
+               <placeName type="standard">Pavía</placeName>
+               <placeName type="form">Pavía</placeName>
+               <idno type="geonames">https://www.geonames.org/3171366/pavia.html</idno>
+            </place> 
+            
+            <place xml:id="MIL">
+               <placeName type="standard">Milán</placeName>
+               <placeName type="form">Milán</placeName>
+               <idno type="geonames">https://www.geonames.org/3173435/milan.html</idno>
+            </place> 
+            
+            <place xml:id="BER">
+               <placeName type="standard">Verona??</placeName>
+               <placeName type="form">Bergoña</placeName>
+               <idno type="geonames">https://www.geonames.org/3164527/verona.html</idno>
+            </place> 
+            
+            <place xml:id="VIA">
+               <placeName type="standard">Venecia??</placeName>
+               <placeName type="form">Vïana</placeName>
+               <idno type="geonames">https://www.geonames.org/3164603/venice.html</idno>
+            </place> 
+            
+            <place xml:id="BOL">
+               <placeName type="standard">Boloña</placeName>
+               <placeName type="form">Boloña</placeName>
+               <idno type="geonames">https://www.geonames.org/3181928/bologna.html</idno>
+            </place> 
+
+            <place xml:id="TOS">
+               <placeName type="standard">Toscana</placeName>
+               <placeName type="form">Toscana</placeName>
+               <idno type="geonames">https://www.geonames.org/2267057/lisbon.html</idno>
+            </place> 
 
          </listPlace>
          
