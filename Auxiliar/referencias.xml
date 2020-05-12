@@ -256,7 +256,7 @@
             </person>
 
             <person xml:id="ANT">
-               <persName type="standard">Anteon</persName>
+               <persName type="standard">Anteón</persName>
                <persName type="form">Anteon</persName>
                <idno type="???">url</idno>
             </person>
@@ -267,7 +267,31 @@
                <idno type="???">url</idno>
             </person>
 
+            <person xml:id="NIC">
+               <persName type="standard">???</persName>
+               <persName type="form">Nicolao</persName>
+               <idno type="???">url</idno>
+            </person>
+
+            <person xml:id="PAU">
+               <persName type="standard">Pausanías</persName>
+               <persName type="form">Pausón</persName>
+               <idno type="???">url</idno>
+            </person>
+            
+            <person xml:id="MEN">
+               <persName type="standard">Memnón</persName>
+               <persName type="form">Ménona</persName>
+               <idno type="???"></idno>
+            </person>
+
          </listPerson>                  
+         
+         
+         
+         
+         
+         
          
          
          <listPlace>     
@@ -340,7 +364,7 @@
             </place>     
             
             <place xml:id="DAM">
-               <placeName type="standard">Damietta?Dalmacia?Damiata?</placeName>
+               <placeName type="standard">Damietta? Dalmacia? Damiata(occit)?</placeName>
                <placeName type="form">Damïata</placeName>
                <idno type="???">url</idno>
             </place>            
@@ -452,7 +476,13 @@
                <placeName type="form">Toledo</placeName>
                <idno type="geonames">https://www.geonames.org/2510409/toledo.html</idno>
             </place> 
-            
+
+            <place xml:id="LEO">
+               <placeName type="standard">León</placeName>
+               <placeName type="form">León</placeName>
+               <idno type="geonames">https://www.geonames.org/3118532/leon.html</idno>
+            </place>
+
             <place xml:id="LIS">
                <placeName type="standard">Lisbona</placeName>
                <placeName type="form">Lixbona</placeName>
@@ -497,7 +527,7 @@
             
             <place xml:id="MIL">
                <placeName type="standard">Milán</placeName>
-               <placeName type="form">Milán</placeName>
+               <placeName type="form">Milana</placeName>
                <idno type="geonames">https://www.geonames.org/3173435/milan.html</idno>
             </place> 
             
@@ -522,11 +552,101 @@
             <place xml:id="TOS">
                <placeName type="standard">Toscana</placeName>
                <placeName type="form">Toscana</placeName>
+                <idno type="geonames">https://www.geonames.org/3165361/toscana.html</idno>
+            </place> 
+
+            <place xml:id="MON">
+               <placeName type="standard">Moncayo</placeName>
+               <placeName type="form">Moncayo</placeName>
+               <idno type="geonames">https://www.geonames.org/3116520/sierra-del-moncayo.html</idno>
+            </place> 
+
+            <place xml:id="COG">
+               <placeName type="standard">Cogolla</placeName>
+               <placeName type="form">Cogolla</placeName>
+               <idno type="geonames">https://www.geonames.org/3110237/san-millan-de-la-cogolla.html</idno>
+            </place> 
+
+            <place xml:id="TAJ">
+               <placeName type="standard">Tajo</placeName>
+               <placeName type="form">Tajo</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/256463</idno>
+            </place> 
+            
+            <place xml:id="EBR">
+               <placeName type="standard">Ebro</placeName>
+               <placeName type="form">Ebro</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/246418</idno>
+            </place> 
+            
+            <place xml:id="DUE">
+               <placeName type="standard">Duero</placeName>
+               <placeName type="form">Duero</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/236455</idno>
+            </place> 
+            
+            <place xml:id="TIB">
+               <placeName type="standard">Tíber</placeName>
+               <placeName type="form">Tibre</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/423080</idno>
+            </place> 
+            
+            <place xml:id="NIL">
+               <placeName type="standard">Nilo</placeName>
+               <placeName type="form">Egipto</placeName>
                <idno type="geonames">https://www.geonames.org/2267057/lisbon.html</idno>
             </place> 
 
+            <place xml:id="GAR">
+               <placeName type="standard">Garonne</placeName>
+               <placeName type="form">Garona</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/138369</idno>
+            </place> 
+            
+            <place xml:id="FRA">
+               <placeName type="standard">Francia</placeName>
+               <placeName type="form">Francia</placeName>
+               <idno type="geonames">https://www.geonames.org/3017382/republic-of-france.html</idno>
+            </place> 
+            
+            <place xml:id="LEI">
+               <placeName type="standard">Loire</placeName>
+               <placeName type="form">Leire</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/138420</idno>
+            </place>   
+
+            <place xml:id="ROD">
+               <placeName type="standard">Ródano</placeName>
+               <placeName type="form">Ruedano</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/148168</idno>
+            </place>
+
+            <place xml:id="TEB">
+               <placeName type="standard">Tebas</placeName>
+               <placeName type="form">Tebas</placeName>
+               <idno type="pleiades"></idno>
+            </place>
+
+            <place xml:id="FRI">
+               <placeName type="standard">Frigia</placeName>
+               <placeName type="form">Frigia</placeName>
+               <idno type="pleiades"></idno>
+            </place>
+            
+            <place xml:id="TIR">
+               <placeName type="standard">Tiro</placeName>
+               <placeName type="form">Tiro</placeName>
+               <idno type="pleiades"></idno>
+            </place>
+
+            <place xml:id="ALM">
+               <placeName type="standard">Almería</placeName>
+               <placeName type="form">Almaría</placeName>
+               <idno type="geonames"></idno>
+            </place>
+            
+            
          </listPlace>
-         
         
       </body>
    </text>

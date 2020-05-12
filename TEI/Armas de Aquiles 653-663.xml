@@ -75,7 +75,7 @@
             
             <lg type="poema" 
                 subtype="épica-culta" 
-                met="14, 14, 14, 14" 
+                met="14,14,14,14" 
                 rhyme="AAAA"   
                 unisonancia="singular" 
                 isometrismo="isométrico" 
@@ -84,77 +84,77 @@
                 
                 
                 
-             <lg n="653" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#armas">     
+             <lg n="653" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#armas">     
                 <l xml:id="L1">En pocas de <term cRef="310">palabras</term> <caesura/>vos quiero <term cRef="79">destajar</term></l>		
                 <l xml:id="L2">la <term cRef="26">obra</term> de las <term cRef="62">armas</term> <caesura/>qu’<persName ref="#AQL">Aquiles</persName> mandó far,</l>	
                 <l xml:id="L3">que, si por orden todo <caesura/>lo quesiés’én’ <term cRef="77">notar</term>,</l>		
                 <l xml:id="L4">serié un <term cRef="311">brevïario</term> <caesura/>que prendrié grant logar.</l>
              </lg>     
             
-             <lg n="654" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#armas #escudo #mapamundi"> 
+             <lg n="654" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#armas #escudo #mapamundi"> 
                 <l xml:id="L5">Omne que por espaçio <caesura/>lo quesiesse <term cRef="200">asmar</term></l>
                 <l xml:id="L6" ana="#animales">ý <term cRef="198">verié</term> los <term cRef="281">pescados</term> <caesura/>quantos son en la <term cRef="230">mar</term>,</l>
                 <l xml:id="L7">las unas <term cRef="232">naves</term> ir <caesura/>e las otras tornar,</l>
                 <l xml:id="L8">las unas pereçer <caesura/>e las otras arribar.</l>
              </lg> 
                   
-             <lg n="655" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#armas #escudo #mapamundi"> 
+             <lg n="655" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#armas #escudo #mapamundi"> 
                 <l xml:id="L9">Ý estavan las <term cRef="233">tierras</term> <caesura/><term cRef="236">por poblar e pobladas</term>,</l>	
                 <l xml:id="L10">los <term cRef="234">montes</term> e las <term cRef="229">aguas</term> <caesura/>e las <term cRef="237">villas</term> çercadas,</l>
                 <l xml:id="L11" ana="#torredebabel">la <term cRef="316">Torre</term> que fizieron <caesura/>las gentes perjuradas,</l>	
                 <l xml:id="L12" ana="#animales">las <term cRef="282">aves</term> e las <term cRef="284">bestias</term> <caesura/>por domar e domadas.</l>
             </lg>
                  
-            <lg n="656" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#armas #escudo #mapamundi"> 
+            <lg n="656" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#armas #escudo #mapamundi"> 
                 <l xml:id="L13">Ý estavan contrarios <caesura/>los <term cRef="244">vientos</term> prinçipales,</l>
                 <l xml:id="L14">cadaunos cuémo corren <caesura/>e quáles temporales;</l>	
                 <l xml:id="L15">ónde naçen los truenos <caesura/>e los rayos mortales,</l>
                 <l xml:id="L16" ana="#calendario">cuémo son en el año <caesura/><term cRef="260">quatro tiempos cabdales</term>.</l>
             </lg>
                 
-            <lg n="657" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#armas #escudo #calendario"> 
+            <lg n="657" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#armas #escudo #calendario"> 
                 <l xml:id="L17">Estava don <term cRef="262">Ivierno</term> <caesura/>con vientos e geladas,</l>		
                 <l xml:id="L18">el <term cRef="263">Verano</term> con flores <caesura/>e dulçes mañanadas,</l>		
                 <l xml:id="L19"><term cRef="264">Estiv’</term> con granados soles <caesura/>e miesses espigadas,</l>	
                 <l xml:id="L20"><term cRef="265">Atupno</term> vendimiando <caesura/>e faziendo pomadas.</l>
              </lg>
                             
-             <lg n="658" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#armas #escudo #astronomía"> 
+             <lg n="658" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#armas #escudo #astronomía"> 
                 <l xml:id="L21">Eran ý los <term cRef="251">doz’ signos</term> <caesura/>del <term cRef="254">Sol</term> bien <term cRef="40">compassados</term>,</l>	
                 <l xml:id="L22">los unos de los otros <caesura/><term cRef="355">igualmente</term> <term cRef="48">tajados</term>;</l>	
                 <l xml:id="L23">e las siete <term cRef="256">planetas</term> <caesura/>cuémo tienen sus <term cRef="253">grados</term>,</l>
                 <l xml:id="L24">quáles son más raviosos <caesura/>o quáles más pagados.</l>
              </lg>
                 
-             <lg n="659" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#armas #escudo"> 
+             <lg n="659" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#armas #escudo"> 
                 <l xml:id="L25">Non es omne tan neçio <caesura/>que <term cRef="198">viesse</term> el <term cRef="98">escudo</term></l>		
                 <l xml:id="L26">que non fuesse buen <term cRef="8">clérigo</term> <caesura/>sobra bien <term cRef="16">entendudo</term>;</l>	
                 <l xml:id="L27">el <term cRef="3">maestro</term> que’l fizo <caesura/>fue tan mientes metudo</l>	
                 <l xml:id="L28">que <term cRef="37">metió</term> en las <term cRef="62">armas</term> <caesura/><term cRef="167">granado</term> e <term cRef="166">menudo</term>.</l>
              </lg>
                      
-             <lg n="660" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#armas"> 
+             <lg n="660" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#armas"> 
                 <l xml:id="L29">Maguer no’l fazié mengua, <caesura/>ca era encantado,</l>		
                 <l xml:id="L30">vistió una <term cRef="91">loriga</term> <caesura/>de <term cRef="159">azero colado</term>,</l>		
                 <l xml:id="L31"><term cRef="174">terliz</term> e bien <term cRef="43">texida</term>, <caesura/>el <term cRef="93">almofre</term> doblado,</l>		
                 <l xml:id="L32">que del maço de <persName ref="#HEC">Éctor</persName> <caesura/>non oviesse cuidado.</l>
              </lg>
                 
-             <lg n="661" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#armas"> 
+             <lg n="661" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#armas"> 
                 <l xml:id="L33">Por defender las cambas, <caesura/>calçó las <term cRef="95">brafoneras</term>;</l>		
                 <l xml:id="L34">fízolas enlazar <caesura/>con firmes <term cRef="96">trabugueras</term>;</l>		
                 <l xml:id="L35">calçós’ las <term cRef="92">espüelas</term> <caesura/>del cavallo guerreras,</l>		
                 <l xml:id="L36">quando fues’en alcançe, <caesura/>por livrar las carreras.</l>
              </lg>
                 
-             <lg n="662" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#armas">
+             <lg n="662" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#armas">
                 <l xml:id="L37">Posiéronle un <term cRef="94">yelmo</term> <caesura/><term cRef="178">firme</term> e bien <term cRef="26">obrado</term>,</l>
                 <l xml:id="L38">que por oro nin por plata <caesura/>non sería comprado;</l>	
                 <l xml:id="L39">fue a grant <term cRef="175">maestría</term> <caesura/>preso e enlazado.</l>		
                 <l xml:id="L40">¡Cuemo estava fellón, <caesura/><term cRef="203">semejava</term> pecado!</l>	
              </lg>
                 
-             <lg n="663" type="terástico" met="14, 14, 14, 14" rhyme="AAAA" ana="#armas">
+             <lg n="663" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#armas">
                 <l xml:id="L41">Después de todo esto, <caesura/>çiñó una <term cRef="97">espada</term></l>	
                 <l xml:id="L42">que diez vezes fue fecha <caesura/>e diez vezes quebrada.</l>	
                 <l xml:id="L43">El que la ovo fecha, <caesura/>quando la ovo <term cRef="44">temprada</term>,</l>	
