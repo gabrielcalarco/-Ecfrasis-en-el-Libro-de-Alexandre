@@ -285,6 +285,37 @@
                <idno type="???"></idno>
             </person>
 
+            <person xml:id="ISI">
+               <persName type="standard">San Isidoro de Sevilla</persName>
+               <persName type="form">san Esidro</persName>
+               <idno type="???"></idno>
+            </person>
+
+            <person xml:id="GAU">
+               <persName type="standard">Gautier de Chatillion</persName>
+               <persName type="form">Galter</persName>
+               <idno type="???"></idno>
+            </person>
+
+            <person xml:id="ANP">
+               <persName type="standard">Antíparo</persName>
+               <persName type="form">Antípater</persName>
+               <idno type="???"></idno>
+            </person>
+
+            <person xml:id="HOM">
+               <persName type="standard">Homero</persName>
+               <persName type="form">Omero</persName>
+               <idno type="???"></idno>
+            </person>
+
+            <person xml:id="SMI">
+               <persName type="standard">Semíramis</persName>
+               <persName type="form">Semíramis</persName>
+               <idno type="???"></idno>
+            </person>
+            
+
          </listPerson>                  
          
          
@@ -444,7 +475,7 @@
             <place xml:id="GIB">
                <placeName type="standard">Gibraltar</placeName>
                <placeName type="form">Oçident’</placeName>
-               <idno type="geonames">https://www.geonames.org/2411586/gibraltar.html</idno>
+               <idno type="pleiades">https://pleiades.stoa.org/places/256045</idno>
             </place>
 
             <place xml:id="ESP">
@@ -605,7 +636,7 @@
             
             <place xml:id="FRA">
                <placeName type="standard">Francia</placeName>
-               <placeName type="form">Francia</placeName>
+               <placeName type="form">Galas</placeName>
                <idno type="geonames">https://www.geonames.org/3017382/republic-of-france.html</idno>
             </place> 
             
@@ -624,28 +655,117 @@
             <place xml:id="TEB">
                <placeName type="standard">Tebas</placeName>
                <placeName type="form">Tebas</placeName>
-               <idno type="pleiades"></idno>
+               <idno type="pleiades">https://pleiades.stoa.org/places/541138</idno>
             </place>
 
             <place xml:id="FRI">
                <placeName type="standard">Frigia</placeName>
                <placeName type="form">Frigia</placeName>
-               <idno type="pleiades"></idno>
+               <idno type="pleiades">https://pleiades.stoa.org/places/609502</idno>
             </place>
             
             <place xml:id="TIR">
                <placeName type="standard">Tiro</placeName>
                <placeName type="form">Tiro</placeName>
-               <idno type="pleiades"></idno>
+               <idno type="pleiades">https://pleiades.stoa.org/places/678437</idno>
             </place>
 
             <place xml:id="ALM">
                <placeName type="standard">Almería</placeName>
                <placeName type="form">Almaría</placeName>
-               <idno type="geonames"></idno>
+               <idno type="geonames">https://www.geonames.org/2521886/almeria.html</idno>
+            </place>
+
+            <place xml:id="CAU">
+               <placeName type="standard">Cáucaso</placeName>
+               <placeName type="form">Cáucaso</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/863766</idno>
             </place>
             
+            <place xml:id="INO">
+               <placeName type="standard">Indo</placeName>
+               <placeName type="form">Indos</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/59851</idno>
+            </place>     
             
+            <place xml:id="ASR">
+               <placeName type="standard">Asiria</placeName>
+               <placeName type="form">Asiria</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/29492</idno>
+            </place>     
+            
+            <place xml:id="PAN">
+               <placeName type="standard">Panfilia</placeName>
+               <placeName type="form">Panfilïa</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/981530</idno>
+            </place>             
+            
+            <place xml:id="MED">
+               <placeName type="standard">Media</placeName>
+               <placeName type="form">Media</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/903080</idno>
+            </place>                
+
+            <place xml:id="MES">
+               <placeName type="standard">Mesopotamia</placeName>
+               <placeName type="form">Mesopotamia</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/874602</idno>
+            </place> 
+
+            <place xml:id="SIR">
+               <placeName type="standard">Siria</placeName>
+               <placeName type="form">Siria</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/981550</idno>
+            </place> 
+            
+            <place xml:id="ARA">
+               <placeName type="standard">Arabia</placeName>
+               <placeName type="form">Arabia</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/981506</idno>
+            </place> 
+
+            <place xml:id="SIN">
+               <placeName type="standard">Sinaí</placeName>
+               <placeName type="form">Sinäi</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/746815</idno>
+            </place>
+
+            <place xml:id="PAL">
+               <placeName type="standard">Palestina</placeName>
+               <placeName type="form">Palestina</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/746815</idno>
+            </place>
+
+            <place xml:id="BRE">
+               <placeName type="standard">Bretaña</placeName>
+               <placeName type="form">Bretaña</placeName>
+               <idno type="geonames">https://www.geonames.org/3030293/bretagne.html</idno>
+            </place>
+
+            <place xml:id="ALE">
+               <placeName type="standard">Alemania</placeName>
+               <placeName type="form">Alemania</placeName>
+               <idno type="geonames">https://www.geonames.org/2921044/federal-republic-of-germany.html</idno>
+            </place>
+
+            <place xml:id="SAM">
+               <placeName type="standard">Samaria</placeName>
+               <placeName type="form">Samaria</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/678369</idno>
+            </place>
+
+            <place xml:id="CAP">
+               <placeName type="standard">Capadocia</placeName>
+               <placeName type="form">Capadoçia</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/981523</idno>
+            </place>
+            
+            <place xml:id="ICO">
+               <placeName type="standard">Iconium?</placeName>
+               <placeName type="form">Iconia</placeName>
+               <idno type="pleiades">https://pleiades.stoa.org/places/648647</idno>
+            </place>            
+
          </listPlace>
         
       </body>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schemas/myTEI-taxonomy-.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    
+    <teiHeader>
+        <fileDesc>
+            
+            <titleStmt>
+                <title type="main">Libro de Alexandre</title>
+                <title type="sub">Viaje submarino</title>
+                <author ref="#ANM">Anónimo</author>
+                <editor xml:id="GAC">Gabriel A. Calarco</editor>
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher>A definir</publisher>
+                <availability>
+                    <licence>Creative Commons Reconocimiento – CompartirIgual</licence>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <listBibl>
+                    <bibl type="book"> 
+                        <title>Libro de Alexandre</title>
+                        <editor>Juan Casas Rigall</editor>
+                        <publisher>Real Academia Española</publisher>
+                        <date>2014</date>
+                        <pubPlace>Madrid</pubPlace>
+                    </bibl>
+                </listBibl>
+                
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Nacional (Madrid)</repository>
+                        <idno>V-5-n.10</idno>
+                        <altIdentifier>
+                            <idno>O</idno>
+                        </altIdentifier>
+                    </msIdentifier>        
+                </msDesc> 
+                
+                <msDesc>      
+                    <msIdentifier>
+                        <repository>Bibliotheque Nationale de France (París)</repository>
+                        <idno>Esp. 488</idno>
+                        <altIdentifier>
+                            <idno>P</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                </msDesc>    
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <profileDesc>    
+            <langUsage>
+                <language ident="sp">Castellano</language>
+            </langUsage>
+        </profileDesc>
+        
+        <revisionDesc>
+            <listChange>
+                <change/>
+            </listChange>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <note>Se trata de un fragmento del Libro de Alexandre</note>  
+            
+            
+            <lg type="poema" 
+                subtype="épica-culta" 
+                met="14,14,14,14" 
+                rhyme="AAAA"   
+                unisonancia="singular" 
+                isometrismo="isométrico" 
+                isoestrofismo="heteroestrófico" 
+                asonancia="consonante"> 
+                
+ 
+
+                <lg n="2119" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#palacio">
+                    <l xml:id="L1">La <term cRef="26">obra</term> del <term cRef="65">palaçio</term> <caesura/>non es de olvidar,</l>
+                    <l xml:id="L2">maguer non la podamos <caesura/>dignamente <term cRef="81">contar</term>:</l>	
+                    <l xml:id="L3">por que mucho queramos <caesura/>la verdat <term cRef="82">alabar</term>,</l>	
+                    <l xml:id="L4">aún avrán por esso <caesura/>algunos a dubdar.</l>
+                </lg>
+                
+                Una fazaña suelen		las gentes retraer;		2305
+                non yaze en escripto:		es malo de creer.		
+                Si es verdat o non,		yo non he ý qué fer,		
+                maguer non la quïero		en olvido poner.
+                
+                Dizen que, por saber		qué fazen los pescados,	2306
+                cómo viven los chicos		entre los más granados,
+                fizo arca de vidrio		con muzos bien çerrados;	
+                metiose él de dentro		con dos de sus crïados.
+                
+                Estos fueron catados		de todos los mejores,		2307
+                por tal que non oviessen		dono los träidores:	
+                quan’ que él e que ellos		avién aguardadores,	
+                non farién a su guisa		los malos reboltores.
+                
+                Fue de buena betubne		la cuba aguisada;		2308
+                fue con buenas cadenas		bien presa e calçada;	
+                fue con pliegos bien firmes		a las naves plegada,	
+                que fondir non se podiesse		e estodiesse colgada.
+                
+                Mandó que lo dexassen	quinze días durar;		2309
+                las naves, con tod’esto,		pensassen de andar:	
+                assaz podrié en esto		saber e mesurar		
+                e meter en escripto		los secretos del mar.
+                
+                La cuba fue echada		en qu’el rëy yazié;		2310
+                a los unos pesava,		a los otros plazié:		
+                bien cuidavan algunos		que nunca ende saldrié,
+                mas destajado era		que en mar non morrié.
+                
+                Andava el buen rëy		en su casa çerrada:		2311
+                sedié grant coraçón		en angosta posada.		
+                Veyé toda la mar		de pescados poblada:		
+                non es bestia en sieglo		que non fues’ý trobada.
+                
+                Non vive en el mundo	ninguna crïatura		2312
+                que non cría el mar		semejante figura.		
+                Traen enemistades		entre sí por natura:		
+                los fuertes a los flacos		danles malaventura.
+                
+                Estonçes vio el rëy		en aquellas andadas		2313
+                cómo echan los unos		a los otros çeladas.		
+                Dizen que ende fueran		presas e sossacadas:	
+                fueron desent’acá		en el sieglo usadas.
+                
+                Tanto se acogién		al rëy los pescados		2314
+                como si los oviés’		por armas sobjudgados:	
+                vinién fasta la cuba		todos cabez’ colgados;	
+                tremién todos ant’él		como moços mojados.
+                
+                Jurava Alexandre		por el su diestro lado		2315
+                que nunca fuera d’omnes		mejor acompañado.	
+                De los pueblos del mar		tóvose por pagado:	
+                ¡contava que avié		grant imperio ganado!
+                
+                Otra fazaña vío		en essos pobladores:		2316
+                vío que los mayores		comién a los menores;	
+                los chicos a los grandes		tenienlos por señores;	
+                maltrayén los más fuertes		a todos los menores.
+                
+                Diz’el rëy: «¡Sobervia	es en todos lugares!:		2317
+                es fuerça en la tierra		e dentro en los mares;		
+                las aves esso mismo		non se catan por pares.	
+                ¡Dios confonda tal viçio	que tien’ tantos lugares!
+                
+                »Naçió entre los ángeles:	fizo muchos caer;		2318
+                derramó por la tierra,		diole Dios grant poder.	
+                La mesura non puede		su derecho aver:		
+                ascondió su cabeça,		non osa pareçer.
+                
+                »Qui más puede más faze,	non de bien mas de mal;	2319
+                qui más ha más quïer’:		muere por ganar ál;	
+                non verié de su grado		ninguno so egual.		
+                ¡Mal pecado, ninguno		non es a Dios leal!
+                
+                »Las aves e las bestias,	los omnes, los pescados,	2320
+                todos son entre sí		a bandos derramados.		
+                ¡De viçio de sobervia			son todos entecados!:	
+                ¡los flacos de los fuertes		andan desafïados!»
+                
+                Si como lo sabié		el rëy bien asmar		2321
+                quisiesse a sí mismo		a derechas judgar,		
+                bien devié un poquillo		su lengua refrenar,	
+                que tan fieras grandías		non quisiesse bafar.
+                
+                De su grado el rëy		más oviera estado,		2322
+                mas a sus criazones		faziéseles pesado:		
+                temiendo ocasión,		que suel’ venir privado,	
+                sacáronlo bien ante		del término passado.
+                
+
+                
+            </lg>
+        </body>
+    </text>
+</TEI> 

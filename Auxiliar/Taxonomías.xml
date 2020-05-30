@@ -23,7 +23,12 @@
 
         <encodingDesc>
             <classDecl>
-                <taxonomy xml:id="obras">
+                
+                
+                
+          <taxonomy xml:id="écfrasis">
+              
+              <category xml:id="obras">
                     <category xml:id="adobos"/>
                     <category xml:id="armas">
                         <category xml:id="escudo"/>
@@ -34,7 +39,20 @@
                         <category xml:id="arbolautomata"/>
                     </category>
                     <category xml:id="tienda"/>
-                </taxonomy>
+                </category>
+              
+                <category xml:id="lugares">
+                    <category xml:id="asia"/>
+                    <category xml:id="babilonia"/>
+                    <category xml:id="infierno"/>
+                </category>
+              
+              <category xml:id="viajes">
+                  <category xml:id="submarino"/>
+                  <category xml:id="aéreo"/>
+              </category>
+              
+            </taxonomy>
  
                 
                 
@@ -42,14 +60,20 @@
                     
                     <category xml:id="científicos">
                         <category xml:id="mapamundi"/>
+                        
                         <category xml:id="tiempo">
                             <category xml:id="astronomía"/>
                             <category xml:id="calendario"/>
                             <category xml:id="edaddelmundo"/>
-                        </category>   
+                        </category> 
+                        
                         <category xml:id="naturaleza">
-                            <category xml:id="vegetales"/>
+                            <category xml:id="vegetales">
+                                <category xml:id="uvas"/>
+                                <category xml:id="especias"/>
+                            </category>
                             <category xml:id="animales"/>
+                            <category xml:id="lapidario"/>
                          </category>
                     </category>
                     
@@ -69,7 +93,7 @@
                         <category xml:id="reyesdeisrael"/>
                     </category>
                     
-                    <category xml:id="clasicos">
+                    <category xml:id="clásicos">
                         <category xml:id="diosespaganos"/>
                         <category xml:id="hercules"/>
                         <category xml:id="troya"/>
