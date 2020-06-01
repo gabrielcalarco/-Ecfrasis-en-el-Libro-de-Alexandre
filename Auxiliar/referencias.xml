@@ -314,8 +314,31 @@
                <persName type="form">Semíramis</persName>
                <idno type="???"></idno>
             </person>
-            
 
+            <person xml:id="CRI">
+               <persName type="standard">Cristo</persName>
+               <persName type="form">Christo</persName>
+               <idno type="???"></idno>
+            </person>
+
+            <person xml:id="VIR">
+               <persName type="standard">María</persName>
+               <persName type="form">Virgen</persName>
+               <idno type="???"></idno>
+            </person>
+            
+            <person xml:id="ADA">
+               <persName type="standard">Adán</persName>
+               <persName type="form">Adam</persName>
+               <idno type="???"></idno>
+            </person>
+            
+            <person xml:id="ERO">
+               <persName type="standard">Herodes</persName>
+               <persName type="form">Herodes</persName>
+               <idno type="???"></idno>
+            </person>
+            
          </listPerson>                  
          
          
@@ -765,6 +788,12 @@
                <placeName type="form">Iconia</placeName>
                <idno type="pleiades">https://pleiades.stoa.org/places/648647</idno>
             </place>            
+
+            <place xml:id="PSO">
+               <placeName type="standard">Jardín del Edén</placeName>
+               <placeName type="form">Paraíso</placeName>
+               <idno></idno>
+            </place>
 
          </listPlace>
         
