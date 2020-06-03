@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="schemas/myTEI-taxonomy-.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schemas/myTEI-taxonomy-.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     
     <teiHeader>
@@ -92,9 +92,9 @@
                 </lg>
                 
                 <lg n="2120" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#palacio">
-                    <l xml:id="L5">El logar era plano, <caesura/>ricament’ assentado,</l>
-                    <l xml:id="L6">avondado de caça, <caesura/>siquiere de venado;</l>		
-                    <l xml:id="L7">las montañas bien çerca, <caesura/>do paçié el ganado;</l>	
+                    <l xml:id="L5">El logar era plano, <caesura/><term cRef="183">ricament’</term> assentado,</l>
+                    <l xml:id="L6" ana="#animales">avondado de caça, <caesura/>siquiere de <term cRef="480">venado</term>;</l>		
+                    <l xml:id="L7" ana="#animales">las montañas bien çerca, <caesura/>do paçié el <term cRef="586">ganado</term>;</l>	
                     <l xml:id="L8">verano e ivierno <caesura/>era logar temprado.</l>
                 </lg>
                 
@@ -107,7 +107,7 @@
                 
                 <lg n="2122" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#palacio">
                     <l xml:id="L13">Eran bien <term cRef="41">enluzidas</term> <caesura/>e <term cRef="178">firmes</term> las <term cRef="117">paredes</term>;</l>
-                    <l xml:id="L14">non le ý fazién mengua <caesura/>sávanas nin tapedes;</l>	
+                    <l xml:id="L14">non le ý fazién mengua <caesura/><term cRef="386">sávanas</term> nin <term cRef="387">tapedes</term>;</l>	
                     <l xml:id="L15">el <term cRef="358">techo</term> era <term cRef="359">pinto</term> <caesura/>a <term cRef="360">lazos</term> e a <term cRef="361">redes</term>,</l>		
                     <l xml:id="L16">todo de <term cRef="150">oro</term> fino, <caesura/>como en Dios creedes.</l>
                 </lg>
@@ -156,7 +156,7 @@
                 
                 <lg n="2129" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#palacio #vegetales">
                     <l xml:id="L41">Allí trobarié omne <caesura/>las unas <term cRef="374">tardaniellas</term>;</l>
-                    <l xml:id="L42">las otras <term cRef="375">migaruelas</term>, <caesura/>que son más tempraniellas;</l>	
+                    <l xml:id="L42">las otras <term cRef="375">migaruelas</term>, <caesura/>que son más <term cRef="587">tempraniellas</term>;</l>	
                     <l xml:id="L43">las <term cRef="376">blancas alfonsinas</term>, <caesura/>que tornan amariellas;</l>
                     <l xml:id="L44">las <term cRef="377">alfonsinas negras</term>, <caesura/>que son más cardeniellas.</l>
                 </lg>
@@ -228,7 +228,7 @@
                     <l xml:id="L81">Allí era la <term cRef="134">música</term> <caesura/><term cRef="55">cantada</term> por <term cRef="389">razón</term>:</l>
                     <l xml:id="L82">las <term cRef="190">dulçes</term> <term cRef="138">deballadas</term>, <caesura/>el <term cRef="193">plorant’</term> <term cRef="139">semitón’</term>,</l>		
                     <l xml:id="L83">las <term cRef="140">doblas</term>, que refieren <caesura/>cuitas del coraçón,</l>	 
-                    <l xml:id="L84">bien podién tirar <term cRef="172">preçio</term> <caesura/>a una prosiçïón.</l>
+                    <l xml:id="L84">bien podién tirar <term cRef="172">preçio</term> <caesura/>a una <term cRef="535">prosiçïón</term>.</l>
                 </lg>
                 
                 <lg n="2140" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#palacio #arbolautomata">

@@ -102,7 +102,7 @@
                     <l xml:id="L9">El <term cRef="124">paño</term> de la <term cRef="66">tienda</term> <caesura/>era <term cRef="183">rico</term> sobejo;</l>
                     <l xml:id="L10">era de <term cRef="154">seda</term> fina, <caesura/>de un <term cRef="155">xamet’</term> vermejo.</l>	
                     <l xml:id="L11">Como era <term cRef="43">texido</term> <caesura/><term cRef="355">egualmente</term> <term cRef="185">parejo</term>,</l>		
-                    <l xml:id="L12">quando el sol rayava, <caesura/><term cRef="184">luzié</term> como espejo.</l>
+                    <l xml:id="L12">quando el sol rayava, <caesura/><term cRef="184">luzié</term> como <term cRef="530">espejo</term>.</l>
                 </lg>
                 
                 <lg n="2542" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda">
@@ -166,7 +166,7 @@
                 
                 
                 <lg n="2550" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #caidalucifer">
-                    <l xml:id="L45">Era en la <term cRef="129">corona</term> <caesura/>el Çielo debuxado,</l>
+                    <l xml:id="L45">Era en la <term cRef="129">corona</term> <caesura/>el <term cRef="577">Çielo</term> debuxado,</l>
                     <l xml:id="L46">todo de crïaturas <caesura/>angélicas poblado,</l>	
                     <l xml:id="L47">mas el lugar do fue <caesura/><persName ref="#LUC">Luçifer</persName> derribado</l>
                     <l xml:id="L48">todo estava yermo, <caesura/>pobre e deshonrado.</l>

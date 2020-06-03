@@ -338,7 +338,85 @@
                <persName type="form">Herodes</persName>
                <idno type="???"></idno>
             </person>
-            
+        
+            <person xml:id="LAM">
+               <persName type="standard">Lamet</persName>
+               <persName type="form">Lamet</persName>
+               <idno type="???"></idno>
+            </person>
+        
+            <person xml:id="JOB">
+               <persName type="standard">Job</persName>
+               <persName type="form">Job</persName>
+               <idno type="???"></idno>
+            </person>
+        
+            <person xml:id="PLU">
+               <persName type="standard">Plutón</persName>
+               <persName type="form">Pluto</persName>
+               <idno type="???"></idno>
+            </person>
+        
+            <person xml:id="PAB">
+               <persName type="standard">San Pablo</persName>
+               <persName type="form">san Paulo</persName>
+               <idno type="???"></idno>
+            </person>
+      
+            <person xml:id="LOT">
+               <persName type="standard">Lot</persName>
+               <persName type="form">Lot</persName>
+               <idno type="???"></idno>
+            </person>
+      
+            <person xml:id="CAT">
+               <persName type="standard">Catón</persName>
+               <persName type="form">Catón</persName>
+               <idno type="???"></idno>
+            </person>
+      
+            <person xml:id="NIO">
+               <persName type="standard">Niobe</persName>
+               <persName type="form">Nïobé</persName>
+               <idno type="???"></idno>
+            </person>
+      
+            <person xml:id="FEL">
+               <persName type="standard">Felis</persName>
+               <persName type="form">Felis</persName>
+               <idno type="???"></idno>
+            </person>
+  
+            <person xml:id="ELO">
+               <persName type="standard">Esposa de Lot</persName>
+               <persName type="form">la muger de Lot</persName>
+               <idno type="???"></idno>
+            </person>
+  
+            <person xml:id="ZOZ">
+               <persName type="standard">Zósimo?</persName>
+               <persName type="form">Zózimas</persName>
+               <idno type="???"></idno>
+            </person>
+  
+            <person xml:id="EST">
+               <persName type="standard">Ester</persName>
+               <persName type="form">Ester</persName>
+               <idno type="???"></idno>
+            </person>
+  
+            <person xml:id="TIC">
+               <persName type="standard">Tiçio</persName>
+               <persName type="form">Tiçio</persName>
+               <idno type="???"></idno>
+            </person>
+  
+            <person xml:id="MIG">
+               <persName type="standard">San Miguel</persName>
+               <persName type="form">san Miguel</persName>
+               <idno type="???"></idno>
+            </person>
+  
          </listPerson>                  
          
          
@@ -789,12 +867,7 @@
                <idno type="pleiades">https://pleiades.stoa.org/places/648647</idno>
             </place>            
 
-            <place xml:id="PSO">
-               <placeName type="standard">Jardín del Edén</placeName>
-               <placeName type="form">Paraíso</placeName>
-               <idno></idno>
-            </place>
-
+           
          </listPlace>
         
       </body>

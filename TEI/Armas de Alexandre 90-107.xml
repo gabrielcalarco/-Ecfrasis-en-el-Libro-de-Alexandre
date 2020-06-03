@@ -179,7 +179,7 @@
             </lg>
                 <lg n="106" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#armas #escudo">
                     <l xml:id="L65">Quiérovos <term cRef="80">esponer</term> <caesura/>la <term cRef="189">bondat</term> del <term cRef="98">escudo</term>:</l>		
-                    <l xml:id="L66">fecho fue de <term cRef="160">costiella <caesura/>d’un pescado corpudo</term>;</l>
+                    <l xml:id="L66" ana="#animales">fecho fue de <term cRef="160">costiella <caesura/>d’un pescado corpudo</term>;</l>
                     <l xml:id="L67">no’l passarié fïerro <caesura/>—¡non serié tan agudo!—;</l>
                     <l xml:id="L68">cavallero que lo toviés’ <caesura/>non serié abatudo.</l>
             </lg>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-E<?xml-model href="schemas/myTEI-taxonomy-.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schemas/myTEI-taxonomy-.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     
     <teiHeader>
@@ -108,7 +108,7 @@ E<?xml-model href="schemas/myTEI-taxonomy-.rng" type="application/xml" schematyp
                 </lg> 
                 <lg n="1243" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#sepulcro #patriarcas #moises">
                     <l xml:id="L17">las carreras del mar <caesura/>e la muerte de <persName ref="#FAR">Farón</persName>,</l>
-                    <l xml:id="L18">cómo pidién los pueblos <caesura/>rëy a <persName ref="#ARO">Arón</perEsName>,</l>		
+                    <l xml:id="L18">cómo pidién los pueblos <caesura/>rëy a <persName ref="#ARO">Arón</persName>,</l>		
                     <l xml:id="L19">cómo prendié la Lëy <caesura/><persName ref="#MOI">Möisés</persName> el varón,</l>
                     <l xml:id="L20">cómo se consumién <caesura/><persName ref="#DAT">Datán</persName> e <persName ref="#ABI">Abirón</persName>,</l>
                 </lg> 

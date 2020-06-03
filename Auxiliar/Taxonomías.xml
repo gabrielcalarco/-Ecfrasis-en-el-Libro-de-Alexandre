@@ -48,8 +48,8 @@
                 </category>
               
               <category xml:id="viajes">
-                  <category xml:id="submarino"/>
-                  <category xml:id="aéreo"/>
+                  <category xml:id="viajesubmarino"/>
+                  <category xml:id="viajeaéreo"/>
               </category>
               
             </taxonomy>
@@ -77,7 +77,7 @@
                          </category>
                     </category>
                     
-                    <category xml:id="bíblicos">
+                    <category xml:id="religiosos">
                         <category xml:id="torredebabel"/>
                         <category xml:id="reyesdeoriente"/>
                         <category xml:id="caidalucifer"/>
@@ -92,6 +92,10 @@
                         </category>
                         <category xml:id="reyesdeisrael"/>
                         <category xml:id="nuevotestamento"/>
+                        <category xml:id="pecadoscapitales">
+                            <category xml:id="ejemploenvidioso"/>
+                        </category>
+                            
                     </category>
                     
                     <category xml:id="clásicos">

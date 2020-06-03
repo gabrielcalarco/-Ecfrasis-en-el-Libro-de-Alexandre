@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="schemas/myTEI-taxonomy-.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schemas/myTEI-taxonomy-.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     
     <teiHeader>
@@ -115,7 +115,7 @@
                     <l xml:id="L17"><placeName ref="#LIB">Libia</placeName> era de miesses <caesura/>rica e avondada;</l>
                     <l xml:id="L18"><placeName ref="#EGP">la tierra de <persName ref="#AMO">Amón</persName></placeName>, <caesura/>de pluvia muy menguada,</l>
                     <l xml:id="L19">rïégala <placeName ref="#NIL">Egipto</placeName>, <caesura/>tiénela muy bastada;</l>		
-                    <l xml:id="L20">el marfil es en <placeName ref="#IND">India</placeName>, <caesura/>onde es tan nombrada.</l>
+                    <l xml:id="L20">el <term cRef="161">marfil</term> es en <placeName ref="#IND">India</placeName>, <caesura/>onde es tan nombrada.</l>
                 </lg>
                 
                 <lg n="1239" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#sepulcro #mapamundi">
@@ -129,7 +129,7 @@
                     <l xml:id="L25"><term cRef="347">los pueblos de <placeName>España</placeName></term>, <caesura/>cómo son tan ligeros;</l>
                     <l xml:id="L26"><term cRef="202">pareçién</term> los <term cRef="334">françeses</term>, <caesura/>valientes cavalleros;</l>
                     <l xml:id="L27"><placeName ref="#CHA">Champaña</placeName>, que aqueda <caesura/>los vinos delanteros;</l>
-                    <l xml:id="L28"><placeName ref="#SAB">Saba</placeName>, do el ençenso <caesura/>miden a sesteros;</l>
+                    <l xml:id="L28"><placeName ref="#SAB">Saba</placeName>, do el <term cRef="439">ençenso</term> <caesura/>miden a sesteros;</l>
                 </lg>
                 
                 <lg n="1239" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#sepulcro #mapamundi">

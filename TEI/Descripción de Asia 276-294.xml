@@ -164,7 +164,7 @@
                 <lg n="287" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#asia #mapamundi">
                     <l xml:id="L45">Ixen del <placeName ref="#PSO">Paraíso</placeName> <caesura/>las quatro <term cRef="229">aguas</term> santas;</l>
                     <l xml:id="L46" ana="#lapidario">ý son las buenas piedras <caesura/><term cRef="448">jaspes</term> e <term cRef="451">dïamantas</term>;</l>	
-                    <l xml:id="L47" ana="#animales">en India es do son <caesura/>las grandes <term cRef="554">elefantas</term>,</l>		
+                    <l xml:id="L47" ana="#animales">en <placeName ref="#IND">India</placeName> es do son <caesura/>las grandes <term cRef="554">elefantas</term>,</l>		
                     <l xml:id="L48">do sembran dos vegadas <caesura/>e cogen otras tantas.</l>
                 </lg>
             

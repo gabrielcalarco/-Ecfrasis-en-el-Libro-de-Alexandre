@@ -82,105 +82,133 @@
                 isoestrofismo="heteroestrófico" 
                 asonancia="consonante"> 
                 
- 
-
-                <lg n="2119" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#palacio">
-                    <l xml:id="L1">La <term cRef="26">obra</term> del <term cRef="65">palaçio</term> <caesura/>non es de olvidar,</l>
-                    <l xml:id="L2">maguer non la podamos <caesura/>dignamente <term cRef="81">contar</term>:</l>	
-                    <l xml:id="L3">por que mucho queramos <caesura/>la verdat <term cRef="82">alabar</term>,</l>	
-                    <l xml:id="L4">aún avrán por esso <caesura/>algunos a dubdar.</l>
+                
+                
+                <lg n="2305" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#viajesubmarino">
+                    <l xml:id="L1">Una fazaña suelen <caesura/>las gentes retraer;</l>
+                    <l xml:id="L2">non yaze en escripto: <caesura/>es malo de creer.</l>		
+                    <l xml:id="L3">Si es verdat o non, <caesura/>yo non he ý qué fer,</l>		
+                    <l xml:id="L4">maguer non la quïero <caesura/>en olvido poner.</l>
                 </lg>
-                
-                Una fazaña suelen		las gentes retraer;		2305
-                non yaze en escripto:		es malo de creer.		
-                Si es verdat o non,		yo non he ý qué fer,		
-                maguer non la quïero		en olvido poner.
-                
-                Dizen que, por saber		qué fazen los pescados,	2306
-                cómo viven los chicos		entre los más granados,
-                fizo arca de vidrio		con muzos bien çerrados;	
-                metiose él de dentro		con dos de sus crïados.
-                
-                Estos fueron catados		de todos los mejores,		2307
-                por tal que non oviessen		dono los träidores:	
-                quan’ que él e que ellos		avién aguardadores,	
-                non farién a su guisa		los malos reboltores.
-                
-                Fue de buena betubne		la cuba aguisada;		2308
-                fue con buenas cadenas		bien presa e calçada;	
-                fue con pliegos bien firmes		a las naves plegada,	
-                que fondir non se podiesse		e estodiesse colgada.
-                
-                Mandó que lo dexassen	quinze días durar;		2309
-                las naves, con tod’esto,		pensassen de andar:	
-                assaz podrié en esto		saber e mesurar		
-                e meter en escripto		los secretos del mar.
-                
-                La cuba fue echada		en qu’el rëy yazié;		2310
-                a los unos pesava,		a los otros plazié:		
-                bien cuidavan algunos		que nunca ende saldrié,
-                mas destajado era		que en mar non morrié.
-                
-                Andava el buen rëy		en su casa çerrada:		2311
-                sedié grant coraçón		en angosta posada.		
-                Veyé toda la mar		de pescados poblada:		
-                non es bestia en sieglo		que non fues’ý trobada.
-                
-                Non vive en el mundo	ninguna crïatura		2312
-                que non cría el mar		semejante figura.		
-                Traen enemistades		entre sí por natura:		
-                los fuertes a los flacos		danles malaventura.
-                
-                Estonçes vio el rëy		en aquellas andadas		2313
-                cómo echan los unos		a los otros çeladas.		
-                Dizen que ende fueran		presas e sossacadas:	
-                fueron desent’acá		en el sieglo usadas.
-                
-                Tanto se acogién		al rëy los pescados		2314
-                como si los oviés’		por armas sobjudgados:	
-                vinién fasta la cuba		todos cabez’ colgados;	
-                tremién todos ant’él		como moços mojados.
-                
-                Jurava Alexandre		por el su diestro lado		2315
-                que nunca fuera d’omnes		mejor acompañado.	
-                De los pueblos del mar		tóvose por pagado:	
-                ¡contava que avié		grant imperio ganado!
-                
-                Otra fazaña vío		en essos pobladores:		2316
-                vío que los mayores		comién a los menores;	
-                los chicos a los grandes		tenienlos por señores;	
-                maltrayén los más fuertes		a todos los menores.
-                
-                Diz’el rëy: «¡Sobervia	es en todos lugares!:		2317
-                es fuerça en la tierra		e dentro en los mares;		
-                las aves esso mismo		non se catan por pares.	
-                ¡Dios confonda tal viçio	que tien’ tantos lugares!
-                
-                »Naçió entre los ángeles:	fizo muchos caer;		2318
-                derramó por la tierra,		diole Dios grant poder.	
-                La mesura non puede		su derecho aver:		
-                ascondió su cabeça,		non osa pareçer.
-                
-                »Qui más puede más faze,	non de bien mas de mal;	2319
-                qui más ha más quïer’:		muere por ganar ál;	
-                non verié de su grado		ninguno so egual.		
-                ¡Mal pecado, ninguno		non es a Dios leal!
-                
-                »Las aves e las bestias,	los omnes, los pescados,	2320
-                todos son entre sí		a bandos derramados.		
-                ¡De viçio de sobervia			son todos entecados!:	
-                ¡los flacos de los fuertes		andan desafïados!»
-                
-                Si como lo sabié		el rëy bien asmar		2321
-                quisiesse a sí mismo		a derechas judgar,		
-                bien devié un poquillo		su lengua refrenar,	
-                que tan fieras grandías		non quisiesse bafar.
-                
-                De su grado el rëy		más oviera estado,		2322
-                mas a sus criazones		faziéseles pesado:		
-                temiendo ocasión,		que suel’ venir privado,	
-                sacáronlo bien ante		del término passado.
-                
+            
+                <lg n="2306" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#viajesubmarino">
+                    <l xml:id="L5">Dizen que, por saber <caesura/>qué fazen los pescados,</l>
+                    <l xml:id="L6">cómo viven los chicos <caesura/>entre los más granados,</l>
+                    <l xml:id="L7">fizo arca de vidrio <caesura/>con muzos bien çerrados;</l>	
+                    <l xml:id="L8">metiose él de dentro <caesura/>con dos de sus crïados.</l>
+                </lg>
+            
+                <lg n="2307" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#viajesubmarino">
+                    <l xml:id="L9">Estos fueron catados <caesura/>de todos los mejores,</l>
+                    <l xml:id="L10">por tal que non oviessen <caesura/>dono los träidores:</l>	
+                    <l xml:id="L11">quan’ que él e que ellos <caesura/>avién aguardadores,</l>	
+                    <l xml:id="L12">non farién a su guisa <caesura/>los malos reboltores.</l>
+                </lg>
+            
+                <lg n="2308" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#viajesubmarino">
+                    <l xml:id="L13">Fue de buena betubne <caesura/>la cuba aguisada;</l>
+                    <l xml:id="L14">fue con buenas cadenas <caesura/>bien presa e calçada;</l>	
+                    <l xml:id="L15">fue con pliegos bien firmes <caesura/>a las naves plegada,</l>	
+                    <l xml:id="L16">que fondir non se podiesse <caesura/>e estodiesse colgada.</l>
+                </lg>
+            
+                <lg n="2309" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#viajesubmarino">
+                    <l xml:id="L17">Mandó que lo dexassenqui <caesura/>nze días durar;</l>
+                    <l xml:id="L18">las naves, con tod’esto, <caesura/>pensassen de andar:</l>	
+                    <l xml:id="L19">assaz podrié en esto <caesura/>saber e mesurar</l>		
+                    <l xml:id="L20">e meter en escripto <caesura/>los secretos del mar.</l>
+                </lg>
+            
+                <lg n="2310" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#viajesubmarino">
+                    <l xml:id="L21">La cuba fue echada <caesura/>en qu’el rëy yazié;</l>
+                    <l xml:id="L22">a los unos pesava, <caesura/>a los otros plazié:</l>
+                    <l xml:id="L23">bien cuidavan algunos <caesura/>que nunca ende saldrié,</l>
+                    <l xml:id="L24">mas destajado era <caesura/>que en mar non morrié.</l>
+                </lg>
+            
+                <lg n="2311" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#viajesubmarino">
+                    <l xml:id="L25">Andava el buen rëy <caesura/>en su casa çerrada:</l>
+                    <l xml:id="L26">sedié grant coraçón <caesura/>en angosta posada.</l>
+                    <l xml:id="L27">Veyé toda la mar <caesura/>de pescados poblada:</l>
+                    <l xml:id="L28">non es bestia en sieglo <caesura/>que non fues’ý trobada.</l>
+                </lg>
+            
+                <lg n="2312" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#viajesubmarino">
+                    <l xml:id="L29">Non vive en el mundo <caesura/>ninguna crïatura</l>
+                    <l xml:id="L30">que non cría el mar <caesura/>semejante figura.</l>
+                    <l xml:id="L31">Traen enemistades <caesura/>entre sí por natura:</l>
+                    <l xml:id="L32">los fuertes a los flacos <caesura/>danles malaventura.</l>
+                </lg>
+            
+                <lg n="2313" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#viajesubmarino">
+                    <l xml:id="L33">Estonçes vio el rëy <caesura/>en aquellas andadas</l>
+                    <l xml:id="L34">cómo echan los unos <caesura/>a los otros çeladas.</l>
+                    <l xml:id="L35">Dizen que ende fueran <caesura/>presas e sossacadas:</l>	
+                    <l xml:id="L36">fueron desent’acá <caesura/>en el sieglo usadas.</l>
+                </lg>
+            
+                <lg n="2314" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#viajesubmarino">
+                    <l xml:id="L37">Tanto se acogién <caesura/>al rëy los pescados</l>
+                    <l xml:id="L38">como si los oviés’ <caesura/>por armas sobjudgados:</l>	
+                    <l xml:id="L39">vinién fasta la cuba <caesura/>todos cabez’ colgados;</l>	
+                    <l xml:id="L40">tremién todos ant’él <caesura/>como moços mojados.</l>
+                </lg>
+            
+                <lg n="2315" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#viajesubmarino">
+                    <l xml:id="L41">Jurava Alexandre <caesura/>por el su diestro lado</l>
+                    <l xml:id="L42">que nunca fuera d’omnes <caesura/>mejor acompañado.</l>	
+                    <l xml:id="L43">De los pueblos del mar <caesura/>tóvose por pagado:</l>	
+                    <l xml:id="L44">¡contava que avié <caesura/>grant imperio ganado!</l>
+                </lg>
+            
+                <lg n="2316" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#viajesubmarino">
+                    <l xml:id="L45">Otra fazaña vío <caesura/>en essos pobladores:</l>
+                    <l xml:id="L46">vío que los mayores <caesura/>comién a los menores;</l>	
+                    <l xml:id="L47">los chicos a los grandes <caesura/>tenienlos por señores;</l>	
+                    <l xml:id="L48">maltrayén los más fuertes <caesura/>a todos los menores.</l>
+                </lg>
+            
+                <lg n="2317" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#viajesubmarino">
+                    <l xml:id="L49">Diz’el rëy: «¡Sobervia <caesura/>es en todos lugares!:</l>
+                    <l xml:id="L50">es fuerça en la tierra <caesura/>e dentro en los mares;</l>		
+                    <l xml:id="L51">las aves esso mismo <caesura/>non se catan por pares.</l>	
+                    <l xml:id="L52">¡Dios confonda tal viçio <caesura/>que tien’ tantos lugares!</l>
+                </lg>
+            
+                <lg n="2318" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#viajesubmarino">
+                    <l xml:id="L53">»Naçió entre los ángeles: <caesura/>fizo muchos caer;</l>
+                    <l xml:id="L54">derramó por la tierra, <caesura/>diole Dios grant poder.</l>	
+                    <l xml:id="L55">La mesura non puede <caesura/>su derecho aver:</l>		
+                    <l xml:id="L56">ascondió su cabeça, <caesura/>non osa pareçer.</l>
+                </lg>
+            
+                <lg n="2319" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#viajesubmarino">
+                    <l xml:id="L57">»Qui más puede más faze, <caesura/>non de bien mas de mal;</l>
+                    <l xml:id="L58">qui más ha más quïer’: <caesura/>muere por ganar ál;</l>	
+                    <l xml:id="L59">non verié de su grado <caesura/>ninguno so egual.</l>		
+                    <l xml:id="L60">¡Mal pecado, ninguno <caesura/>non es a Dios leal!</l>
+                </lg>
+            
+                <lg n="2320" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#viajesubmarino">
+                    <l xml:id="L61">»Las aves e las bestias, <caesura/>los omnes, los pescados,</l>
+                    <l xml:id="L62">todos son entre sí <caesura/>a bandos derramados.</l>		
+                    <l xml:id="L63">¡De viçio de sobervia <caesura/>son todos entecados!:</l>	
+                    <l xml:id="L64">¡los flacos de los fuertes <caesura/>andan desafïados!»</l>
+                </lg>
+            
+                <lg n="2321" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#viajesubmarino">
+                    <l xml:id="L65">Si como lo sabié <caesura/>el rëy bien asmar</l>
+                    <l xml:id="L66">quisiesse a sí mismo <caesura/>a derechas judgar,</l>		
+                    <l xml:id="L67">bien devié un poquillo <caesura/>su lengua refrenar,</l>	
+                    <l xml:id="L68">que tan fieras grandías <caesura/>non quisiesse bafar.</l>
+                </lg>
+            
+                <lg n="2322" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#viajesubmarino">
+                    <l xml:id="L69">De su grado el rëy <caesura/>más oviera estado,</l>
+                    <l xml:id="L70">mas a sus criazones <caesura/>faziéseles pesado:</l>		
+                    <l xml:id="L71">temiendo ocasión, <caesura/>que suel’ venir privado,</l>	
+                    <l xml:id="L72">sacáronlo bien ante <caesura/>del término passado.</l>
+                </lg>    
 
                 
             </lg>

@@ -122,12 +122,12 @@
                 <lg n="1465" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#babilonia #alrededores #especias">
                     <l xml:id="L21">Los quatro <term cRef="231">ríos</term> santos <caesura/>todos los ha vezinos</l>
                     <l xml:id="L22">—dizen que los dos fazen <caesura/>por ella sus caminos—.</l>
-                    <l xml:id="L23">Muelen solas <term cRef="432">espeçias</term> <caesura/>más de quatro molinos;</l>
+                    <l xml:id="L23">Muelen solas <term cRef="432">espeçias</term> <caesura/>más de quatro <term cRef="583">molinos</term>;</l>
                     <l xml:id="L24">más quatro muelen <term cRef="445">pebre</term> <caesura/>e más quatro, <term cRef="446">cominos</term>.</l>
                 </lg>
             
                 <lg n="1466" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#babilonia #alrededores">
-                    <l xml:id="L25">De ruedas de molinos <caesura/>que muelen las çiveras</l>
+                    <l xml:id="L25">De ruedas de <term cRef="583">molinos</term> <caesura/>que muelen las çiveras</l>
                     <l xml:id="L26">e de ricas azeñas <caesura/>que las dizen traperas</l>		
                     <l xml:id="L27">avié grant abondança <caesura/>por todas las riberas;</l>		
                     <l xml:id="L28">eran dentro e fuera <caesura/>seguras las carreras.</l>
@@ -315,10 +315,10 @@
                     <l xml:id="L132">ca quiero yo fincar <caesura/>con las que he <term cRef="81">contadas</term>.</l>
                 </lg>
             
-                <lg n="1493" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#babilonia #alrededores">
-                    <l xml:id="L133">Son dentro en la <term cRef="237">villa</term> <caesura/>muchas dulçes fontanas,</l>
+                <lg n="1493" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#babilonia #ciudad">
+                    <l xml:id="L133">Son dentro en la <term cRef="237">villa</term> <caesura/>muchas dulçes <term cRef="584">fontanas</term>,</l>
                     <l xml:id="L134">que son de día frías, <caesura/>tibias en las mañanas.</l>		
-                    <l xml:id="L135">Nunca crían en ellas <caesura/>nin <term cRef="478">gusanos</term> nin <term cRef="479">ranas</term>:</l>	
+                    <l xml:id="L135" ana="#animales">Nunca crían en ellas <caesura/>nin <term cRef="478">gusanos</term> nin <term cRef="479">ranas</term>:</l>	
                     <l xml:id="L136">como son perenales, <caesura/>son sabrosas e sanas.</l>
                 </lg>
             
@@ -330,7 +330,7 @@
                 </lg>
             
                 <lg n="1495" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#babilonia #alrededores #animales">
-                    <l xml:id="L141">Las florestas son grandes <caesura/>redor de la <term cRef="238">çibdat</term>;</l>
+                    <l xml:id="L141">Las <term cRef="585">florestas</term> son grandes <caesura/>redor de la <term cRef="238">çibdat</term>;</l>
                     <l xml:id="L142">ý prenden los <term cRef="480">venados</term> <caesura/>a toda planidat:</l>	
                     <l xml:id="L143">los grandes e los chicos, <caesura/>los de media edat</l>	
                     <l xml:id="L144">assí se ivan a ello <caesura/>cuemo a su heredat.</l>
@@ -353,7 +353,7 @@
                 <lg n="1498" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#babilonia #alrededores #animales">
                     <l xml:id="L153">Pero han muchas d’ellas	e <caesura/>todas muy boniellas,</l>
                     <l xml:id="L154">cadauno a su puerta <caesura/>tres o quatro çestiellas:</l>	
-                    <l xml:id="L155">quando empieçan sus sones <caesura/>a fer las <term cRef="282">aveziellas</term>,</l>	
+                    <l xml:id="L155">quando empieçan sus <term cRef="137">sones</term> <caesura/>a fer las <term cRef="282">aveziellas</term>,</l>	
                     <l xml:id="L156">las madres a los fijos <caesura/>olvidarién por ellas.</l>
                 </lg>
             
@@ -380,7 +380,7 @@
             
                 <lg n="1502" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#babilonia #alrededores">
                     <l xml:id="L169">Pero ý fincan cosas <caesura/>que non son de dexar:</l>
-                    <l xml:id="L170">cuémo vienen ganançias <caesura/>por tierra e por mar;</l>	
+                    <l xml:id="L170">cuémo vienen ganançias <caesura/>por <term cRef="233">tierra</term> e por <term cRef="230">mar</term>;</l>	
                     <l xml:id="L171">las más <term cRef="232">naves</term> del mundo <caesura/>allí suelen arribar</l>	
                     <l xml:id="L172">—¡solamente con esso <caesura/>devrié rica estar!—.</l>
                 </lg>
@@ -401,7 +401,7 @@
             
                 <lg n="1505" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#babilonia #ciudad #torredebabel">
                     <l xml:id="L181">Creo que bien podiestes <caesura/>alguna vez <term cRef="204">oír</term></l>
-                    <l xml:id="L182">que quisieron al Çielo <caesura/>los <term cRef="315">Gigantes</term> sobir;</l>		
+                    <l xml:id="L182">que quisieron al <term cRef="577">Çielo</term> <caesura/>los <term cRef="315">Gigantes</term> sobir;</l>		
                     <l xml:id="L183">fizieron una <term cRef="316">torre</term>; <caesura/>non vos cuedo fallir:</l>		
                     <l xml:id="L184">¡non fue quien la podiés’ <caesura/>mesurar nin medir!</l>
                 </lg>
