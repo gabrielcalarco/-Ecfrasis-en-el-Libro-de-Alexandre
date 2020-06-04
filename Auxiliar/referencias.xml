@@ -359,7 +359,13 @@
         
             <person xml:id="PAB">
                <persName type="standard">San Pablo</persName>
-               <persName type="form">san Paulo</persName>
+               <persName type="form">Paulus</persName>
+               <idno type="???"></idno>
+            </person>
+      
+            <person xml:id="PED">
+               <persName type="standard">San Pedro</persName>
+               <persName type="form">Petrus</persName>
                <idno type="???"></idno>
             </person>
       
@@ -414,6 +420,12 @@
             <person xml:id="MIG">
                <persName type="standard">San Miguel</persName>
                <persName type="form">san Miguel</persName>
+               <idno type="???"></idno>
+            </person>
+  
+            <person xml:id="MAH">
+               <persName type="standard">Mahoma</persName>
+               <persName type="form">Mafómat</persName>
                <idno type="???"></idno>
             </person>
   

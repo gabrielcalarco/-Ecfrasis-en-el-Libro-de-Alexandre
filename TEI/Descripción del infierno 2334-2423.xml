@@ -91,28 +91,28 @@
                     <l xml:id="L4">es dubdo e espanto <caesura/>solo de començar.</l>
                 </lg>  
             
-                <lg n="2335" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#infierno">
+                <lg n="2335" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#infierno #paraíso">
                     <l xml:id="L5">El Crïador, que fizo <caesura/>todas las crïaturas</l>
                     <l xml:id="L6">con diversos donaires <caesura/>e diversas figuras,</l>		
                     <l xml:id="L7">ordenó los lugares <caesura/>de diversas naturas</l>		
                     <l xml:id="L8">do reçiben las almas <caesura/>lazerios e folguras.</l>
                 </lg>   
             
-                <lg n="2336" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#infierno">
+                <lg n="2336" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#paraíso">
                     <l xml:id="L9">Fizo pora los buenos, <caesura/>que lo aman servir,</l>
                     <l xml:id="L10">que so aver non dubdan <caesura/>con los pobres partir,</l>	
                     <l xml:id="L11">el santo <term cRef="577">Paraíso</term>, do non pueden morir,</l>		
                     <l xml:id="L12">do non podrán un punto <caesura/>de lazeria sofrir.</l>
                 </lg>
             
-                <lg n="2337" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#infierno">
+                <lg n="2337" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#paraíso">
                     <l xml:id="L13">Allí serán en gloria <caesura/>qual non sabrán pedir,</l>
                     <l xml:id="L14">qual non podrié nul omne <caesura/>fablar nin comedir.</l>	
                     <l xml:id="L15">¡Metrán toda su fuerça <caesura/>en a Dios bendezir,</l>	
                     <l xml:id="L16">al que fue, al que es, <caesura/>al que ha de venir!</l>
                 </lg>
             
-                <lg n="2338" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#infierno">
+                <lg n="2338" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#paraíso">
                     <l xml:id="L17">Nunca sintrán tiniebra, <caesura/>nin frío nin calentura;</l>
                     <l xml:id="L18">verán la faz de Dios, <caesura/>muy dulçe catadura:</l>		
                     <l xml:id="L19">non se fartarán d’ella, <caesura/>tant’es la su dulçura.</l>		
@@ -588,42 +588,42 @@
                     <l xml:id="L288">¡muchas barvas honradas <caesura/>lievan en sos dogales!</l>
                 </lg>
             
-                <lg n="2406" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#infierno #pecadoscapitales">
+                <lg n="2406" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#infierno #pecadoscapitales #soberbia">
                     <l xml:id="L289">E todos estos tiene <caesura/>la <term cRef="582">Sobervia</term> ligados:</l>
                     <l xml:id="L290">todos son sos ministros, <caesura/>que traen sus mandados.</l>
                     <l xml:id="L291">Ella es la reína, <caesura/>ellos son sus crïados:</l>		
                     <l xml:id="L292">a todos siet’ los tien’ <caesura/>ricament’ doctrinados.</l>
                 </lg>
             
-                <lg n="2407" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#infierno #pecadoscapitales">
+                <lg n="2407" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#infierno #soberbia">
                     <l xml:id="L293">Por esto en la cuenta <caesura/>non es ella echada,</l>
                     <l xml:id="L294">porque es de los viçios <caesura/>emperadriz llamada.</l>
                     <l xml:id="L295">Ella les da a todos <caesura/>govierno e soldada:</l>		
                     <l xml:id="L296">por egualar con estos <caesura/>es cosa desaguisada.</l>
                 </lg>
             
-                <lg n="2408" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#infierno #pecadoscapitales">
+                <lg n="2408" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#infierno #soberbia">
                     <l xml:id="L297">Sobre todos los otros <caesura/>puja el su ostal:</l>
                     <l xml:id="L298">tiene que en el mundo <caesura/>non ave su egual.</l>		
                     <l xml:id="L299">Anda en grant cavallo <caesura/>por medio del mercadal,</l>	
                     <l xml:id="L300">desdeñando a todos <caesura/>e diziéndoles mal.</l>
                 </lg>
             
-                <lg n="2409" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#infierno #pecadoscapitales">
-                    <l xml:id="L301">Ándase alabando <caesura/>que, si non fues’ por ella,</l>
-                    <l xml:id="L302">que Dios nunca oviera <caesura/>de <persName ref="#LUC">Luçifer</persName> querella,</l>	
-                    <l xml:id="L303"><persName ref="#ADA">Adam</persName> tan malmetido <caesura/>non fuera a la pella</l>		
-                    <l xml:id="L304">nin tan bien non serié <caesura/>de <persName ref="#EST">Ester</persName> la punçella.</l>
+                <lg n="2409" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#infierno #soberbia">
+                    <l xml:id="L301" ana="#caídalucifer">Ándase alabando <caesura/>que, si non fues’ por ella,</l>
+                    <l xml:id="L302" ana="#caídalucifer">que Dios nunca oviera <caesura/>de <persName ref="#LUC">Luçifer</persName> querella,</l>	
+                    <l xml:id="L303" ana="#adanyeva"><persName ref="#ADA">Adam</persName> tan malmetido <caesura/>non fuera a la pella</l>		
+                    <l xml:id="L304" ana="#adanyeva">nin tan bien non serié <caesura/>de <persName ref="#EST">Ester</persName> la punçella.</l>
                 </lg>
             
-                <lg n="2410" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#infierno #pecadoscapitales">
+                <lg n="2410" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#infierno #soberbia">
                     <l xml:id="L305">A omnes e a ángeles <caesura/>está dando refierta;</l>
                     <l xml:id="L306">tiene con grant coraje <caesura/>la fruente descubierta.</l>
                     <l xml:id="L307">Non sabe so desdén <caesura/>sobre quí lo revierta:</l>		
                     <l xml:id="L308">empeitra su cavallo <caesura/>a quiquier’ que açierta.</l>
                 </lg>
             
-                <lg n="2411" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#infierno  #pecadoscapitales">
+                <lg n="2411" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#infierno  #soberbia">
                     <l xml:id="L309">Que mucho yo vos quiera <caesura/>de los viçios dezir,</l>
                     <l xml:id="L310">podédeslo vós todos <caesura/>mesurar e comedir.</l>		
                     <l xml:id="L311">Quiero, si quisïerdes <caesura/>atender e oír,</l>			
