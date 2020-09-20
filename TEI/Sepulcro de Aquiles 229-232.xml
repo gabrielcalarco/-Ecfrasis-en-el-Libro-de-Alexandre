@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schemas/myTEI-taxonomy-.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    
+    <teiHeader>
+        <fileDesc>
+            
+            <titleStmt>
+                <title type="main">Libro de Alexandre</title>
+                <title type="sub">Sepulcro de Aquiles</title>
+                <author ref="#ANM">Anónimo</author>
+                <editor xml:id="GAC">Gabriel A. Calarco</editor>
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher>A definir</publisher>
+                <availability>
+                    <licence>Creative Commons Reconocimiento – CompartirIgual</licence>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <listBibl>
+                    <bibl type="book"> 
+                        <title>Libro de Alexandre</title>
+                        <editor>Juan Casas Rigall</editor>
+                        <publisher>Real Academia Española</publisher>
+                        <date>2014</date>
+                        <pubPlace>Madrid</pubPlace>
+                    </bibl>
+                </listBibl>
+                
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Nacional (Madrid)</repository>
+                        <idno>V-5-n.10</idno>
+                        <altIdentifier>
+                            <idno>O</idno>
+                        </altIdentifier>
+                    </msIdentifier>        
+                </msDesc> 
+                
+                <msDesc>      
+                    <msIdentifier>
+                        <repository>Bibliotheque Nationale de France (París)</repository>
+                        <idno>Esp. 488</idno>
+                        <altIdentifier>
+                            <idno>P</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                </msDesc>    
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <profileDesc>    
+            <langUsage>
+                <language ident="sp">Castellano</language>
+            </langUsage>
+        </profileDesc>
+        
+        <revisionDesc>
+            <listChange>
+                <change/>
+            </listChange>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <note>Se trata de un fragmento del Libro de Alexandre</note>  
+            
+            
+            <lg type="poema" 
+                subtype="épica-culta" 
+                met="4x14" 
+                rhyme="AAAA"   
+                unisonancia="singular" 
+                isometrismo="isométrico" 
+                isoestrofismo="heteroestrófico" 
+                asonancia="consonante"> 
+                
+                
+                <lg n="329" type="terástico" met="4x14" rhyme="AAAA" ana="#sepulcro">
+                    <l xml:id="L1">Falló en un bel campo <caesura/>una grant sepultura,</l>
+                    <l xml:id="L2">do yazié soterrada <caesura/>la gente de su natura,</l>		
+                    <l xml:id="L3">que tenié cadaúno <caesura/>de suso su escriptura,</l>		
+                    <l xml:id="L4">que dizié cadaúno <caesura/>quí fuera su mestura.</l>
+            </lg> 
+            
+                <lg n="330" type="terástico" met="4x14" rhyme="AAAA" ana="#sepulcro">
+                    <l xml:id="L5">Falló entre los otros <caesura/>un sepulcro honrado,</l>
+                    <l xml:id="L6">todo de buenos viessos <caesura/>en derredor orlado;</l>	
+                    <l xml:id="L7">qui lo versificó <caesura/>fue omne bien letrado,</l>	
+                    <l xml:id="L8">ca puso grant razón <caesura/>en poco de dictado:</l>
+                </lg> 
+            
+                <lg n="331" type="terástico" met="4x14" rhyme="AAAA" ana="#sepulcro #troya">
+                    <l xml:id="L9">«Aquiles só, que yago <caesura/>so este mármol çerrado,</l>
+                    <l xml:id="L10">el que ovo a Éctor <caesura/>el troyano rancado;</l>		
+                    <l xml:id="L11">matome por la planta <caesura/>Paris el perjurado,</l>		
+                    <l xml:id="L12">a furto, sin sospecha, <caesura/>yaziendo desarmado».</l>
+                </lg> 
+            
+                <lg n="332" type="terástico" met="4x14" rhyme="AAAA" ana="#sepulcro">
+                    <l xml:id="L13">Quando ovo el rëy <caesura/>el pitafio catado,</l>
+                    <l xml:id="L14">dizié que de dos viessos <caesura/>nunca fue tan pagado;</l>	
+                    <l xml:id="L15">tovo que fue Aquiles <caesura/>omne aventurado,</l>		
+                    <l xml:id="L16">que ovo de su gesta <caesura/>dictador tan honrado.</l>
+                </lg>     
+                 
+           </lg>
+        </body>
+    </text>
+</TEI>

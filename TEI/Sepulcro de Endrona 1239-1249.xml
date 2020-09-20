@@ -75,74 +75,74 @@
             
             <lg type="poema" 
                 subtype="épica-culta" 
-                met="14,14,14,14" 
+                met="4x14" 
                 rhyme="AAAA"   
                 unisonancia="singular" 
                 isometrismo="isométrico" 
                 isoestrofismo="heteroestrófico" 
                 asonancia="consonante"> 
                 
-                <lg n="1239" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#sepulcro">
+                <lg n="1239" type="terástico" met="4x14" rhyme="AAAA" ana="#sepulcro">
                     <l xml:id="L1"><persName ref="#APL">Apeles</persName> el ebreo, <caesura/>un <term cRef="3">maestro</term> <term cRef="20">contado</term>,</l>		
                     <l xml:id="L2">que de <term cRef="25">lavor de manos</term> <caesura/>non ovo tan <term cRef="17">ortado</term>,</l>	
                     <l xml:id="L3"><term cRef="29">entalló</term> el <term cRef="64">sepulcro</term> <caesura/>en un <term cRef="152">mármol</term> <term cRef="172">preçiado</term></l>
                     <l xml:id="L4">—¡él se <term cRef="199">maravillava</term> <caesura/>quando lo ovo <term cRef="26">obrado</term>!—.</l>
                 </lg> 
-                <lg n="1240" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#sepulcro">
+                <lg n="1240" type="terástico" met="4x14" rhyme="AAAA" ana="#sepulcro">
                     <l xml:id="L5">Allí <term cRef="27">pintó</term> las <term cRef="144">estorias</term> <caesura/>quantas nunca cuntieron:</l>
                     <l xml:id="L6" ana="#caidalucifer">los ángeles del Çielo <caesura/>de quál guisa cayeron;</l>	
                     <l xml:id="L7" ana="#adanyeva">los parientes primeros <caesura/>cómo se malmetieron</l>
                     <l xml:id="L8" ana="#adanyeva">porque sobre deviedo <caesura/>la mançana comieron;</l>
                 </lg> 
-                <lg n="1241" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#sepulcro #patriarcas #noe">
+                <lg n="1241" type="terástico" met="4x14" rhyme="AAAA" ana="#sepulcro #patriarcas #noe">
                     <l xml:id="L9">estava más adelant’ <caesura/><persName ref="NOE">Noel</persName> el <term cRef="216">patrïarca</term>,</l>
                     <l xml:id="L10">los montes de <placeName ref="#ARM">Armenia</placeName> <caesura/>do arribó el arca;</l>	
                     <l xml:id="L11"><persName ref="SEM">Sem</persName>, <persName ref="#CAM">Cam</persName> e <persName ref="JAF">Jafet</persName>, <caesura/>cadauno en su comarca;</l>
                     <l xml:id="L12" ana="#torredebabel">los <term cRef="315">Gigantes</term> <term cRef="317">confusos</term> <caesura/>e la <term cRef="316">Torre</term> que es alta;</l>
                 </lg> 
-                <lg n="1242" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#sepulcro #patriarcas">
+                <lg n="1242" type="terástico" met="4x14" rhyme="AAAA" ana="#sepulcro #patriarcas">
                     <l xml:id="L13" ana="#abraham"><persName ref="#ABR">Abraham</persName> el católico, <caesura/><persName ref="#ISA">Isac</persName> çerca él;</l>
                     <l xml:id="L14" ana="#abraham">todos los Doze Tribos <caesura/>fijos de Israel,</l>		
                     <l xml:id="L15" ana="#moises">las plagas de <placeName ref="#EGP">Egipto</placeName> <caesura/>e el ángel crüel,</l>
                     <l xml:id="L16" ana="#moises">el täu en las puertas <caesura/>de sagne del añel,</l>
                 </lg> 
-                <lg n="1243" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#sepulcro #patriarcas #moises">
+                <lg n="1243" type="terástico" met="4x14" rhyme="AAAA" ana="#sepulcro #patriarcas #moises">
                     <l xml:id="L17">las carreras del mar <caesura/>e la muerte de <persName ref="#FAR">Farón</persName>,</l>
                     <l xml:id="L18">cómo pidién los pueblos <caesura/>rëy a <persName ref="#ARO">Arón</persName>,</l>		
                     <l xml:id="L19">cómo prendié la Lëy <caesura/><persName ref="#MOI">Möisés</persName> el varón,</l>
                     <l xml:id="L20">cómo se consumién <caesura/><persName ref="#DAT">Datán</persName> e <persName ref="#ABI">Abirón</persName>,</l>
                 </lg> 
-                <lg n="1244" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#sepulcro #patriarcas #moises">
+                <lg n="1244" type="terástico" met="4x14" rhyme="AAAA" ana="#sepulcro #patriarcas #moises">
                     <l xml:id="L21">de quál çevo bivieron <caesura/>por todo el desierto;</l>	
                     <l xml:id="L22">quál fue el tabernáculo, <caesura/>de quál guisa cubierto.</l>
                     <l xml:id="L23">¡Todo era <term cRef="77">notado</term> <caesura/>tan bien e tan en <term cRef="169">çierto</term></l>
                     <l xml:id="L24">que lo <term cRef="198">verié</term> todo omne <caesura/>como en libro abierto!</l>
                 </lg> 
-                <lg n="1245" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#sepulcro #patriarcas #moises">
+                <lg n="1245" type="terástico" met="4x14" rhyme="AAAA" ana="#sepulcro #patriarcas #moises">
                     <l xml:id="L25">En la otra <term cRef="144">estoria</term>, <caesura/>don <persName ref="#MOI">Möisés</persName> finado,</l>	
                     <l xml:id="L26">tenié en su lugar <caesura/><persName ref="JOS">Josüé</persName> el ducado;</l>		
                     <l xml:id="L27">metiolos en la tierra <caesura/>e fue bien adonado</l>
                     <l xml:id="L28">—es de Santa Iglesia <caesura/>oy en día plorado—.</l>
                 </lg> 
-                <lg n="1246" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#sepulcro #profetas">
+                <lg n="1246" type="terástico" met="4x14" rhyme="AAAA" ana="#sepulcro #profetas">
                     <l xml:id="L29">Allí eran los <term cRef="217">profetas</term>, <caesura/>convento general,</l>	
                     <l xml:id="L30">todos tablas en manos, <caesura/>todos con su <term cRef="146">señal</term>;</l>	
                     <l xml:id="L31">cadaúno qué dixo <caesura/>o en quál temporal,</l>
                     <l xml:id="L32">quisque en su <term cRef="147">escripto</term> <caesura/>de dó era natural.</l>
                 </lg> 
-                <lg n="1247" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#sepulcro #reyesdeisrael">
+                <lg n="1247" type="terástico" met="4x14" rhyme="AAAA" ana="#sepulcro #reyesdeisrael">
                     <l xml:id="L33"><persName ref="#DAV">David</persName> con su salterio <caesura/>sus salmos acordando;</l>
                     <l xml:id="L34"><persName ref="#SAL">Salamón</persName> faze el templo, <caesura/>justos judizios dando;</l>	
                     <l xml:id="L35"><persName ref="#ROB">Roboam</persName> en el regno <caesura/>metié çisma e vando.</l>
                     <l xml:id="L36">En es’ dia fue su <term cRef="26">obra</term> <caesura/><persName ref="#APL">Apeles</persName> <term cRef="45">ençerrando</term>.</l>
                 </lg> 
-                <lg n="1248" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#sepulcro #diosespaganos">
+                <lg n="1248" type="terástico" met="4x14" rhyme="AAAA" ana="#sepulcro #diosespaganos">
                     <l xml:id="L37">Las otras inçidençias <caesura/>de las gentes paganas,</l>
                     <l xml:id="L38">como non son <term cRef="171">abténticas</term>, <caesura/>yazién más <term cRef="107">orellanas</term>.</l>	
                     <l xml:id="L39">¡Tanto eran las <term cRef="144">estorias</term> <caesura/>muchas e <term cRef="330">adïanas</term></l>
                     <l xml:id="L40">que sedién sobr’el túmulo <caesura/>las gentes <term cRef="331">päusanas</term>!</l>
                 </lg> 
-                <lg n="1249" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#sepulcro">
+                <lg n="1249" type="terástico" met="4x14" rhyme="AAAA" ana="#sepulcro">
                     <l xml:id="L41">Quando ovo <persName ref="#APL">Apeles</persName> <caesura/>lo que sopo <term cRef="30">labrado</term>,</l>
                     <l xml:id="L42">fue en quatro <term cRef="118">colupnas</term> <caesura/>el <term cRef="64">sepulcro</term> <term cRef="32">alçado</term>.</l>
                     <l xml:id="L43">Fue con grandes obsequios <caesura/>el cuerpo condesado.</l>
