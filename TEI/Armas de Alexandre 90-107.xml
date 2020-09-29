@@ -84,13 +84,13 @@
                 <lg n="90" type="terástico" met="4x14" rhyme="AAAA" ana="#adobos">
                     <l xml:id="L1">Allí fueron aduchos <caesura/><term cRef="61">adobos</term> de grant guisa:</l>	
                     <l xml:id="L2">bien <term cRef="173">valié</term> tres mill marcos <caesura/>o demás la <term cRef="67">camisa</term>;</l>	
-                    <l xml:id="L3">el <term cRef="68">brïal</term> non serié <caesura/>bien comprado por <placeName ref="#PIS"><term cRef="617">Pisa</term></placeName>;</l>	
+                    <l xml:id="L3">el <term cRef="68">brïal</term> non serié <caesura/>bien comprado por <placeName ref="617">Pisa</placeName>;</l>	
                     <l xml:id="L4">non sé al <term cRef="69">manto</term> dar <caesura/><term cRef="172">preçio</term> por nulla guisa.</l>
             </lg>
                 <lg n="91" type="terástico" met="4x14" rhyme="AAAA" ana="#adobos">
                     <l xml:id="L5">La <term cRef="71">çinta</term> fue <term cRef="26">obrada</term> <caesura/>a muy grant <term cRef="175">maestría</term>:</l>	
-                    <l xml:id="L6"><term cRef="26">obrola</term> <term cRef="25">con sus manos</term> <caesura/>doña <persName ref="#FLO"><term cRef="298">Filosofía</term></persName>;</l>		
-                    <l xml:id="L7">más <term cRef="173">vale</term> la <term cRef="70">fiviella</term> <caesura/>que toda <placeName ref="LOM"><term cRef="417">Lombardía</term></placeName></l>		
+                    <l xml:id="L6"><term cRef="26">obrola</term> <term cRef="25">con sus manos</term> <caesura/>doña <persName ref="298">Filosofía</persName>;</l>		
+                    <l xml:id="L7">más <term cRef="173">vale</term> la <term cRef="70">fiviella</term> <caesura/>que toda <placeName ref="417">Lombardía</placeName></l>		
                     <l xml:id="L8">—¡más <term cRef="173">vale</term>, segunt creo, <caesura/>un poco que la mía!—.</l>
             </lg>
                 <lg n="92" type="terástico" met="4x14" rhyme="AAAA" ana="#adobos">
@@ -101,20 +101,20 @@
             </lg>
                 <lg n="93" type="terástico" met="4x14" rhyme="AAAA" ana="#adobos">
                     <l xml:id="L13">Este <term cRef="61">adobo</term> toviera <caesura/>su madre condesado;</l>
-                    <l xml:id="L14">al rey <persName ref="#FIL"><term cRef="619">Felipo</term></persName> fuera <caesura/>en presente embiado,</l>		
+                    <l xml:id="L14">al rey <persName ref="619">Felipo</persName> fuera <caesura/>en presente embiado,</l>		
                     <l xml:id="L15">e fueles muchas vezes <caesura/>en sueños demostrado</l>
                     <l xml:id="L16">que non fuesse nul omne <caesura/>de vestirlo osado.</l>
             </lg>
                 <lg n="94" type="terástico" met="4x14" rhyme="AAAA" ana="#armas">
                 <l xml:id="L17">La <term cRef="97">espada</term> fue <term cRef="183">rica</term>, <caesura/>que fue muy bien <term cRef="26">obrada</term></l>	
-                <l xml:id="L18">—fízola don <persName ref="#VUL"><term cRef="299">Vulcán</term></persName>:	 <caesura/>óvola bien <term cRef="44">temprada</term>—;</l>	
+                <l xml:id="L18">—fízola don <persName ref="299">Vulcán</persName>:	 <caesura/>óvola bien <term cRef="44">temprada</term>—;</l>	
                 <l xml:id="L19">avié grandes <term cRef="293">virtudes</term>, <caesura/>ca era <term cRef="188">encantada</term>:</l>		
                 <l xml:id="L20">¡la part’ do ella fuesse <caesura/>nunca serié rancada!</l>
             </lg>
                 <lg n="95" type="terástico" met="4x14" rhyme="AAAA" ana="#armas">
                 <l xml:id="L21">Non es ningún mercádor <caesura/>nin <term cRef="8">clérigo</term> d’escuela</l>	
                 <l xml:id="L22">que pudiés’ poner <term cRef="172">preçio</term> <caesura/>a la una <term cRef="92">espuela</term>;</l>	
-                <l xml:id="L23">oviera <persName ref="#ALX"><term cRef="618">Alexandre</term></persName> <caesura/>dallén’ mar una avuela:</l> 	
+                <l xml:id="L23">oviera <persName ref="618">Alexandre</persName> <caesura/>dallén’ mar una avuela:</l> 	
                 <l xml:id="L24">en donas ge las dieron <caesura/>quando fuera moçuela.</l>
             </lg>
                 <lg n="96" type="terástico" met="4x14" rhyme="AAAA" ana="#armas #escudo #mapamundi">
@@ -125,14 +125,14 @@
             </lg>
                 <lg n="97" type="terástico" met="4x14" rhyme="AAAA" ana="#armas #escudo #naturaleza">
             <l xml:id="L29">En medio de la <term cRef="304">tavla</term><caesura/> estava un <term cRef="280">león</term></l>		
-            <l xml:id="L30">que tenié yus’ la garfa <caesura/>a toda <placeName ref="#BAB"><term cRef="402">Babilón</term></placeName>:</l>		
-            <l xml:id="L31">¡catava contra <persName ref="#DAR"><term cRef="621">Dario</term></persName>, <caesura/><term cRef="203">semejava</term> fellón,</l>		
+            <l xml:id="L30">que tenié yus’ la garfa <caesura/>a toda <placeName ref="402">Babilón</placeName>:</l>		
+            <l xml:id="L31">¡catava contra <persName ref="621">Dario</persName>, <caesura/><term cRef="203">semejava</term> fellón,</l>		
             <l xml:id="L32">ca vermeja e turvia <caesura/>tenié su visïón!</l>
             </lg>
                 <lg n="98" type="terástico" met="4x14" rhyme="AAAA" ana="#armas #escudo">
              <l xml:id="L33">Tanta echava de <term cRef="184">lumbre</term> <caesura/>e tanto <term cRef="305">relampava</term></l>
              <l xml:id="L34">que vençié a la Luna <caesura/>e al Sol refertava:</l>		
-             <l xml:id="L35">¡<persName ref="#APL"><term cRef="300">Apeles</term></persName>, que nul omne <caesura/>mejor d’él non <term cRef="26">obrava</term>,</l>	
+             <l xml:id="L35">¡<persName ref="300">Apeles</persName>, que nul omne <caesura/>mejor d’él non <term cRef="26">obrava</term>,</l>	
              <l xml:id="L36">por mejor lo tenié <caesura/>quanto más lo <term cRef="201">catava</term>!</l>
             </lg>
                 <lg n="99" type="terástico" met="4x14" rhyme="AAAA" ana="#adobos">
@@ -166,8 +166,8 @@
                     <l xml:id="L56">bien convinié que fuesse <caesura/>de tal emperador!</l>
             </lg>
                 <lg n="104" type="terástico" met="4x14" rhyme="AAAA" ana="#adobos">
-                    <l xml:id="L57">Ovo el rey <persName ref="#FIL"><term cRef="619">Filipo</term></persName> <caesura/>este <term cRef="69">manto</term> ganado</l>		
-                    <l xml:id="L58">otro tiempo, quando ovo <caesura/>a <persName ref="XER"><term cRef="620">Serses</term></persName> arrancado;</l>
+                    <l xml:id="L57">Ovo el rey <persName ref="619">Filipo</persName> <caesura/>este <term cRef="69">manto</term> ganado</l>		
+                    <l xml:id="L58">otro tiempo, quando ovo <caesura/>a <persName ref="620">Serses</persName> arrancado;</l>
                     <l xml:id="L59">perdiolo él enant’, <caesura/>como omne malfadado;</l>
                     <l xml:id="L60">¡si non, tan mala guisa <caesura/>non fuera aontado!</l>
             </lg>

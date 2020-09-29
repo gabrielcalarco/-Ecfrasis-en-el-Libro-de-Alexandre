@@ -86,7 +86,7 @@
                 
                 <lg n="1460" type="terástico" met="4x14" rhyme="AAAA" ana="#babilonia #alrededores">
                     <l xml:id="L1">Quïérovos un poco <caesura/>todo lo ál dexar;</l>
-                    <l xml:id="L2">del pleito de <placeName ref="#BAB">Babiloña</placeName> <caesura/>vos quïero <term cRef="81">contar</term>:</l>	
+                    <l xml:id="L2">del pleito de <placeName ref="402">Babiloña</placeName> <caesura/>vos quïero <term cRef="81">contar</term>:</l>	
                     <l xml:id="L3">cuémo yaz’assentada <caesura/>en tan noble logar,</l>	
                     <l xml:id="L4">cuémo es abondada <caesura/>de <term cRef="231">ríos</term> e de <term cRef="230">mar</term>.</l>
                 </lg>
@@ -200,7 +200,7 @@
                     <l xml:id="L65"><term cRef="460">Margarita</term>, que siempre <caesura/>quiere yazer señera</l>
                     <l xml:id="L66">—siempre la troban sola, <caesura/>nunca ha compañera—,</l>
                     <l xml:id="L67">del roçío se cría, <caesura/>palabra verdadera,</l>		
-                    <l xml:id="L68">ca lo diz’ <persName ref="#ISI">san Esidro</persName>, <caesura/>que sopo la manera.</l>
+                    <l xml:id="L68">ca lo diz’ <persName ref="633">san Esidro</persName>, <caesura/>que sopo la manera.</l>
                 </lg>
                 
                 <lg n="1477" type="terástico" met="4x14" rhyme="AAAA" ana="#babilonia #alrededores #lapidario">
@@ -374,7 +374,7 @@
                 <lg n="1501" type="terástico" met="4x14" rhyme="AAAA" ana="#babilonia #alrededores">
                     <l xml:id="L165">Que todas sus noblezas <caesura/>vos queramos dezir,</l>
                     <l xml:id="L166">antes podrién tres días <caesura/>e tres noches troçir,</l>	
-                    <l xml:id="L167">ca <persName ref="#GAU">Galter</persName> non las pudo, <caesura/>maguer quiso, complir</l>
+                    <l xml:id="L167">ca <persName ref="634">Galter</persName> non las pudo, <caesura/>maguer quiso, complir</l>
                     <l xml:id="L168">—yo contra él non quiero <caesura/>nin podría venir—.</l>
                 </lg>
             
@@ -388,15 +388,15 @@
                 <lg n="1503" type="terástico" met="4x14" rhyme="AAAA" ana="#babilonia #alrededores">
                     <l xml:id="L173">Embían pora <term cRef="246">África</term> <caesura/>e pora <term cRef="245">Ëuropa</term></l>
                     <l xml:id="L174">las <term cRef="232">naves</term> cargadas <caesura/>d’<term cRef="432">espeçias</term> e de <term cRef="61">ropa</term></l>	
-                    <l xml:id="L175">—¡por ý traxo <persName ref="#ANP">Antípater</persName> <caesura/>en mal punto la copa!:</l>	
-                    <l xml:id="L176">¡ý priso <persName ref="#ALX">Alexandre</persName> <caesura/>en mal punto la sopa!—.</l>
+                    <l xml:id="L175">—¡por ý traxo <persName ref="635">Antípater</persName> <caesura/>en mal punto la copa!:</l>	
+                    <l xml:id="L176">¡ý priso <persName ref="618">Alexandre</persName> <caesura/>en mal punto la sopa!—.</l>
                 </lg>
             
                 <lg n="1504" type="terástico" met="4x14" rhyme="AAAA" ana="#babilonia #ciudad">
                     <l xml:id="L177">Quiero fablar del sito <caesura/>e de la su grandez,</l>
                     <l xml:id="L178">del alteza del <term cRef="497">muro</term> <caesura/>e de la su autez’,</l>		
                     <l xml:id="L179">de <term cRef="524">torres</term> e de <term cRef="119">puertas</term> <caesura/>quál a quál obedez’</l>		
-                    <l xml:id="L180">—¡serié pora <persName ref="#HOM">Omero</persName> <caesura/>grieve, ca non rafez!—.</l>
+                    <l xml:id="L180">—¡serié pora <persName ref="636">Omero</persName> <caesura/>grieve, ca non rafez!—.</l>
                 </lg>
             
                 <lg n="1505" type="terástico" met="4x14" rhyme="AAAA" ana="#babilonia #ciudad #torredebabel">
@@ -445,7 +445,7 @@
                     <l xml:id="L205">Assí está oy día <caesura/>la <term cRef="316">torre</term> empeçada,</l>
                     <l xml:id="L206">pero de fiera guisa, <caesura/>sobra mucho alçada.</l>		
                     <l xml:id="L207">Por la <term cRef="317">confusïón</term> <caesura/>que fue entr’ellos dada</l>	
-                    <l xml:id="L208">es toda essa tierra <caesura/><placeName ref="#BAB">Babiloña</placeName> clamada.</l>
+                    <l xml:id="L208">es toda essa tierra <caesura/><placeName ref="402">Babiloña</placeName> clamada.</l>
                 </lg>
             
                 <lg n="1512" type="terástico" met="4x14" rhyme="AAAA" ana="#babilonia #ciudad #torredebabel">
@@ -463,36 +463,36 @@
                 </lg>
             
                 <lg n="1514" type="terástico" met="4x14" rhyme="AAAA" ana="#babilonia #ciudad #torredebabel">
-                    <l xml:id="L217">Otros dizen <term cRef="337">ingleses</term>, <caesura/><term cRef="335">otros son de <placeName ref="#BRE">Bretaña</placeName></term>;</l>
-                    <l xml:id="L218"><term cRef="504">escotes</term> e <term cRef="505">irlandos</term>, <caesura/><term cRef="339">otros de <placeName ref="#ALE">Alemaña</placeName></term>;</l>		
-                    <l xml:id="L219"><term cRef="334">los que viven en <placeName ref="#FRA">Galas</placeName></term> <caesura/>favlan de otra maña.</l>	
-                    <l xml:id="L220">Non es con estos <placeName ref="#SIR">Siria</placeName> <caesura/>en lenguajes calaña.</l>
+                    <l xml:id="L217">Otros dizen <term cRef="337">ingleses</term>, <caesura/><term cRef="335">otros son de <placeName ref="639">Bretaña</placeName></term>;</l>
+                    <l xml:id="L218"><term cRef="504">escotes</term> e <term cRef="505">irlandos</term>, <caesura/><term cRef="339">otros de <placeName ref="640">Alemaña</placeName></term>;</l>		
+                    <l xml:id="L219"><term cRef="334">los que viven en <placeName ref="416">Galas</placeName></term> <caesura/>favlan de otra maña.</l>	
+                    <l xml:id="L220">Non es con estos <placeName ref="602">Siria</placeName> <caesura/>en lenguajes calaña.</l>
                 </lg>
             
                 <lg n="1515" type="terástico" met="4x14" rhyme="AAAA" ana="#babilonia #ciudad #torredebabel">
-                    <l xml:id="L221"><term cRef="506">Otros son los de <placeName ref="#PER">Persia</placeName></term>, <caesura/>otros son los <term cRef="507">indianos</term>;</l>
-                    <l xml:id="L222"><term cRef="508">otros los de <placeName ref="#SAM">Samaria</placeName></term>, <caesura/>otros los <term cRef="509">medïano</term>s;</l>		
-                    <l xml:id="L223"><term cRef="510">otros los de <placeName ref="#PAN">Panfilia</placeName></term> <caesura/>e otros los <term cRef="511">ircanos</term>;</l>		
-                    <l xml:id="L224"><term cRef="512">otros son los de <placeName ref="#FRI">Frigia</placeName></term>, <caesura/>otros los <term cRef="513">libïanos</term>.</l>
+                    <l xml:id="L221"><term cRef="506">Otros son los de <placeName ref="608">Persia</placeName></term>, <caesura/>otros son los <term cRef="507">indianos</term>;</l>
+                    <l xml:id="L222"><term cRef="508">otros los de <placeName ref="641">Samaria</placeName></term>, <caesura/>otros los <term cRef="509">medïano</term>s;</l>		
+                    <l xml:id="L223"><term cRef="510">otros los de <placeName ref="607">Panfilia</placeName></term> <caesura/>e otros los <term cRef="511">ircanos</term>;</l>		
+                    <l xml:id="L224"><term cRef="512">otros son los de <placeName ref="606">Frigia</placeName></term>, <caesura/>otros los <term cRef="513">libïanos</term>.</l>
                 </lg>
             
                 <lg n="1516" type="terástico" met="4x14" rhyme="AAAA" ana="#babilonia #ciudad #torredebabel">
                     <l xml:id="L225">Otros dizen <term cRef="514">partos</term>, <caesura/>otros <term cRef="515">elamitanos</term>;</l>
-                    <l xml:id="L226"><term cRef="516">otros de <placeName ref="#CAP">Capadoçia</placeName></term>, <caesura/>otros <term cRef="517">ninivitanos</term>;</l>		
+                    <l xml:id="L226"><term cRef="516">otros de <placeName ref="642">Capadoçia</placeName></term>, <caesura/>otros <term cRef="517">ninivitanos</term>;</l>		
                     <l xml:id="L227">otros son <term cRef="518">çireneos</term>, <caesura/>otros <term cRef="519">cananitanos</term>;</l>		
                     <l xml:id="L228">otros los <term cRef="520">almozones</term> <caesura/>e otros los <term cRef="521">çitanos</term>.</l>
                 </lg>
             
                 <lg n="1517" type="terástico" met="4x14" rhyme="AAAA" ana="#babilonia #ciudad #torredebabel">
-                    <l xml:id="L229">El omne que crïado <caesura/>fuesse en <placeName ref="#BAB">Babilonia</placeName></l>
-                    <l xml:id="L230">de duro entendrié <caesura/>la lengua de <placeName ref="#ICO">Iconia</placeName>.</l>		
+                    <l xml:id="L229">El omne que crïado <caesura/>fuesse en <placeName ref="402">Babilonia</placeName></l>
+                    <l xml:id="L230">de duro entendrié <caesura/>la lengua de <placeName ref="643">Iconia</placeName>.</l>		
                     <l xml:id="L231">Más son de otras tantas <caesura/>que cuenta la estoria,</l>		
                     <l xml:id="L232">mas yo pora saberlas <caesura/>de seso non he copia.</l>
                 </lg>
             
                 <lg n="1518" type="terástico" met="4x14" rhyme="AAAA" ana="#babilonia #ciudad #torredebabel">
-                    <l xml:id="L233"><persName ref="#SMI">Semíramis</persName> la buena, <caesura/>una sabia reína,</l>
-                    <l xml:id="L234">pobló a <placeName ref="#BAB">Babiloña</placeName> <caesura/>por la graçia divina.</l>		
+                    <l xml:id="L233"><persName ref="637">Semíramis</persName> la buena, <caesura/>una sabia reína,</l>
+                    <l xml:id="L234">pobló a <placeName ref="402">Babiloña</placeName> <caesura/>por la graçia divina.</l>		
                     <l xml:id="L235">Quando lo quiso Dios, <caesura/>aguisolo aína,</l>		
                     <l xml:id="L236">pero antes despiso <caesura/>mucha buena farina.</l>
                 </lg>
@@ -522,7 +522,7 @@
                     <l xml:id="L249">Por quanto es la <term cRef="237">villa</term> <caesura/>de tal vuelta poblada</l>
                     <l xml:id="L250">que los unos a los otros <caesura/>non se entienden nada,</l>
                     <l xml:id="L251">por tanto es de nombre <caesura/>de <term cRef="317">confusïón</term> dada,</l>	
-                    <l xml:id="L252">ca <placeName ref="#BAB">Babilón</placeName> confusio <caesura/>es en latín clamada.</l>
+                    <l xml:id="L252">ca <placeName ref="402">Babilón</placeName> confusio <caesura/>es en latín clamada.</l>
                 </lg>
             
                 <lg n="1523" type="terástico" met="4x14" rhyme="AAAA" ana="#babilonia #ciudad">
@@ -584,7 +584,7 @@
                 <lg n="1531" type="terástico" met="4x14" rhyme="AAAA" ana="#babilonia #ciudad">
                     <l xml:id="L285">Nunca podrién a ella <caesura/>enemigos venir</l>
                     <l xml:id="L286">que bien de dos jornadas <caesura/>se pudiessen cobrir.</l>	
-                    <l xml:id="L287"><persName ref="#NAB">Nabucodonosor</persName> <caesura/>allí solié dormir,</l>		
+                    <l xml:id="L287"><persName ref="227">Nabucodonosor</persName> <caesura/>allí solié dormir,</l>		
                     <l xml:id="L288">el que se fazié dios <caesura/>a los omnes dezir.</l>
                 </lg>
             
@@ -597,13 +597,13 @@
             
                 <lg n="1533" type="terástico" met="4x14" rhyme="AAAA" ana="#babilonia #ciudad">
                     <l xml:id="L293">Fuera qui lo pudiesse <caesura/>por espaçio veer,</l>
-                    <l xml:id="L294">el bien de <placeName ref="#BAB">Babilonia</placeName> <caesura/>non lo podrié creer.</l>		
+                    <l xml:id="L294">el bien de <placeName ref="402">Babilonia</placeName> <caesura/>non lo podrié creer.</l>		
                     <l xml:id="L295">¡Busque otro <term cRef="3">maestro</term> <caesura/>qui más quisier’ saber,</l>	
                     <l xml:id="L296">ca yo en mi materia <caesura/>quiero torno fazer!</l>
                 </lg>
             
                 <lg n="1534" type="terástico" met="4x14" rhyme="AAAA" ana="#babilonia #entradadealejandro">
-                    <l xml:id="L297"> El rëy <persName ref="#ALX">Alexandre</persName> <caesura/>plógol’ de voluntat</l>
+                    <l xml:id="L297"> El rëy <persName ref="618">Alexandre</persName> <caesura/>plógol’ de voluntat</l>
                     <l xml:id="L298">quando’l besó la mano <caesura/>el rëy de la <term cRef="238">çibdat</term>:</l>	
                     <l xml:id="L299">vío que’l avié fecho <caesura/>Dïos grant caridat,</l>		
                     <l xml:id="L300">ca non la ganara <caesura/>menos de mortaldat.</l>
@@ -676,7 +676,7 @@
                     <l xml:id="L337">Vinién más a espaldas <caesura/>todos los del regnado;</l>
                     <l xml:id="L338">cuémo vinién de buelta <caesura/>era desbaratado,</l>	
                     <l xml:id="L339">mas, en cabo, las dueñas <caesura/>vinién tan aguisado</l>	
-                    <l xml:id="L340">que les avié el rëy <caesura/><persName ref="#ALX">Alexandre</persName> grant grado.</l>
+                    <l xml:id="L340">que les avié el rëy <caesura/><persName ref="618">Alexandre</persName> grant grado.</l>
                 </lg>
             
                 <lg n="1545" type="terástico" met="4x14" rhyme="AAAA" ana="#babilonia #entradadealejandro">

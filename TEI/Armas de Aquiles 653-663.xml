@@ -86,7 +86,7 @@
                 
              <lg n="653" type="terástico" met="4x14" rhyme="AAAA" ana="#armas">     
                 <l xml:id="L1">En pocas de <term cRef="310">palabras</term> <caesura/>vos quiero <term cRef="79">destajar</term></l>		
-                <l xml:id="L2">la <term cRef="26">obra</term> de las <term cRef="62">armas</term> <caesura/>qu’<persName ref="#AQL"><term cRef="210">Aquiles</term></persName> mandó far,</l>	
+                <l xml:id="L2">la <term cRef="26">obra</term> de las <term cRef="62">armas</term> <caesura/>qu’<persName ref="210">Aquiles</persName> mandó far,</l>	
                 <l xml:id="L3">que, si por orden todo <caesura/>lo quesiés’én’ <term cRef="77">notar</term>,</l>		
                 <l xml:id="L4">serié un <term cRef="311">brevïario</term> <caesura/>que prendrié grant logar.</l>
              </lg>     
@@ -137,7 +137,7 @@
                 <l xml:id="L29">Maguer no’l fazié mengua, <caesura/>ca era encantado,</l>		
                 <l xml:id="L30">vistió una <term cRef="91">loriga</term> <caesura/>de <term cRef="159">azero colado</term>,</l>		
                 <l xml:id="L31"><term cRef="174">terliz</term> e bien <term cRef="43">texida</term>, <caesura/>el <term cRef="93">almofre</term> doblado,</l>		
-                <l xml:id="L32">que del maço de <persName ref="#HEC"><term cRef="211">Éctor</term></persName> <caesura/>non oviesse cuidado.</l>
+                <l xml:id="L32">que del maço de <persName ref="211">Éctor</persName> <caesura/>non oviesse cuidado.</l>
              </lg>
                 
              <lg n="661" type="terástico" met="4x14" rhyme="AAAA" ana="#armas"> 

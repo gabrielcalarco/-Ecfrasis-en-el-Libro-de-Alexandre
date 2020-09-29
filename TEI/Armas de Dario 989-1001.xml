@@ -85,24 +85,24 @@
                 
                  <lg n="989" type="terástico" met="4x14" rhyme="AAAA" ana="#armas"> 
                      <l xml:id="L1">Conviene que <term cRef="312">fablemos</term>, <caesura/>entre las otras cosas,</l>		
-                     <l xml:id="L2">de las <term cRef="62">armas</term> de <persName ref="#DAR"><term cRef="621">Dario</term></persName>, <caesura/>que fueron muy <term cRef="172">preçiosas</term>:</l>
+                     <l xml:id="L2">de las <term cRef="62">armas</term> de <persName ref="621">Dario</persName>, <caesura/>que fueron muy <term cRef="172">preçiosas</term>:</l>
                      <l xml:id="L3">de <term cRef="26">obra</term> eran <term cRef="178">firmes</term>, <caesura/>de <term cRef="202">pareçer</term> <term cRef="164">fermosas</term>,</l>		
                      <l xml:id="L4">pora traer <term cRef="313">livianas</term>, <caesura/>¡mas non bien <term cRef="314">venturosas</term>!</l>
                  </lg>
                  <lg n="990" type="terástico" met="4x14" rhyme="AAAA" ana="#armas #escudo #reyesdeoriente #torredebabel"> 
                      <l xml:id="L5">Avié en el <term cRef="98">escudo</term> <caesura/>mucha <term cRef="177">bella</term> <term cRef="144">estoria</term>,</l>		
-                     <l xml:id="L6">las <term cRef="148">gestas</term> que fizieron <caesura/>los <term cRef="219">reys de <placeName ref="#BAB"><term cRef="402">Babilonia</term></placeName></term>.</l>	
+                     <l xml:id="L6">las <term cRef="148">gestas</term> que fizieron <caesura/>los <term cRef="219">reys de <placeName ref="402">Babilonia</placeName></term>.</l>	
                      <l xml:id="L7">Yazié de los <term cRef="315">Gigantes</term> <caesura/>ý toda la memoria,</l>		
                      <l xml:id="L8">quando de los <term cRef="317">lenguajes</term> <caesura/>prisieron la discordia.</l>
                  </lg>  
                 <lg n="991" type="terástico" met="4x14" rhyme="AAAA" ana="#armas #escudo #reyesdeoriente"> 
-                     <l xml:id="L9">Seyé del otro cabo <caesura/>el rëy de <placeName ref="#CAL"><term cRef="611">Caldea</term></placeName>,</l>
-                     <l xml:id="L10"><persName ref="#NAB"><term cRef="227">Nabucodonosor</term></persName>, <caesura/>que conquiso <placeName ref="#JUD"><term cRef="615">Judea</term></placeName>;</l>		
-                     <l xml:id="L11">cuémo priso <placeName ref="#JER"><term cRef="622">Sïon</term></placeName>, <caesura/><placeName ref="#TRI"><term cRef="623">Trípol</term></placeName> e <placeName ref="#TAB"><term cRef="624">Tabarea</term></placeName></l>	
+                     <l xml:id="L9">Seyé del otro cabo <caesura/>el rëy de <placeName ref="611">Caldea</placeName>,</l>
+                     <l xml:id="L10"><persName ref="227">Nabucodonosor</persName>, <caesura/>que conquiso <placeName ref="615">Judea</placeName>;</l>		
+                     <l xml:id="L11">cuémo priso <placeName ref="622">Sïon</placeName>, <caesura/><placeName ref="623">Trípol</placeName> e <placeName ref="624">Tabarea</placeName></l>
                      <l xml:id="L12">e quántas ontas fizo <caesura/>sobre la gent’ebrea.</l>
                 </lg>
                 <lg n="992" type="terástico" met="4x14" rhyme="AAAA" ana="#armas #escudo #reyesdeoriente"> 
-                     <l xml:id="L13">Cuémo destruyó el templo <caesura/>en la <placeName ref="#JER"><term cRef="622">Santa Çibdat</term></placeName>,</l>
+                     <l xml:id="L13">Cuémo destruyó el templo <caesura/>en la <placeName ref="622">Santa Çibdat</placeName>,</l>
                      <l xml:id="L14">cuémo fueron los tribos <caesura/>en su cabtividat;</l>
                      <l xml:id="L15">cuémo sobre el rëy	<caesura/>fizo tal crüeldat,</l>	
                      <l xml:id="L16">que li sacó los ojos, <caesura/>ca assí fue verdat.</l>
@@ -115,7 +115,7 @@
                 </lg>
                 <lg n="994" type="terástico" met="4x14" rhyme="AAAA" ana="#armas #escudo #reyesdeoriente"> 
                      <l xml:id="L21">Non lo vío por <term cRef="19">seso</term> <caesura/>que fuesse ý <term cRef="37">metido</term></l>
-                     <l xml:id="L22"><persName ref="#NAB"><term cRef="227">Nabucodonosor</term></persName> <caesura/>cuémo fue enloquido,</l>
+                     <l xml:id="L22"><persName ref="227">Nabucodonosor</persName> <caesura/>cuémo fue enloquido,</l>
                      <l xml:id="L23">ca andido siet’años <caesura/>de memoria sallido,</l>
                      <l xml:id="L24">pero tornó en cabo <caesura/>en todo su sentido.</l>
                 </lg>
@@ -127,15 +127,15 @@
                 </lg>
                 <lg n="996" type="terástico" met="4x14" rhyme="AAAA" ana="#armas #escudo #reyesdeoriente"> 
                      <l xml:id="L29">Mas en cabo estava <caesura/><term cRef="18">sotilmente</term> <term cRef="26">obrado</term></l>
-                     <l xml:id="L30">el buen regno de <placeName ref="#PER"><term cRef="608">Persia</term></placeName> <caesura/>cuémo fue empeçado:</l>
+                     <l xml:id="L30">el buen regno de <placeName ref="608">Persia</placeName> <caesura/>cuémo fue empeçado:</l>
                      <l xml:id="L31">la mano que feziera <caesura/>el <term cRef="168">obscuro</term> <term cRef="75">ditado</term>,</l>	
-                     <l xml:id="L32">lo que don <persName ref="#BAL"><term cRef="625">Baltasar</term></persName> <caesura/>ovo determinado.</l>
+                     <l xml:id="L32">lo que don <persName ref="625">Baltasar</persName> <caesura/>ovo determinado.</l>
                 </lg>
                 <lg n="997" type="terástico" met="4x14" rhyme="AAAA" ana="#armas #escudo #reyesdeoriente"> 
-                     <l xml:id="L33">La <term cRef="144">estoria</term> de <persName ref="#CIR"><term cRef="228">Çiro</term></persName> <caesura/>fue derredor echada,</l>
+                     <l xml:id="L33">La <term cRef="144">estoria</term> de <persName ref="228">Çiro</persName> <caesura/>fue derredor echada,</l>
                      <l xml:id="L34">qué grant conquista fizo <caesura/>todo por su espada;</l>
                      <l xml:id="L35">cuémo fue la compaña <caesura/>de Israel quitada;</l>
-                     <l xml:id="L36"><persName ref="#CRE"><term cRef="626">Cresus</term></persName> en la su guerra <caesura/>cómo non ganó nada.</l>
+                     <l xml:id="L36"><persName ref="626">Cresus</persName> en la su guerra <caesura/>cómo non ganó nada.</l>
                 </lg>
                 <lg n="998" type="terástico" met="4x14" rhyme="AAAA" ana="#armas #escudo #reyesdeoriente"> 
                      <l xml:id="L37">Cuémo fue a escuso <caesura/>en los montes crïado</l>
@@ -150,7 +150,7 @@
                      <l xml:id="L44">por que peor los pueda <caesura/>en cabo quebrantar!</l>
                 </lg>
                 <lg n="1000" type="terástico" met="4x14" rhyme="AAAA" ana="#armas #escudo #reyesdeoriente"> 
-                     <l xml:id="L45"><persName ref="#CIR"><term cRef="228">Çiro</term></persName> fue poderoso <caesura/>en tierra e en mar;</l>
+                     <l xml:id="L45"><persName ref="228">Çiro</persName> fue poderoso <caesura/>en tierra e en mar;</l>
                      <l xml:id="L46">dioli Dios grant ventura, <caesura/>diol’ mucho a ganar,</l>
                      <l xml:id="L47">pero tod’ su ganançia <caesura/>no’l pudo emparar:</l>	
                      <l xml:id="L48">¡óvolo una fembra <caesura/>en cabo a matar!</l>

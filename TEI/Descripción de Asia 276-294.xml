@@ -106,9 +106,9 @@
                 </lg>
             
                 <lg n="279" type="terástico" met="4x14" rhyme="AAAA" ana="#asia #mapamundi">
-                    <l xml:id="L13">Es clamada por nombre <caesura/><placeName ref="#ASI">Asïa</placeName> la primera;</l>
-                    <l xml:id="L14">la segunda, <placeName ref="#EUR">Europa</placeName>; <caesura/><placeName ref="#AFR">África</placeName>, la terçera:</l>	
-                    <l xml:id="L15">tiene el cristianismo <caesura/>a <placeName ref="#EUR">Europa</placeName> señera;</l>	
+                    <l xml:id="L13">Es clamada por nombre <caesura/><placeName ref="426">Asïa</placeName> la primera;</l>
+                    <l xml:id="L14">la segunda, <placeName ref="245">Europa</placeName>; <caesura/><placeName ref="246">África</placeName>, la terçera:</l>	
+                    <l xml:id="L15">tiene el cristianismo <caesura/>a <placeName ref="245">Europa</placeName> señera;</l>	
                     <l xml:id="L16">¡moros tienen las otras, <caesura/>por nuestra grant dentera!</l>
                 </lg>
             
@@ -120,7 +120,7 @@
                 </lg>
             
                 <lg n="281" type="terástico" met="4x14" rhyme="AAAA" ana="#asia #mapamundi">
-                    <l xml:id="L21">Dexemos de las otras: <caesura/>de <placeName ref="#ASI">Asia</placeName> nós contemos;</l>
+                    <l xml:id="L21">Dexemos de las otras: <caesura/>de <placeName ref="426">Asia</placeName> nós contemos;</l>
                     <l xml:id="L22">a lo que començamos, <caesura/>en esso nos tornemos;</l>	
                     <l xml:id="L23">lo uno que <term cRef="547">leyemos</term> <caesura/>e lo ál que <term cRef="204">oyemos</term>,</l>		
                     <l xml:id="L24">de las mayores cosas <caesura/>recabdo vos daremos.</l>
@@ -134,79 +134,79 @@
                 </lg>
             
                 <lg n="283" type="terástico" met="4x14" rhyme="AAAA" ana="#asia #mapamundi">
-                    <l xml:id="L29">Tanto tiene <placeName ref="#ASI">Asïa</placeName> <caesura/>cuemo todo lo ál</l>
+                    <l xml:id="L29">Tanto tiene <placeName ref="426"><term cRef="426">Asïa</term></placeName> <caesura/>cuemo todo lo ál</l>
                     <l xml:id="L30">—aún un poquïello <caesura/>passa de la señal—,</l>	
-                    <l xml:id="L31">ond’asmó <persName ref="#ALX">Alexandre</persName> <caesura/>un seso natural:</l>	
+                    <l xml:id="L31">ond’asmó <persName ref="618">Alexandre</persName> <caesura/>un seso natural:</l>	
                     <l xml:id="L32">¡que, si prisiesse essa, <caesura/>avrié todo lo ál!</l>
                 </lg>
             
                 <lg n="284" type="terástico" met="4x14" rhyme="AAAA" ana="#asia #mapamundi">
-                    <l xml:id="L33">Es más rica de todas <caesura/><placeName ref="#ASI">Asïa</placeName>, e mayor;</l>
+                    <l xml:id="L33">Es más rica de todas <caesura/><placeName ref="426">Asïa</placeName>, e mayor;</l>
                     <l xml:id="L34">aún, cuemo es buena, <caesura/>devié seer mejor:</l>	
                     <l xml:id="L35" ana="#nuevotestamento">devienle reverençia <caesura/>todas dar, e honor,</l>	
-                    <l xml:id="L36" ana="#nuevotestamento">ca ý naçió don <persName ref="#CRI">Christus</persName>, <caesura/>el nuestro Redemptor.</l>
+                    <l xml:id="L36" ana="#nuevotestamento">ca ý naçió don Christus, <caesura/>el nuestro Redemptor.</l>
                 </lg>
             
                 <lg n="285" type="terástico" met="4x14" rhyme="AAAA" ana="#asia #mapamundi">
-                    <l xml:id="L37" ana="#patriarcas">Dent’ fueron los patriarcas, <caesura/>omnes de santa vida;</l>
-                    <l xml:id="L38" ana="#profetas">otrossí los profetas, <caesura/>una gent’escogida;</l>	
-                    <l xml:id="L39" ana="#nuevotestamento">fue del Fi de la <persName ref="#VIR">Virgen</persName> <caesura/>la su sangre vertida:</l>	
-                    <l xml:id="L40" ana="#nuevotestamento">por ent’ fue la fallençia <caesura/>de <persName ref="#ADA">Adam</persName> redemida.</l>
+                    <l xml:id="L37" ana="#patriarcas">Dent’ fueron los <term cRef="216">patriarcas</term>, <caesura/>omnes de santa vida;</l>
+                    <l xml:id="L38" ana="#profetas">otrossí los <term cRef="217">profetas</term>, <caesura/>una gent’escogida;</l>	
+                    <l xml:id="L39" ana="#nuevotestamento">fue del Fi de la Virgen <caesura/>la su sangre vertida:</l>	
+                    <l xml:id="L40" ana="#nuevotestamento">por ent’ fue la fallençia <caesura/>de <persName ref="628">Adam</persName> redemida.</l>
                 </lg>
             
                 <lg n="286" type="terástico" met="4x14" rhyme="AAAA" ana="#asia #mapamundi">
                     <l xml:id="L41" ana="#nuevotestamento">Toda Santa Iglesia <caesura/>dent’ priso el çimiento;</l>
                     <l xml:id="L42" ana="#nuevotestamento">dent’ fueron los apóstolos, <caesura/>un honrado conviento;</l>
-                    <l xml:id="L43">pero a <placeName ref="#EUR">Ëuropa</placeName> <caesura/>Dios le dio alçamiento,</l>		
-                    <l xml:id="L44">ca es <placeName ref="#ROM">Roma</placeName> <caesura/>cabeça de tod’ordenamiento.</l>
+                    <l xml:id="L43">pero a <placeName ref="245">Ëuropa</placeName> <caesura/>Dios le dio alçamiento,</l>		
+                    <l xml:id="L44">ca es <placeName ref="352">Roma</placeName> <caesura/>cabeça de tod’ordenamiento.</l>
                 </lg>
             
                 <lg n="287" type="terástico" met="4x14" rhyme="AAAA" ana="#asia #mapamundi">
-                    <l xml:id="L45">Ixen del <placeName ref="#PSO">Paraíso</placeName> <caesura/>las quatro <term cRef="229">aguas</term> santas;</l>
+                    <l xml:id="L45">Ixen del <placeName ref="577">Paraíso</placeName> <caesura/>las quatro <term cRef="229">aguas</term> santas;</l>
                     <l xml:id="L46" ana="#lapidario">ý son las buenas piedras <caesura/><term cRef="448">jaspes</term> e <term cRef="451">dïamantas</term>;</l>	
-                    <l xml:id="L47" ana="#animales">en <placeName ref="#IND">India</placeName> es do son <caesura/>las grandes <term cRef="554">elefantas</term>,</l>		
+                    <l xml:id="L47" ana="#animales">en <placeName ref="342">India</placeName> es do son <caesura/>las grandes <term cRef="554">elefantas</term>,</l>		
                     <l xml:id="L48">do sembran dos vegadas <caesura/>e cogen otras tantas.</l>
                 </lg>
             
                 <lg n="288" type="terástico" met="4x14" rhyme="AAAA" ana="#asia #mapamundi">
-                    <l xml:id="L49"><placeName ref="#CAU">Cáucaso</placeName>, un <term cRef="399">mont</term>’alto, <caesura/>li yaz’en un rencón</l>
+                    <l xml:id="L49"><placeName ref="603">Cáucaso</placeName>, un <term cRef="399">mont</term>’alto, <caesura/>li yaz’en un rencón</l>
                     <l xml:id="L50">—cuemo dizen, en part’ <caesura/>yaze de <term cRef="551">Septentrión</term>—;</l>
                     <l xml:id="L51">náçenle muchos <term cRef="231">ríos</term> <caesura/>cabdales en fondón,</l>		
                     <l xml:id="L52">mas <term ref="#INO">Indos</term> es más frío <caesura/>de quantos que ý son.</l>
                 </lg>
             
                 <lg n="289" type="terástico" met="4x14" rhyme="AAAA" ana="#asia #mapamundi">
-                    <l xml:id="L53">En <placeName ref="#ASI">Asia</placeName> yaz’<placeName ref="#ASR">Asiria</placeName>, <caesura/><term cRef="233">tierra</term> muy abondada;</l>
-                    <l xml:id="L54"><placeName ref="#FRI">Frigia</placeName> e <placeName ref="#PAN">Panfilïa</placeName>, <caesura/>que non le deven nada;</l>	
-                    <l xml:id="L55">allí son <placeName ref="#PER">Persia</placeName> e <placeName ref="#MED">Media</placeName>, <caesura/><term cRef="302">regnos</term> de fuerte entrada;</l>
-                    <l xml:id="L56">non merez’ <placeName ref="#MES">Mesopótamia</placeName> <caesura/>que sea olvidada;</l>
+                    <l xml:id="L53">En <placeName ref="246">Asia</placeName> yaz’<placeName ref="605">Asiria</placeName>, <caesura/><term cRef="233">tierra</term> muy abondada;</l>
+                    <l xml:id="L54"><placeName ref="606">Frigia</placeName> e <placeName ref="607">Panfilïa</placeName>, <caesura/>que non le deven nada;</l>	
+                    <l xml:id="L55">allí son <placeName ref="608">Persia</placeName> e <placeName ref="610">Media</placeName>, <caesura/><term cRef="302">regnos</term> de fuerte entrada;</l>
+                    <l xml:id="L56">non merez’ <placeName ref="609">Mesopótamia</placeName> <caesura/>que sea olvidada;</l>
                 </lg>
             
                 <lg n="290" type="terástico" met="4x14" rhyme="AAAA" ana="#asia #mapamundi">
-                    <l xml:id="L57"><placeName ref="#BAB">Babilonia</placeName> la magna, <caesura/>que todo el mundo val’,</l>
+                    <l xml:id="L57"><placeName ref="402">Babilonia</placeName> la magna, <caesura/>que todo el mundo val’,</l>
                     <l xml:id="L58">que val’ más que un <term cRef="302">regno</term> <caesura/>que es emperïal;</l>	
-                    <l xml:id="L59"><placeName ref="#CAL">Caldea</placeName>, que es tierra <caesura/>de todo comunal;</l>		
-                    <l xml:id="L60">ý son <placeName ref="#SAB">Saba</placeName> e <placeName ref="#SIR">Siria</placeName>, <caesura/>buenos uno con ál;</l>
+                    <l xml:id="L59"><placeName ref="611">Caldea</placeName>, que es tierra <caesura/>de todo comunal;</l>		
+                    <l xml:id="L60">ý son <placeName ref="346">Saba</placeName> e <placeName ref="602">Siria</placeName>, <caesura/>buenos uno con ál;</l>
                 </lg>
             
                 <lg n="291" type="terástico" met="4x14" rhyme="AAAA" ana="#asia #mapamundi">
-                    <l xml:id="L61" ana="#nuevotstamento"><placeName ref="#ARA">Arabia</placeName>, do a <persName ref="#CRI">Cristo</persName> <caesura/>vinieron con pitança,</l>
-                    <l xml:id="L62" ana="#nuevotstamento">quando fizo en los niños <caesura/><persName ref="#ERO">Herodes</persName> la matança;</l>	
-                    <l xml:id="L63"><placeName ref="#ARM">Armenia</placeName>, que al çielo <caesura/>tañe por demostrança</l>		
-                    <l xml:id="L64" ana="#noe">el arca de <persName ref="#NOE">Noé</persName>, <caesura/>do fizo la folgança;</l>
+                    <l xml:id="L61" ana="#nuevotstamento"><placeName ref="612">Arabia</placeName>, do a <persName ref="630">Cristo</persName> <caesura/>vinieron con pitança,</l>
+                    <l xml:id="L62" ana="#nuevotstamento">quando fizo en los niños <caesura/><persName ref="631">Herodes</persName> la matança;</l>	
+                    <l xml:id="L63" ana="#noe"><placeName ref="613">Armenia</placeName>, que al çielo <caesura/>tañe por demostrança</l>		
+                    <l xml:id="L64" ana="#noe">el arca de <persName ref="220">Noé</persName>, <caesura/>do fizo la folgança;</l>
                 </lg>
             
                 <lg n="292" type="terástico" met="4x14" rhyme="AAAA" ana="#asia #mapamundi #moises">
-                    <l xml:id="L65"><placeName ref="#EGP">Egipto</placeName>, do los fijos <caesura/>de Israel ixieron;</l>
-                    <l xml:id="L66">el <placeName ref="#SIN">monte de Sinäi</placeName>, <caesura/>do la Lëy prisieron;</l>	
+                    <l xml:id="L65"><placeName ref="341">Egipto</placeName>, do los fijos <caesura/>de Israel ixieron;</l>
+                    <l xml:id="L66">el <placeName ref="614">monte de Sinäi</placeName>, <caesura/>do la Lëy prisieron;</l>	
                     <l xml:id="L67">el desierto do muchos <caesura/>años estovïeron,</l>	
                     <l xml:id="L68">do muchas sorrostradas <caesura/>e porfaçio ovieron;</l>
                 </lg>
             
                 <lg n="293" type="terástico" met="4x14" rhyme="AAAA" ana="#asia #mapamundi #nuevotestamento">
-                    <l xml:id="L69">la tierra de <placeName ref="#JUD">Judea</placeName>, <caesura/>que es mejor de todas,</l>
-                    <l xml:id="L70">do con Santa Iglesia <caesura/><persName ref="#CRI">Cristo</persName> fizo las bodas;</l>	
-                    <l xml:id="L71">esta, con <placeName ref="#PAL">Palestina</placeName>, <caesura/>deve atar las otras:</l>	
+                    <l xml:id="L69">la tierra de <placeName ref="615">Judea</placeName>, <caesura/>que es mejor de todas,</l>
+                    <l xml:id="L70">do con Santa Iglesia <caesura/><persName ref="630">Cristo</persName> fizo las bodas;</l>	
+                    <l xml:id="L71">esta, con <placeName ref="616">Palestina</placeName>, <caesura/>deve atar las otras:</l>	
                     <l xml:id="L72">contra esta, las otras <caesura/>devién seer devotas.</l>
                 </lg>
             
