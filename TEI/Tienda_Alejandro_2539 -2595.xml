@@ -94,7 +94,7 @@
                 <lg n="2540" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda">
                     <l xml:id="L5">Larga era la <term cRef="66">tienda</term>, <caesura/>redonda e bien <term cRef="48">tajada</term>:</l>
                     <l xml:id="L6">a dos mill cavalleros <caesura/>darié larga posada.</l>		
-                    <l xml:id="L7"><persName ref="#APL">Apeles</persName> el <term cRef="3">maestro</term> <caesura/>la ovo <term cRef="28">debuxada</term>:</l>		
+                    <l xml:id="L7"><persName ref="300">Apeles</persName> el <term cRef="3">maestro</term> <caesura/>la ovo <term cRef="28">debuxada</term>:</l>		
                     <l xml:id="L8">¡non farié otro omne <caesura/><term cRef="26">obra</term> tan <term cRef="176">esmerada</term>!</l>
                 </lg>
                 
@@ -123,7 +123,7 @@
                     <l xml:id="L21">Tenié en la cabeça <caesura/>tres <term cRef="126">pomas</term> de buen <term cRef="150">oro</term>;</l>
                     <l xml:id="L22">qualsequiere de todas <caesura/><term cRef="173">valié</term> un grant tesoro:</l>		
                     <l xml:id="L23">¡nunca tan <term cRef="183">ricas</term> vío <caesura/>judío nin moro!;</l>
-                    <l xml:id="L24">¡si en el mundo fuessen, <caesura/>saberlas devrié <persName ref="#POR">Poro</persName>!</l>
+                    <l xml:id="L24">¡si en el mundo fuessen, <caesura/>saberlas devrié <persName ref="687">Poro</persName>!</l>
                 </lg>
                 
                 <lg n="2545" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda">
@@ -168,7 +168,7 @@
                 <lg n="2550" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #caidalucifer">
                     <l xml:id="L45">Era en la <term cRef="129">corona</term> <caesura/>el <term cRef="577">Çielo</term> debuxado,</l>
                     <l xml:id="L46">todo de crïaturas <caesura/>angélicas poblado,</l>	
-                    <l xml:id="L47">mas el lugar do fue <caesura/><persName ref="#LUC">Luçifer</persName> derribado</l>
+                    <l xml:id="L47">mas el lugar do fue <caesura/><persName ref="660">Luçifer</persName> derribado</l>
                     <l xml:id="L48">todo estava yermo, <caesura/>pobre e deshonrado.</l>
                 </lg>
                 
@@ -189,7 +189,7 @@
                 <lg n="2553" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #noe">
                     <l xml:id="L57">Las ondas del Diluvio <caesura/>tanto querién sobir:</l>
                     <l xml:id="L58">por somo de Tiburio <caesura/>querién fascas complir.</l>
-                    <l xml:id="L59"><persName ref="#NOE">Noé</persName> bevié el vino; <caesura/>non lo podié sofrir:</l>
+                    <l xml:id="L59"><persName ref="220">Noé</persName> bevié el vino; <caesura/>non lo podié sofrir:</l>
                     <l xml:id="L60">yazié desordenado; <caesura/>querielo encobrir.</l>
                 </lg>
                 
@@ -296,13 +296,13 @@
                
                 <lg n="2567" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #clasicos">
                     <l xml:id="L113">Las <term cRef="144">estorias</term> cabdales, <caesura/>fechas de buen <term cRef="27">pintor</term>,</l>
-                    <l xml:id="L114">la una fue de <persName ref="#HER">Hércules</persName>, <caesura/>firme campeador,</l>
+                    <l xml:id="L114">la una fue de <persName ref="206">Hércules</persName>, <caesura/>firme campeador,</l>
                     <l xml:id="L115">en el segundo <term cRef="124">paño</term> <caesura/>de la <term cRef="183">rica</term> <term cRef="320">lavor</term>;</l>
-                    <l xml:id="L116">la otra fue de <persName ref="#PAR">Paris</persName>, <caesura/>un buen doñeador.</l>
+                    <l xml:id="L116">la otra fue de <persName ref="209">Paris</persName>, <caesura/>un buen doñeador.</l>
                 </lg>
                 
                 <lg n="2568" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #hercules">
-                    <l xml:id="L117">Niñuelo era <persName ref="#HER">Hércules</persName>, <caesura/>assaz poco moçuelo;</l>
+                    <l xml:id="L117">Niñuelo era <persName ref="206">Hércules</persName>, <caesura/>assaz poco moçuelo;</l>
                     <l xml:id="L118">adur abrié los ojos, <caesura/>yazié en el berçuelo,</l>
                     <l xml:id="L119">entendió la madrastra <caesura/>que era fuerte niñuelo:</l>
                     <l xml:id="L120">¡querrié fer a la madre <caesura/>veer del fijo duelo!</l>
@@ -318,19 +318,19 @@
                 <lg n="2570" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #hercules">
                     <l xml:id="L125">Desent’ivas’ crïando: <caesura/>sintiese muy calient’,</l>
                     <l xml:id="L126">vençié muchas batallas, <caesura/>conquirié mucha gent’,</l>
-                    <l xml:id="L127">echava ad <persName ref="#ANT">Anteon</persName> <caesura/>muy aviltadament’,</l>
-                    <l xml:id="L128">plantava sus mojones <caesura/>luego en <placeName ref="#GIB">Oçident’</placeName>.</l>
+                    <l xml:id="L127">echava ad <persName ref="678">Anteon</persName> <caesura/>muy aviltadament’,</l>
+                    <l xml:id="L128">plantava sus mojones <caesura/>luego en <placeName ref="550">Oçident’</placeName>.</l>
                 </lg>
                 
                 <lg n="2571" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #troya">
-                    <l xml:id="L129"><persName ref="#PAR">Paris</persName> rabió a <persName ref="#HEL">Elena</persName>: <caesura/>fizo grant adulterio;</l>
-                    <l xml:id="L130">reçibiéronlo en <placeName ref="#TRO">Troya</placeName>, <caesura/>mas fue por su lazerio.</l>
+                    <l xml:id="L129"><persName ref="209">Paris</persName> rabió a <persName ref="680">Elena</persName>: <caesura/>fizo grant adulterio;</l>
+                    <l xml:id="L130">reçibiéronlo en <placeName ref="679">Troya</placeName>, <caesura/>mas fue por su lazerio.</l>
                     <l xml:id="L131">Non quisieron los griegos <caesura/>sofrir tan grant lazerio:</l>
                     <l xml:id="L132">¡juraron de vengarse <caesura/>todos en el salterio!</l>
                 </lg>
                 
                 <lg n="2572" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #troya">
-                    <l xml:id="L133">Vinién çercar a <placeName ref="#TRO">Troya</placeName> <caesura/>con agüeros catados;</l>
+                    <l xml:id="L133">Vinién çercar a <placeName ref="679">Troya</placeName> <caesura/>con agüeros catados;</l>
                     <l xml:id="L134">estavan los de dentro <caesura/>firmes e aguisados.</l>
                     <l xml:id="L135">Eran de todas partes <caesura/>represos e lazrados,</l>
                     <l xml:id="L136">pero ellos e ellos <caesura/>estavan esforçados.</l>
@@ -338,20 +338,20 @@
                 
                 <lg n="2573" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #troya">
                     <l xml:id="L137">Los diez años passados <caesura/>que la çerca durava,</l>
-                    <l xml:id="L138">avié a morir <persName ref="#HEC">Éctor</persName> <caesura/>—<persName ref="#AQL">Aquiles</persName> lo matava—,</l>	
+                    <l xml:id="L138">avié a morir <persName ref="211">Éctor</persName> <caesura/>—<persName ref="210">Aquiles</persName> lo matava—,</l>	
                     <l xml:id="L139">pero aún la villa <caesura/>en duro se parava,</l>
                     <l xml:id="L140">ca el término puesto <caesura/>aún non se llegava.</l>
                 </lg>
                 
                 <lg n="2574" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #troya">
-                    <l xml:id="L141">Avié aún <persName ref="#AQL">Aquiles</persName> <caesura/>en cabo a morir;</l>
+                    <l xml:id="L141">Avié aún <persName ref="210">Aquiles</persName> <caesura/>en cabo a morir;</l>
                     <l xml:id="L142">ende, avién el cavallo <caesura/>los griegos a bastir:</l>		
-                    <l xml:id="L143">avién con grant engaño <caesura/><placeName ref="#TRO">Troya</placeName> a conquerir;</l>
+                    <l xml:id="L143">avién con grant engaño <caesura/><placeName ref="679">Troya</placeName> a conquerir;</l>
                     <l xml:id="L144">oviéronla por suelo <caesura/>toda a destroír.</l>
                 </lg>
                 
                 <lg n="2575" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #clasicos">
-                    <l xml:id="L145">Quando el rey <persName ref="#ALX">Alexandre</persName> <caesura/>estas <term cRef="148">gestas</term> <term cRef="198">veyé</term>,</l>
+                    <l xml:id="L145">Quando el rey <persName ref="618">Alexandre</persName> <caesura/>estas <term cRef="148">gestas</term> <term cRef="198">veyé</term>,</l>
                     <l xml:id="L146">creçiel’el coraçón, <caesura/>grant esfuerço cogié.</l>
                     <l xml:id="L147">Dizié que por so pleito <caesura/>un clavo non darié:</l>
                     <l xml:id="L148">¡si non se mejorasse, <caesura/>morir se dexarié!</l>
@@ -379,8 +379,8 @@
                 
                 <lg n="2578" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #mapamundi">
                     <l xml:id="L157">Las tres partes del mundo <caesura/>yazién bien devisadas:</l>
-                    <l xml:id="L158"><placeName ref="#ASI">Asïa</placeName> a las otras <caesura/>avielas engañadas;</l>
-                    <l xml:id="L159"><placeName ref="#EUR">Ëuropa</placeName> e <placeName ref="#AFR">África</placeName> <caesura/>yazién muy renconadas:</l>
+                    <l xml:id="L158"><placeName ref="426">Asïa</placeName> a las otras <caesura/>avielas engañadas;</l>
+                    <l xml:id="L159"><placeName ref="245">Ëuropa</placeName> e <placeName ref="246">África</placeName> <caesura/>yazién muy renconadas:</l>
                     <l xml:id="L160">deviendo seer fijas, <caesura/>semejavan anadas.</l>
                 </lg>
                 
@@ -392,36 +392,36 @@
                 </lg>
                 
                 <lg n="2580" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #mapamundi">
-                    <l xml:id="L165"><placeName ref="#TAJ">Tajo</placeName>, <placeName ref="#DUE">Duero</placeName> e <placeName ref="#EBR">Ebro</placeName> <caesura/>tres <term cRef="229">aguas</term> son cabdales;</l>
-                    <l xml:id="L166"><placeName ref="#COG">Cogolla</placeName> e <placeName ref="#MON">Moncayo</placeName>, <caesura/>enfiestos dos <term cRef="399">poyales</term>:</l>
-                    <l xml:id="L167">en <placeName ref="#ESP">España</placeName> ave <caesura/>estos çinco señales,</l>
+                    <l xml:id="L165"><placeName ref="393">Tajo</placeName>, <placeName ref="394">Duero</placeName> e <placeName ref="395">Ebro</placeName> <caesura/>tres <term cRef="229">aguas</term> son cabdales;</l>
+                    <l xml:id="L166"><placeName ref="400">Cogolla</placeName> e <placeName ref="401">Moncayo</placeName>, <caesura/>enfiestos dos <term cRef="399">poyales</term>:</l>
+                    <l xml:id="L167">en <placeName ref="344">España</placeName> ave <caesura/>estos çinco señales,</l>
                     <l xml:id="L168">con mucho buen <term cRef="239">castiello</term> <caesura/>e <term cRef="237">villas</term> naturales.</l>
                 </lg>
                 
                 <lg n="2581" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #mapamundi">
-                    <l xml:id="L169">¿Qué mejores querades <caesura/>que <placeName ref="#BUR">Burgos</placeName> e <placeName ref="#PAM">Pamplona</placeName>,</l>
-                    <l xml:id="L170"><placeName ref="#SOR">Sorïa</placeName> e <placeName ref="#TOL">Toledo</placeName>, <caesura/><placeName ref="#LEO">León</placeName> e <placeName ref="#LIS">Lixbona</placeName>?</l>
-                    <l xml:id="L171">Por <placeName ref="#GAS">Gascoña</placeName> corrié <caesura/>el<term cRef="231">río</term> de <placeName ref="#GAR">Garona</placeName>;</l>		
-                    <l xml:id="L172">en esta yaz’ <placeName ref="#BOR">Bordel</placeName>, <caesura/>vezina de <placeName ref="#BAY">Bayona</placeName>.</l>
+                    <l xml:id="L169">¿Qué mejores querades <caesura/>que <placeName ref="403">Burgos</placeName> e <placeName ref="404">Pamplona</placeName>,</l>
+                    <l xml:id="L170"><placeName ref="405">Sorïa</placeName> e <placeName ref="406">Toledo</placeName>, <caesura/><placeName ref="408">León</placeName> e <placeName ref="407">Lixbona</placeName>?</l>
+                    <l xml:id="L171">Por <placeName ref="415">Gascoña</placeName> corrié <caesura/>el<term cRef="231">río</term> de <placeName ref="396">Garona</placeName>;</l>		
+                    <l xml:id="L172">en esta yaz’ <placeName ref="410">Bordel</placeName>, <caesura/>vezina de <placeName ref="409">Bayona</placeName>.</l>
                 </lg>
                 
                 <lg n="2582" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #mapamundi">
-                    <l xml:id="L173">La <term cRef="238">çibdat</term> de <placeName ref="#PAR">París</placeName> <caesura/>yazié en media <placeName ref="#FRA">Françia</placeName>;</l>
+                    <l xml:id="L173">La <term cRef="238">çibdat</term> de <placeName ref="414">París</placeName> <caesura/>yazié en media <placeName ref="416">Françia</placeName>;</l>
                     <l xml:id="L174">de toda <term cRef="8">clerezía</term> <caesura/>avié grant abundançia.</l>	
-                    <l xml:id="L175"><placeName ref="#TOU">Tors</placeName> yazié sobre <placeName ref="#LEI">Leire</placeName>, <caesura/><term cRef="237">villa</term> de grant ganançia;</l>
-                    <l xml:id="L176">más delante corrié <placeName ref="#ROD">Ruédano</placeName>, <caesura/><term cRef="231">río</term> de abundançia.</l>
+                    <l xml:id="L175"><placeName ref="411">Tors</placeName> yazié sobre <placeName ref="397">Leire</placeName>, <caesura/><term cRef="237">villa</term> de grant ganançia;</l>
+                    <l xml:id="L176">más delante corrié <placeName ref="398">Ruédano</placeName>, <caesura/><term cRef="231">río</term> de abundançia.</l>
                 </lg>
                 
                 <lg n="2583" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #mapamundi">
-                    <l xml:id="L177">Yazién en <placeName ref="#LOM">Lombardía</placeName> <caesura/><placeName ref="#PAV">Pavía</placeName> e <placeName ref="#MIL">Milana</placeName></l>
-                    <l xml:id="L178">—pero detrás dexamos <caesura/><placeName ref="#BER">Bergoña</placeName> e <placeName ref="#VIA">Vïana</placeName>—.</l>	
-                    <l xml:id="L179"><placeName ref="#BOL">Boloña</placeName> sobre todas <caesura/>pareçe palaçiana:</l>		
+                    <l xml:id="L177">Yazién en <placeName ref="417">Lombardía</placeName> <caesura/><placeName ref="412">Pavía</placeName> e <placeName ref="413">Milana</placeName></l>
+                    <l xml:id="L178">—pero detrás dexamos <caesura/><placeName ref="419">Bergoña</placeName> e <placeName ref="420">Vïana</placeName>—.</l>	
+                    <l xml:id="L179"><placeName ref="421">Boloña</placeName> sobre todas <caesura/>pareçe palaçiana:</l>		
                     <l xml:id="L180">de lëys e decretos <caesura/>essa es la fontana.</l>
                 </lg>
                 
                 <lg n="2584" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #mapamundi">
-                    <l xml:id="L181">En cabo de <placeName ref="#TOS">Toscana</placeName>, <caesura/><placeName ref="#LOM">Lombardía</placeName> passada,</l>
-                    <l xml:id="L182">en ribera de <placeName ref="#TIB">Tibre</placeName> <caesura/>yazié <placeName ref="#ROM">Roma</placeName> poblada;</l>		
+                    <l xml:id="L181">En cabo de <placeName ref="418">Toscana</placeName>, <caesura/><placeName ref="417">Lombardía</placeName> passada,</l>
+                    <l xml:id="L182">en ribera de <placeName ref="349">Tibre</placeName> <caesura/>yazié <placeName ref="352">Roma</placeName> poblada;</l>		
                     <l xml:id="L183">yazié el que la ovo <caesura/>primero çimentada,</l>		
                     <l xml:id="L184">de su hermano mismo <caesura/>la cabeça cortada.</l>
                 </lg>
@@ -434,14 +434,14 @@
                 </lg>
                 
                 <lg n="2586" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #mapamundi">
-                    <l xml:id="L189">Los castiellos de <placeName ref="#ASI">Asia</placeName> <caesura/>con todas sus heredades</l>
+                    <l xml:id="L189">Los castiellos de <placeName ref="426">Asia</placeName> <caesura/>con todas sus heredades</l>
                     <l xml:id="L190">—ya nós <term cRef="312">fablamos</term> d’ellos, <caesura/>si bien vos acordades—,</l>
                     <l xml:id="L191">los tribus, los linajes, <caesura/>los tiempos, las edades,</l>
                     <l xml:id="L192">todos yazién en ella <caesura/>con sus propïedades.</l>
                 </lg>
                 
                 <lg n="2587" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #mapamundi">
-                    <l xml:id="L193"><persName ref="#ALX">Alexandre</persName> en ella <caesura/>lo podié <term cRef="422">perçebir</term></l>
+                    <l xml:id="L193"><persName ref="618">Alexandre</persName> en ella <caesura/>lo podié <term cRef="422">perçebir</term></l>
                     <l xml:id="L194">quánto avié conquisto, <caesura/>quánto por conquerir:</l>	
                     <l xml:id="L195">non se le podié <term cRef="233">tierra</term> <caesura/>alçar nin encobrir</l>
                     <l xml:id="L196">que él non la sopiesse <caesura/>buscar e combatir.</l>
@@ -457,32 +457,32 @@
                     <l xml:id="L197"><term cRef="76">Escrivió</term> el <term cRef="3">maestro</term> <caesura/>en el quarto <term cRef="390">fastial</term></l>
                     <l xml:id="L198">las <term cRef="148">gestas</term> del buen rëy; <caesura/>sópolas bien <term cRef="27">pintar</term>:</l>	
                     <l xml:id="L199">de quántos años era <caesura/>quando empeçó reinar;</l>	
-                    <l xml:id="L200">cómo sopo el cuello <caesura/>de <persName ref="#NIC">Nicolao</persName> domar.</l>
+                    <l xml:id="L200">cómo sopo el cuello <caesura/>de <persName ref="681">Nicolao</persName> domar.</l>
                 </lg>
                 
                 <lg n="2589" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #alejandro">
-                    <l xml:id="L201">Quál muerte fizo dar <caesura/>al falso de <persName ref="#PAU">Pausón</persName>,</l>
-                    <l xml:id="L202">el que al rey <persName ref="#FIL">Felipo</persName> <caesura/>mató a träiçión;</l>
-                    <l xml:id="L203">cómo destruyó <placeName ref="#TEB">Tebas</placeName> <caesura/>e sobre quál razón;</l>
-                    <l xml:id="L204">cómo ovo <placeName ref="#ATE">Atenas</placeName> <caesura/>pïedat e perdón.</l>
+                    <l xml:id="L201">Quál muerte fizo dar <caesura/>al falso de <persName ref="682">Pausón</persName>,</l>
+                    <l xml:id="L202">el que al rey <persName ref="619">Felipo</persName> <caesura/>mató a träiçión;</l>
+                    <l xml:id="L203">cómo destruyó <placeName ref="683">Tebas</placeName> <caesura/>e sobre quál razón;</l>
+                    <l xml:id="L204">cómo ovo <placeName ref="351">Atenas</placeName> <caesura/>pïedat e perdón.</l>
                 </lg>
                 
                 <lg n="2590" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #alejandro">
-                    <l xml:id="L205">Cómo passó a <placeName ref="#ASI">Asia</placeName> <caesura/>a <persName ref="#DAR">Darïo</persName> buscar;</l>
-                    <l xml:id="L206">cómo a <placeName ref="#TRO">Troya</placeName> ovo <caesura/>en <placeName ref="#FRI">Frigia</placeName> a fallar.</l>
-                    <l xml:id="L207">La fazienda de <placeName ref="#TIR">Tiro</placeName> <caesura/>non la quiso lexar:</l>
+                    <l xml:id="L205">Cómo passó a <placeName ref="426">Asia</placeName> <caesura/>a <persName ref="621">Darïo</persName> buscar;</l>
+                    <l xml:id="L206">cómo a <placeName ref="679">Troya</placeName> ovo <caesura/>en <placeName ref="606">Frigia</placeName> a fallar.</l>
+                    <l xml:id="L207">La fazienda de <placeName ref="684">Tiro</placeName> <caesura/>non la quiso lexar:</l>
                     <l xml:id="L208">cómo sopo su onta <caesura/>el rëy bien vengar.</l>
                 </lg>
                 
                 <lg n="2591" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #alejandro">
-                    <l xml:id="L209">El torneo de <persName ref="#MEN">Ménona</persName>, <caesura/>que valió lit campal,</l>
+                    <l xml:id="L209">El torneo de <persName ref="685">Ménona</persName>, <caesura/>que valió lit campal,</l>
                     <l xml:id="L210">que duró tres días <caesura/>—¡fazienda fue cabdal!—;</l>
                     <l xml:id="L211">cómo a los judíos <caesura/>otorgó su señal;</l>
                     <l xml:id="L212">cómo desvolvïó <caesura/>la lazada real.</l>
                 </lg>
                 
                 <lg n="2592" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #alejandro">
-                    <l xml:id="L213">La fazienda de <persName ref="#DAR">Dario</persName>, <caesura/>el buen emperador:</l>
+                    <l xml:id="L213">La fazienda de <persName ref="621">Dario</persName>, <caesura/>el buen emperador:</l>
                     <l xml:id="L214">quáles fueron en ella <caesura/>muertos por su señor;</l>	
                     <l xml:id="L215">cómo murió cadauno, <caesura/>quál fue el matador;</l>
                     <l xml:id="L216">la prisión de los fijos <caesura/>e de la su uxor;</l>
@@ -491,13 +491,13 @@
                 <lg n="2593" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #alejandro">
                     <l xml:id="L217">la grant emperadriz <caesura/>cómo fue soterrada</l>
                     <l xml:id="L218">e la su <term cRef="64">sepoltura</term> <caesura/>cómo fue <term cRef="28">debuxada</term>.</l>
-                    <l xml:id="L219">Cómo rancó a <persName ref="#DAR">Dario</persName> <caesura/>la segunda vegada;</l>
-                    <l xml:id="L220">cómo fue <placeName ref="#BAB">Babilonia</placeName> <caesura/>conquista e poblada.</l>
+                    <l xml:id="L219">Cómo rancó a <persName ref="621">Dario</persName> <caesura/>la segunda vegada;</l>
+                    <l xml:id="L220">cómo fue <placeName ref="402">Babilonia</placeName> <caesura/>conquista e poblada.</l>
                 </lg>
                 
                 <lg n="2594" type="terástico" met="14,14,14,14" rhyme="AAAA" ana="#tienda #alejandro">
-                    <l xml:id="L221">La träiçión de <persName ref="#DAR">Dario</persName>: <caesura/>cómo murió traído,</l>
-                    <l xml:id="L222">cómo fue soterrado <caesura/>e <persName ref="#BES">Bessus</persName> escarnido.</l>
+                    <l xml:id="L221">La träiçión de <persName ref="621">Dario</persName>: <caesura/>cómo murió traído,</l>
+                    <l xml:id="L222">cómo fue soterrado <caesura/>e <persName ref="668">Bessus</persName> escarnido.</l>
                     <l xml:id="L223">Fue el su casamiento <caesura/>más aína metido:</l>	
                     <l xml:id="L224">el campo de la <term cRef="66">tienda</term> <caesura/>con esto fue <term cRef="423">complido</term>.</l>
                 </lg>
@@ -512,7 +512,7 @@
                     <l xml:id="L225">Non quiero de la <term cRef="66">tienda</term> <caesura/>fer grant <term cRef="424">alegoría</term></l>
                     <l xml:id="L226">—non quiero detener <caesura/>en <term cRef="310">palabra</term> el día—:</l>
                     <l xml:id="L227">quánto podié <term cRef="173">valer</term> <caesura/><term cRef="172">preçiar</term> non lo sabría;</l>
-                    <l xml:id="L228">¡non la podrié comprar <caesura/>el aver d’<placeName ref="#ALM">Almaría</placeName>!</l>
+                    <l xml:id="L228">¡non la podrié comprar <caesura/>el aver d’<placeName ref="686">Almaría</placeName>!</l>
                 </lg>
                 
                 
